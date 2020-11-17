@@ -1,0 +1,812 @@
+[
+ {
+   "round": 1,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "Austria",
+   "venue": "Barratt Reserve 1",
+   "date": "28/6/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 1,
+   "hometeam": "",
+   "awayteam": "Pulteney",
+   "venue": "",
+   "date": "28/6/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 1,
+   "hometeam": "Monarchs",
+   "awayteam": "Old Plymptonians",
+   "venue": "Barratt Reserve 3",
+   "date": "28/6/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 1,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "West Beach Legends",
+   "venue": "Barratt Reserve 4",
+   "date": "28/6/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 1,
+   "hometeam": "Southern Sharks",
+   "awayteam": "Royal Ajvar",
+   "venue": "Barratt Reserve 5",
+   "date": "28/6/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 2,
+   "hometeam": "Pulteney",
+   "awayteam": "Southern Sharks",
+   "venue": "Barratt Reserve 1",
+   "date": "5/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 2,
+   "hometeam": "Austria",
+   "awayteam": "Sturt-Marion B",
+   "venue": "Barratt Reserve 2",
+   "date": "5/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 2,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "",
+   "venue": "",
+   "date": "5/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 2,
+   "hometeam": "West Beach Legends",
+   "awayteam": "Monarchs",
+   "venue": "Barratt Reserve 4",
+   "date": "5/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 2,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "Adelaide Spurs",
+   "venue": "Barratt Reserve 5",
+   "date": "5/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 3,
+   "hometeam": "West Beach Legends",
+   "awayteam": "Austria",
+   "venue": "Barratt Reserve 1",
+   "date": "12/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 3,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "",
+   "venue": "",
+   "date": "12/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 3,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "Southern Sharks",
+   "venue": "Barratt Reserve 3",
+   "date": "12/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 3,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "Old Plymptonians",
+   "venue": "Barratt Reserve 4",
+   "date": "12/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 3,
+   "hometeam": "Monarchs",
+   "awayteam": "Pulteney",
+   "venue": "Barratt Reserve 5",
+   "date": "12/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 4,
+   "hometeam": "Pulteney",
+   "awayteam": "Adelaide Spurs",
+   "venue": "Barratt Reserve 4",
+   "date": "19/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 4,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "Monarchs",
+   "venue": "Barratt Reserve 5",
+   "date": "19/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 4,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "West Beach Legends",
+   "venue": "Barratt Reserve 2",
+   "date": "19/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 4,
+   "hometeam": "Southern Sharks",
+   "awayteam": "Old Plymptonians",
+   "venue": "Barratt Reserve 1",
+   "date": "19/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 4,
+   "hometeam": "",
+   "awayteam": "Austria",
+   "venue": "",
+   "date": "19/7/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 5,
+   "hometeam": "",
+   "awayteam": "Sturt-Marion B",
+   "venue": "",
+   "date": "26/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 5,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "West Beach Legends",
+   "venue": "Barratt Reserve 5",
+   "date": "26/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 5,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "Pulteney",
+   "venue": "Barratt Reserve 2",
+   "date": "26/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 5,
+   "hometeam": "Austria",
+   "awayteam": "Royal Ajvar",
+   "venue": "Barratt Reserve 1",
+   "date": "26/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 5,
+   "hometeam": "Monarchs",
+   "awayteam": "Southern Sharks",
+   "venue": "Barratt Reserve 3",
+   "date": "26/7/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 6,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "Royal Ajvar",
+   "venue": "Barratt Reserve 4",
+   "date": "2/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 6,
+   "hometeam": "Monarchs",
+   "awayteam": "Adelaide Spurs",
+   "venue": "Barratt Reserve 5",
+   "date": "2/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 6,
+   "hometeam": "Pulteney",
+   "awayteam": "West Beach Legends",
+   "venue": "Barratt Reserve 2",
+   "date": "2/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 6,
+   "hometeam": "",
+   "awayteam": "Southern Sharks",
+   "venue": "",
+   "date": "2/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 6,
+   "hometeam": "Austria",
+   "awayteam": "Old Plymptonians",
+   "venue": "Barratt Reserve 3",
+   "date": "2/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 7,
+   "hometeam": "West Beach Legends",
+   "awayteam": "Old Plymptonians",
+   "venue": "Barratt Reserve 4",
+   "date": "9/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 7,
+   "hometeam": "Southern Sharks",
+   "awayteam": "Austria",
+   "venue": "Barratt Reserve 5",
+   "date": "9/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 7,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "Monarchs",
+   "venue": "Barratt Reserve 2",
+   "date": "9/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 7,
+   "hometeam": "Pulteney",
+   "awayteam": "Sturt-Marion B",
+   "venue": "Barratt Reserve 1",
+   "date": "9/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 7,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "",
+   "venue": "",
+   "date": "9/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 8,
+   "hometeam": "Pulteney",
+   "awayteam": "Royal Ajvar",
+   "venue": "Barratt Reserve 4",
+   "date": "16/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 8,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "Sturt-Marion B",
+   "venue": "Barratt Reserve 5",
+   "date": "16/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 8,
+   "hometeam": "Southern Sharks",
+   "awayteam": "Adelaide Spurs",
+   "venue": "Barratt Reserve 2",
+   "date": "16/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 8,
+   "hometeam": "Austria",
+   "awayteam": "Monarchs",
+   "venue": "Barratt Reserve 1",
+   "date": "16/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 8,
+   "hometeam": "",
+   "awayteam": "West Beach Legends",
+   "venue": "",
+   "date": "16/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 9,
+   "hometeam": "Monarchs",
+   "awayteam": "",
+   "venue": "",
+   "date": "23/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 9,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "Royal Ajvar",
+   "venue": "Barratt Reserve 5",
+   "date": "23/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 9,
+   "hometeam": "Austria",
+   "awayteam": "Pulteney",
+   "venue": "Barratt Reserve 2",
+   "date": "23/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 9,
+   "hometeam": "West Beach Legends",
+   "awayteam": "Southern Sharks",
+   "venue": "Barratt Reserve 1",
+   "date": "23/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 9,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "Sturt-Marion B",
+   "venue": "Barratt Reserve 3",
+   "date": "23/8/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 10,
+   "hometeam": "Austria",
+   "awayteam": "Adelaide Spurs",
+   "venue": "Barratt Reserve 4",
+   "date": "30/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 10,
+   "hometeam": "Pulteney",
+   "awayteam": "",
+   "venue": "",
+   "date": "30/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 10,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "Monarchs",
+   "venue": "Barratt Reserve 2",
+   "date": "30/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 10,
+   "hometeam": "West Beach Legends",
+   "awayteam": "Sturt-Marion B",
+   "venue": "Barratt Reserve 1",
+   "date": "30/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 10,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "Southern Sharks",
+   "venue": "Barratt Reserve 3",
+   "date": "30/8/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 11,
+   "hometeam": "Southern Sharks",
+   "awayteam": "Pulteney",
+   "venue": "Barratt Reserve 4",
+   "date": "6/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 11,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "Austria",
+   "venue": "Barratt Reserve 5",
+   "date": "6/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 11,
+   "hometeam": "",
+   "awayteam": "Old Plymptonians",
+   "venue": "",
+   "date": "6/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 11,
+   "hometeam": "Monarchs",
+   "awayteam": "West Beach Legends",
+   "venue": "Barratt Reserve 1",
+   "date": "6/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 11,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "Royal Ajvar",
+   "venue": "Barratt Reserve 3",
+   "date": "6/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 12,
+   "hometeam": "Austria",
+   "awayteam": "West Beach Legends",
+   "venue": "Barratt Reserve 4",
+   "date": "13/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 12,
+   "hometeam": "",
+   "awayteam": "Royal Ajvar",
+   "venue": "",
+   "date": "13/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 12,
+   "hometeam": "Southern Sharks",
+   "awayteam": "Sturt-Marion B",
+   "venue": "Barratt Reserve 2",
+   "date": "13/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 12,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "Adelaide Spurs",
+   "venue": "Barratt Reserve 3",
+   "date": "13/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 12,
+   "hometeam": "Pulteney",
+   "awayteam": "Monarchs",
+   "venue": "Barratt Reserve 1",
+   "date": "13/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 13,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "Pulteney",
+   "venue": "Barratt Reserve 1",
+   "date": "20/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 13,
+   "hometeam": "Monarchs",
+   "awayteam": "Sturt-Marion B",
+   "venue": "Barratt Reserve 2",
+   "date": "20/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 13,
+   "hometeam": "West Beach Legends",
+   "awayteam": "Royal Ajvar",
+   "venue": "Barratt Reserve 3",
+   "date": "20/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 13,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "Southern Sharks",
+   "venue": "Barratt Reserve 4",
+   "date": "20/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 13,
+   "hometeam": "Austria",
+   "awayteam": "",
+   "venue": "",
+   "date": "20/9/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 14,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "",
+   "venue": "",
+   "date": "27/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 14,
+   "hometeam": "West Beach Legends",
+   "awayteam": "Adelaide Spurs",
+   "venue": "Barratt Reserve 2",
+   "date": "27/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 14,
+   "hometeam": "Pulteney",
+   "awayteam": "Old Plymptonians",
+   "venue": "Barratt Reserve 3",
+   "date": "27/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 14,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "Austria",
+   "venue": "Barratt Reserve 4",
+   "date": "27/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 14,
+   "hometeam": "Southern Sharks",
+   "awayteam": "Monarchs",
+   "venue": "Barratt Reserve 5",
+   "date": "27/9/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 15,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "Sturt-Marion B",
+   "venue": "Barratt Reserve 1",
+   "date": "4/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 15,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "Monarchs",
+   "venue": "Barratt Reserve 2",
+   "date": "4/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 15,
+   "hometeam": "West Beach Legends",
+   "awayteam": "Pulteney",
+   "venue": "Barratt Reserve 3",
+   "date": "4/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 15,
+   "hometeam": "Southern Sharks",
+   "awayteam": "",
+   "venue": "",
+   "date": "4/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 15,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "Austria",
+   "venue": "Barratt Reserve 5",
+   "date": "4/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 16,
+   "hometeam": "Old Plymptonians",
+   "awayteam": "West Beach Legends",
+   "venue": "Barratt Reserve 1",
+   "date": "11/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 16,
+   "hometeam": "Austria",
+   "awayteam": "Southern Sharks",
+   "venue": "Barratt Reserve 2",
+   "date": "11/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 16,
+   "hometeam": "Monarchs",
+   "awayteam": "Royal Ajvar",
+   "venue": "Barratt Reserve 3",
+   "date": "11/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 16,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "Pulteney",
+   "venue": "Barratt Reserve 4",
+   "date": "11/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 16,
+   "hometeam": "",
+   "awayteam": "Adelaide Spurs",
+   "venue": "",
+   "date": "11/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 17,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "Pulteney",
+   "venue": "Barratt Reserve 1",
+   "date": "18/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 17,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "Old Plymptonians",
+   "venue": "Barratt Reserve 2",
+   "date": "18/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 17,
+   "hometeam": "Adelaide Spurs",
+   "awayteam": "Southern Sharks",
+   "venue": "Barratt Reserve 3",
+   "date": "18/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 17,
+   "hometeam": "Monarchs",
+   "awayteam": "Austria",
+   "venue": "Barratt Reserve 4",
+   "date": "18/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 17,
+   "hometeam": "West Beach Legends",
+   "awayteam": "",
+   "venue": "",
+   "date": "18/10/20",
+   "time": "9:30",
+   "division": 2
+ },
+ {
+   "round": 18,
+   "hometeam": "",
+   "awayteam": "Monarchs",
+   "venue": "",
+   "date": "25/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 18,
+   "hometeam": "Royal Ajvar",
+   "awayteam": "Old Plymptonians",
+   "venue": "Barratt Reserve 1",
+   "date": "25/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 18,
+   "hometeam": "Pulteney",
+   "awayteam": "Austria",
+   "venue": "Barratt Reserve 2",
+   "date": "25/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 18,
+   "hometeam": "Southern Sharks",
+   "awayteam": "West Beach Legends",
+   "venue": "Barratt Reserve 3",
+   "date": "25/10/20",
+   "time": "11:15",
+   "division": 2
+ },
+ {
+   "round": 18,
+   "hometeam": "Sturt-Marion B",
+   "awayteam": "Adelaide Spurs",
+   "venue": "Barratt Reserve 4",
+   "date": "25/10/20",
+   "time": "11:15",
+   "division": 2
+ }
+]
