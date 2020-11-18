@@ -6,7 +6,9 @@
   "scripts": {
     "format": "prettier \"src/**/*.{js,html}\" --write",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
-    "dev": "parcel src/index.html"
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npx npm-force-resolutions"
   },
   "keywords": [],
   "author": "",
