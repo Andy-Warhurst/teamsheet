@@ -6,3 +6,5 @@ teamsheets-dist/
 coverage/
 .vscode/
 .env
+.prettierrc
+.eslintrc.json
