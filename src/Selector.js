@@ -1,74 +1,56 @@
-import React, { useReducer} from "react";
-import Teams from "./TeamData.json";
+import React, { useState } from "react";
 import Players from "./Players.json";
-import FixtureDetails from "./FixtureDetails";
-import PlayerList from "./PlayerList";
-import Result from "./Result";
-import Officials from "./Officials";
-import reducer from "./Reducer";
+// import Guests from "./Guests";
+// import PrintPreview from "./PrintPreview";
 
-  const initialState = {
-    round: 1,
-    team: "Adelaide Spurs",
-    selected: [],
-  };
+const Rounds = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
 
-  const Rounds = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
+const Selector = ({round, team, guests, selected, setSelected}) => {
 
-const Selector = () => {
-
-  const [state, dispatch] = useReducer(reducer, initialState);
-  const {round, team, selected} = state;
+  var d = new Date();
+  var n = d.getTime();
+  
+  console.log("Running Selector(",n,"). guests:", guests.length);
 
   var availablePlayers = Players.filter(extractPlayersByTeam).sort((a, b) => a.name > b.name);
+  availablePlayers = availablePlayers.concat(guests);
   var selectedPlayers = availablePlayers;
 
+  //var availableGuests = GuestList.filter(extractPlayersByTeam).sort((a, b) => a.name > b.name);
 
   function extractPlayersByTeam(plr) {
     return plr.team === team;    
   }
 
+  function updateSelected (selection) {
+
+    var updatedSelections = [];
+    updatedSelections = updatedSelections.concat(selected);
+
+    // console.log(selection);
+    // console.log(selected);
+
+    if (!updatedSelections.includes(selection)) {
+      updatedSelections[updatedSelections.length] = selection;
+    } else {
+      var index = updatedSelections.indexOf(selection);
+      updatedSelections.splice(index, 1);
+    }
+
+    // console.log(selected);
+
+    setSelected(updatedSelections);
+  }
+
   return (
     <div className="teamsheet-generator">
+      <h3 >{team} (Round {round})</h3>
       <table>
         <tbody>
           <tr valign="top">
             <td> 
               <div className="search-params">
                 <form>
-                  <label htmlFor="round">
-                    Round
-                    <select
-                    id="round"
-                    value={round}
-                      placeholder="Round"
-                      onChange={(e) => dispatch({type: 'CHANGE_ROUND', payload: e.target.value})}
-                      onBlur={(e) => dispatch({type: 'CHANGE_ROUND', payload: e.target.value})}
-                      >
-                        {
-                        Rounds.map(round => (
-                          <option key={round} value={round}>{round}</option>
-                        ))
-                      }
-
-                      </select>
-                  </label>
-
-                  <label htmlFor="team">
-                    Team
-                    <select 
-                      id="team"
-                      value={team}
-                      onChange={(e) => dispatch({type: 'CHANGE_TEAM', payload: e.target.value})}
-                      onBlur={(e) => dispatch({type: 'CHANGE_TEAM', payload: e.target.value})}
-                    >
-                      {
-                      Teams.map(team => (
-                        <option key={team.id} value={team.name}>{team.name}</option>))
-                      }
-                    </select>
-                  </label>
-
                   <table>
                     <thead>
                       <tr>
@@ -87,36 +69,28 @@ const Selector = () => {
                             <input 
                             type="checkbox" checked={p.active}
                             id={p.id} 
-                            onClick={(e) => dispatch({type: 'TOGGLE_PLAYER', payload: p, extra: e.target.checked})}
+                            onClick={() => updateSelected(p)}
                             />
               
                           </td>
                         </tr>
-                    ))
+                      ))
                     }
 
                     </tbody>
+
                   </table>
 
-                  {/* <br/>
-                  <button>Print</button> */}
+                  {/* <Guests 
+                    team={team}
+                  /> */}
+
+                 
                 </form>
               </div> 
             </td>
             <td>
-              <div className="printArea" >
-                <FixtureDetails
-                  round={round}
-                  team={team}
-                />
-                <PlayerList team={team} players={selected} />
-                <br />
-                <Result 
-                  round={round}
-                  team={team} />
-                  <br />
-                  <Officials />
-              </div>
+              {/* <PrintPreview round={round} team={team} selected={selected}/> */}
             </td>
           </tr>
         </tbody>
