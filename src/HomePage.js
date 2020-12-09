@@ -46,8 +46,11 @@ const HomePage = () => {
                 selected={selected}
                 dispatch={dispatch}
             />
-
-            <PrintPreview round={round} team={team} selected={selected}/>
+            <PrintPreview 
+                round={round} 
+                team={team} 
+                selected={selected}
+            />
         </div>
     );
 };
