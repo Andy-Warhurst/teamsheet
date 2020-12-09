@@ -1,13 +1,18 @@
 import React from "react";
 import { render } from "react-dom";
-import Selector from "./Selector";
+import HomePage from "./HomePage";
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (
     <React.StrictMode>
       <div>
-        <h1>Teamsheets</h1>
-        <Selector />
+        <header>
+        </header>
+
+          <HomePage />
+
       </div>
     </React.StrictMode>
   );
