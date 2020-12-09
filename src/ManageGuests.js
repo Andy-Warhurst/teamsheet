@@ -1,15 +1,23 @@
-import React from "react";
+import React, { useState} from "react";
 import GUESTS from "./GuestList.json";
 
 const ManageGuests = ({team, guests, setGuests}) => {
 
-  function addGuest (name) {
+  // console.log("ManageGuests Props: ", props);
 
-    console.log("Name:  ", name);
+  // var {team, guests, dispatch} = props;
+
+  
+  const [latestGuest, setLatestGuest] = useState(1001);
+
+  var d = new Date();
+  var n = d.getTime();
+
+  function addGuest (name) {
 
     var newGuests = 
       {
-        "id": 501,
+        "id": latestGuest,
         "name": name,
         "team": team,
         "dateofbirth": "10/08/1967",
@@ -18,7 +26,7 @@ const ManageGuests = ({team, guests, setGuests}) => {
         "games": 0
       } ;
 
-    console.log("New guests:", newGuests);
+    setLatestGuest(latestGuest+1);
 
     var allGuests = [];
     allGuests = allGuests.concat(guests);
@@ -29,19 +37,19 @@ const ManageGuests = ({team, guests, setGuests}) => {
     console.log("All guests:", allGuests);
     console.log("GUESTS:", GUESTS);
 
-    setGuests(allGuests);
+    dispatch({type: 'CHANGE_GUESTS', payload: allGuests});
   }
 
   return (
     <div>
       <h3>Manage Guests</h3>
-      <form>
-        <label htmlFor="gname">Name:</label>
-        <input type="text" id="gname" name="gname"/><br/>
+      {/* <form> */}
+        <label>Name:</label>
+        <input type="text" id="gname" name="gname"/>
         <button
-          onClick={() => addGuest("New Player")}
+          onClick={() => addGuest(gname.value)}
         >+</button>
-      </form>
+      {/* </form> */}
     </div>
   );
 };

@@ -1,23 +1,19 @@
 import React, { useState } from "react";
 import Players from "./Players.json";
-// import Guests from "./Guests";
-// import PrintPreview from "./PrintPreview";
 
 const Rounds = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
 
-const Selector = ({round, team, guests, selected, setSelected}) => {
+const Selector = ({round, team, guests, selected, dispatch}) => {
 
   var d = new Date();
   var n = d.getTime();
   
   console.log("Running Selector(",n,"). guests:", guests.length);
 
-  var availablePlayers = Players.filter(extractPlayersByTeam).sort((a, b) => a.name > b.name);
+  var availablePlayers = Players;
   availablePlayers = availablePlayers.concat(guests);
-  var selectedPlayers = availablePlayers;
-
-  //var availableGuests = GuestList.filter(extractPlayersByTeam).sort((a, b) => a.name > b.name);
-
+  availablePlayers = availablePlayers.filter(extractPlayersByTeam).sort((a, b) => a.name > b.name);
+  
   function extractPlayersByTeam(plr) {
     return plr.team === team;    
   }
@@ -27,8 +23,8 @@ const Selector = ({round, team, guests, selected, setSelected}) => {
     var updatedSelections = [];
     updatedSelections = updatedSelections.concat(selected);
 
-    // console.log(selection);
-    // console.log(selected);
+    console.log("selection: ", selection);
+    console.log("Selected Before:",selected);
 
     if (!updatedSelections.includes(selection)) {
       updatedSelections[updatedSelections.length] = selection;
@@ -37,9 +33,9 @@ const Selector = ({round, team, guests, selected, setSelected}) => {
       updatedSelections.splice(index, 1);
     }
 
-    // console.log(selected);
 
-    setSelected(updatedSelections);
+    dispatch({type: 'CHANGE_SELECTED', payload: updatedSelections});
+    console.log("Selected After:",selected);
   }
 
   return (
@@ -78,14 +74,7 @@ const Selector = ({round, team, guests, selected, setSelected}) => {
                     }
 
                     </tbody>
-
                   </table>
-
-                  {/* <Guests 
-                    team={team}
-                  /> */}
-
-                 
                 </form>
               </div> 
             </td>

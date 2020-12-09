@@ -1,9 +1,11 @@
-import React, {  useState} from "react";
+import React, {  useState, useReducer} from "react";
 import Teams from "./TeamData.json";
+
+import reducer from "./reducer";
 
 const Rounds = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
 
-const DevPanel = ({round, team, setRound, setTeam}) => { 
+const DevPanel = ({round, team,  dispatch}) => { 
 
     return (
         <div className="dev-panel"> 
@@ -15,8 +17,8 @@ const DevPanel = ({round, team, setRound, setTeam}) => {
                 id="round"
                 value={round}
                 placeholder="Round"
-                onChange={(e) => setRound( e.target.value)}
-                onBlur={(e) => setRound( e.target.value)}
+                onChange={(e) => dispatch({type: 'CHANGE_ROUND', payload: e.target.value})}
+                onBlur={(e) => dispatch({type: 'CHANGE_ROUND', payload: e.target.value})}
             >
                 {
                     Rounds.map(round => (
@@ -32,8 +34,8 @@ const DevPanel = ({round, team, setRound, setTeam}) => {
             <select 
                 id="team"
                 value={team}
-                onChange={(e) => setTeam( e.target.value)}
-                onBlur={(e) => setTeam( e.target.value)}
+                onChange={(e) => dispatch({type: 'CHANGE_TEAM', payload: e.target.value})}
+                onBlur={(e) => dispatch({type: 'CHANGE_TEAM', payload: e.target.value})}
             >
                 {
                     Teams.map(team => (

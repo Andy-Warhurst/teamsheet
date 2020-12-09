@@ -1,25 +1,29 @@
-import React, { useState } from "react";
+import React, { useState, useReducer } from "react";
 import Selector from "./Selector";
 import DevPanel from "./DevPanel";
 import PrintPreview from "./PrintPreview";
 import GUESTS from "./GuestList.json";
 import ManageGuests from "./ManageGuests";
 
+import reducer from "./reducer";
+
 // We want to control the round and team at this level.
+
+const initialState = {
+    round: 1,
+    team: "Adelaide Spurs",
+    selected: [],
+    guests:  GUESTS.sort((a, b) => a.name > b.name)
+};
 
 const HomePage = () => {
 
-    const [round, setRound] = useState(1);
-    const [team, setTeam] = useState("Adelaide Spurs");
-    const [selected, setSelected] = useState([]);
-    const [guests, setGuests] = useState(GUESTS.sort((a, b) => a.name > b.name));
+    const [state, dispatch] = useReducer(reducer, initialState);
 
-
+    const {round, team, selected, guests} = state;
 
     const count = selected.length;
     const gcount = guests.length;
-
-    // console.log(selected);
 
     return (
         <div className="home-page">
@@ -28,24 +32,22 @@ const HomePage = () => {
             <DevPanel 
                 round={round}
                 team={team}
-                setRound={setRound}
-                setTeam={setTeam}
+                dispatch={dispatch}
             />
             <ManageGuests
                 team={team} 
                 guests={guests}
-                setGuests={setGuests}
+                dispatch={dispatch}
             />
             <Selector 
                 round={round}
                 team={team} 
                 guests={guests}
                 selected={selected}
-                setSelected={setSelected}
+                dispatch={dispatch}
             />
-            {/* <button onClick={() => setSelected( ["Test Player"])} > Test </button> */}
 
-            {/* <PrintPreview round={round} team={team} selected={selected}/> */}
+            <PrintPreview round={round} team={team} selected={selected}/>
         </div>
     );
 };
