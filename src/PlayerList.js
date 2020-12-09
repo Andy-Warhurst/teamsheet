@@ -3,8 +3,6 @@ import React from "react";
 const PlayerList = (props) => {
   var sortedPlayers = props.players.sort((a, b) => a.name > b.name);
 
-  console.log("sortedPlayes:", sortedPlayers.length);
-
   const items = [];
   var i;
   for (i = props.players.length; i < 21; i++) {
@@ -31,6 +29,7 @@ const PlayerList = (props) => {
           </tr>
         </tbody>
       </table>
+      {/* <h3>Players of {props.team}</h3> */}
       <table>
         <thead>
           <tr>
