@@ -40,18 +40,19 @@ const Selector = ({round, team, guests, selected, dispatch}) => {
 
   return (
     <div className="teamsheet-generator">
-      <h3 >{team} (Round {round})</h3>
+    {/* <h3 >{team} (Round {round})</h3> */}
+      <h3 >{team}</h3>
       <table>
         <tbody>
           <tr valign="top">
             <td> 
-              <div className="search-params">
+              <div >
                 <form>
                   <table>
                     <thead>
                       <tr>
                         <th>Name</th>
-                        <th>playing</th>
+                        <th></th>
                       </tr>
                     </thead>
                     <tbody>

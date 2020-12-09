@@ -1,4 +1,8 @@
 import React, { useState, useReducer } from "react";
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Jumbotron from 'react-bootstrap/Jumbotron';
 import Selector from "./Selector";
 import DevPanel from "./DevPanel";
 import PrintPreview from "./PrintPreview";
@@ -16,6 +20,7 @@ const initialState = {
     guests:  GUESTS.sort((a, b) => a.name > b.name)
 };
 
+
 const HomePage = () => {
 
     const [state, dispatch] = useReducer(reducer, initialState);
@@ -27,18 +32,26 @@ const HomePage = () => {
 
     return (
         <div className="home-page">
-            <p>Selected: {count}</p>
-            <p>Guests: {gcount}</p>
-            <DevPanel 
-                round={round}
-                team={team}
-                dispatch={dispatch}
-            />
-            <ManageGuests
-                team={team} 
-                guests={guests}
-                dispatch={dispatch}
-            />
+            <Container>
+                <Row>
+                
+                    <Col md={3}>
+
+    <Jumbotron >
+                        <DevPanel 
+                            round={round}
+                            team={team}
+                            selected={selected}
+                            guests={guests}
+                            dispatch={dispatch}
+                        />
+                        </Jumbotron>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col md={3}>
+
+    <Jumbotron >
             <Selector 
                 round={round}
                 team={team} 
@@ -46,11 +59,29 @@ const HomePage = () => {
                 selected={selected}
                 dispatch={dispatch}
             />
-            <PrintPreview 
-                round={round} 
+            </Jumbotron >
+
+    <Jumbotron >
+            <ManageGuests
                 team={team} 
-                selected={selected}
+                guests={guests}
+                dispatch={dispatch}
             />
+            </Jumbotron >
+                    </Col>
+                    <Col>
+                        <PrintPreview 
+                            round={round} 
+                            team={team} 
+                            selected={selected}
+                        />
+                    </Col>
+
+                </Row>
+            </Container>
+
+
+            
         </div>
     );
 };

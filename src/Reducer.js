@@ -7,8 +7,6 @@ function reducer(state, action) {
       };
 
       case "CHANGE_TEAM":
-
-        console.out("Reducer::ChangeTeam:", action.payload);
         return {
           ...state,
           team: action.payload,

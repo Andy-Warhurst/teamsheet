@@ -1,7 +1,11 @@
 import React, { useState} from "react";
 import GUESTS from "./GuestList.json";
+import Button from 'react-bootstrap/Button';
+import FormControl from 'react-bootstrap/FormControl';
+import InputGroup from 'react-bootstrap/InputGroup';
 
-const ManageGuests = ({team, guests, setGuests}) => {
+
+const ManageGuests = ({team, guests, dispatch}) => {
 
   // console.log("ManageGuests Props: ", props);
 
@@ -42,14 +46,30 @@ const ManageGuests = ({team, guests, setGuests}) => {
 
   return (
     <div>
-      <h3>Manage Guests</h3>
-      {/* <form> */}
-        <label>Name:</label>
-        <input type="text" id="gname" name="gname"/>
-        <button
+      <h3>Guests</h3>
+        <label htmlFor="guestname">Name:</label>
+        <InputGroup>
+          <FormControl
+            placeholder="Guest's Name"
+            aria-label="Ruest's Name"
+            aria-describedby="basic-addon2"
+            id="guestname"
+          />
+          <InputGroup.Append>
+            <Button
+              variant="primary"
+              onClick={() => addGuest(guestname.value)}
+            >
+              Add
+            </Button>
+          </InputGroup.Append>
+        </InputGroup>
+
+        {/* <input type="text" id="gname" name="gname"/>
+        <Button
+          variant="primary"
           onClick={() => addGuest(gname.value)}
-        >+</button>
-      {/* </form> */}
+        >+</Button> */}
     </div>
   );
 };
