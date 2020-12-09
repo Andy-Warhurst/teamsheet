@@ -9,7 +9,7 @@ import PrintPreview from "./PrintPreview";
 import GUESTS from "./GuestList.json";
 import ManageGuests from "./ManageGuests";
 
-import reducer from "./reducer";
+import reducer from "./Reducer";
 
 // We want to control the round and team at this level.
 
