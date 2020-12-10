@@ -121,7 +121,7 @@ header {
   padding: 3px;
 }
 .fixture-details th {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .samsl-logo {
@@ -352,7 +352,7 @@ header {
 
   .printArea * {
     visibility: visible;
-    font-size: 12px;
+    font-size: 11px;
     /* width: 100%;
     z-index: 9999;
 

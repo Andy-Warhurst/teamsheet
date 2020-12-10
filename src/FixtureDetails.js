@@ -17,13 +17,14 @@ const FixtureDetails = (props) => {
       <table className="fixture-details-top">
         <tbody>
           <tr>
-            <th width="590">
+            <th width="590" height="40">
               {theFixture.hometeam} v {theFixture.awayteam} (Division{" "}
               {theFixture.division})
             </th>
-            <th className="samsl-logo" width="90px">
+            {/* 
+            <th className="samsl-logo" width="50px">
               SAMSL
-            </th>
+            </th> */}
           </tr>
         </tbody>
       </table>
