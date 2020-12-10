@@ -20,7 +20,6 @@ const initialState = {
     guests:  GUESTS.sort((a, b) => a.name > b.name)
 };
 
-
 const HomePage = () => {
 
     const [state, dispatch] = useReducer(reducer, initialState);
@@ -33,41 +32,37 @@ const HomePage = () => {
     return (
         <div className="home-page">
             <Container>
-                <Row>
-                
+                <Row>                
                     <Col md={3}>
-
-    <Jumbotron >
-                        <DevPanel 
-                            round={round}
-                            team={team}
-                            selected={selected}
-                            guests={guests}
-                            dispatch={dispatch}
-                        />
+                        <Jumbotron >
+                            <DevPanel 
+                                round={round}
+                                team={team}
+                                selected={selected}
+                                guests={guests}
+                                dispatch={dispatch}
+                            />
                         </Jumbotron>
                     </Col>
                 </Row>
                 <Row>
                     <Col md={3}>
-
-    <Jumbotron >
-            <Selector 
-                round={round}
-                team={team} 
-                guests={guests}
-                selected={selected}
-                dispatch={dispatch}
-            />
-            </Jumbotron >
-
-    <Jumbotron >
-            <ManageGuests
-                team={team} 
-                guests={guests}
-                dispatch={dispatch}
-            />
-            </Jumbotron >
+                        <Jumbotron >
+                            <Selector 
+                                round={round}
+                                team={team} 
+                                guests={guests}
+                                selected={selected}
+                                dispatch={dispatch}
+                            />
+                        </Jumbotron >
+                        <Jumbotron >
+                            <ManageGuests
+                                team={team} 
+                                guests={guests}
+                                dispatch={dispatch}
+                            />
+                        </Jumbotron >
                     </Col>
                     <Col>
                         <PrintPreview 
@@ -76,12 +71,8 @@ const HomePage = () => {
                             selected={selected}
                         />
                     </Col>
-
                 </Row>
-            </Container>
-
-
-            
+            </Container>    
         </div>
     );
 };
