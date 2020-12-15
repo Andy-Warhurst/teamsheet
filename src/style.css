@@ -363,4 +363,8 @@ header {
     width: 90;
     height: 90;
   }
+
+  .form-control {
+    width: 50% !important;
+  }
 }

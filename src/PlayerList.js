@@ -47,7 +47,7 @@ const PlayerList = (props) => {
           {sortedPlayers.map((p) => (
             <tr key={p.id}>
               <td>{p.id}</td>
-              <td />
+              <td align="center" >{p.shirtno}</td>
               <td>{p.name}</td>
               <td />
               <td />
