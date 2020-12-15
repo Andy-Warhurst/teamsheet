@@ -5,7 +5,8 @@
       "team": "Sporting",
       "dateofbirth": "10/08/1967",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5807530,
@@ -13,7 +14,8 @@
       "team": "Sporting",
       "dateofbirth": "15/03/1983",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5264047,
@@ -21,7 +23,8 @@
       "team": "Pulteney",
       "dateofbirth": "23/03/1979",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7125303,
@@ -29,7 +32,8 @@
       "team": "Phoenix",
       "dateofbirth": "24/12/1982",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 4866632,
@@ -37,7 +41,8 @@
       "team": "Phoenix",
       "dateofbirth": "29/06/1984",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7124901,
@@ -45,7 +50,8 @@
       "team": "Phoenix",
       "dateofbirth": "18/03/1979",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 6070587,
@@ -53,7 +59,8 @@
       "team": "Southern Cross",
       "dateofbirth": "02/04/1961",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502543,
@@ -61,7 +68,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "10/07/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6675727,
@@ -69,7 +77,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "08/05/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626949,
@@ -77,7 +86,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "22/05/1984",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7115938,
@@ -85,7 +95,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "08/09/1984",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 4945775,
@@ -93,7 +104,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "01/07/1977",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7115629,
@@ -101,7 +113,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "06/05/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7045271,
@@ -109,7 +122,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "09/08/1984",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7110953,
@@ -117,7 +131,8 @@
       "team": "West Beach",
       "dateofbirth": "16/01/1985",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7107017,
@@ -125,7 +140,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "11/10/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5700846,
@@ -133,7 +149,8 @@
       "team": "Pulteney",
       "dateofbirth": "28/05/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6551562,
@@ -141,7 +158,8 @@
       "team": "Austria",
       "dateofbirth": "01/09/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7108041,
@@ -149,7 +167,8 @@
       "team": "Phoenix",
       "dateofbirth": "16/04/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7107348,
@@ -157,7 +176,8 @@
       "team": "Phoenix",
       "dateofbirth": "06/03/1985",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5270462,
@@ -165,7 +185,8 @@
       "team": "Sporting",
       "dateofbirth": "02/10/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4585707,
@@ -173,7 +194,8 @@
       "team": "Man City",
       "dateofbirth": "30/06/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6706835,
@@ -181,7 +203,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "16/04/1974",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5886921,
@@ -189,7 +212,8 @@
       "team": "Monarchs",
       "dateofbirth": "11/09/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4564825,
@@ -197,7 +221,8 @@
       "team": "University Old Boys",
       "dateofbirth": "21/05/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3735194,
@@ -205,7 +230,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "28/07/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4585692,
@@ -213,7 +239,8 @@
       "team": "Man City",
       "dateofbirth": "06/08/1973",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 4921805,
@@ -221,7 +248,8 @@
       "team": "Austria",
       "dateofbirth": "24/07/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6410499,
@@ -229,7 +257,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "09/06/1981",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 6430377,
@@ -237,7 +266,8 @@
       "team": "Monarchs",
       "dateofbirth": "02/02/1969",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5237965,
@@ -245,7 +275,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "02/02/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5732337,
@@ -253,7 +284,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "30/04/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6788388,
@@ -261,7 +293,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "09/01/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5061200,
@@ -269,7 +302,8 @@
       "team": "West Beach",
       "dateofbirth": "21/01/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7093794,
@@ -277,7 +311,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "04/08/1975",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7098280,
@@ -285,7 +320,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "25/05/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626944,
@@ -293,7 +329,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "22/01/1973",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 4543792,
@@ -301,7 +338,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "22/04/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7095524,
@@ -309,7 +347,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "10/02/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5590361,
@@ -317,7 +356,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "16/10/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7095307,
@@ -325,7 +365,8 @@
       "team": "Man City",
       "dateofbirth": "20/11/1982",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 6086796,
@@ -333,7 +374,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "09/04/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3284727,
@@ -341,7 +383,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "27/12/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626968,
@@ -349,7 +392,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "22/10/1979",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 6131286,
@@ -357,7 +401,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "14/01/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3624919,
@@ -365,7 +410,8 @@
       "team": "Phoenix",
       "dateofbirth": "13/06/1984",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 3627271,
@@ -373,7 +419,8 @@
       "team": "Monarchs",
       "dateofbirth": "16/08/1984",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5024890,
@@ -381,7 +428,8 @@
       "team": "Phoenix",
       "dateofbirth": "21/05/1968",
       "status": "De-reg Requested",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6651589,
@@ -389,7 +437,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "09/06/1977",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 3623131,
@@ -397,7 +446,8 @@
       "team": "Phoenix",
       "dateofbirth": "11/10/1983",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 6526711,
@@ -405,7 +455,8 @@
       "team": "Croatia",
       "dateofbirth": "18/04/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7089542,
@@ -413,7 +464,8 @@
       "team": "Croatia",
       "dateofbirth": "10/12/1981",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 3671409,
@@ -421,7 +473,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "04/03/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5485268,
@@ -429,7 +482,8 @@
       "team": "Phoenix",
       "dateofbirth": "09/09/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4573771,
@@ -437,7 +491,8 @@
       "team": "Phoenix",
       "dateofbirth": "09/11/1972",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7041658,
@@ -445,7 +500,8 @@
       "team": "Phoenix",
       "dateofbirth": "15/07/1985",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 3629357,
@@ -453,7 +509,8 @@
       "team": "Monarchs",
       "dateofbirth": "01/05/1966",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 4512745,
@@ -461,7 +518,8 @@
       "team": "University Old Boys",
       "dateofbirth": "06/09/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4572383,
@@ -469,7 +527,8 @@
       "team": "University Old Boys",
       "dateofbirth": "26/07/1982",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 4324506,
@@ -477,7 +536,8 @@
       "team": "University Old Boys",
       "dateofbirth": "26/01/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3667289,
@@ -485,7 +545,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "14/06/1985",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3671638,
@@ -493,7 +554,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "13/07/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6541211,
@@ -501,7 +563,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "26/07/1978",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7085021,
@@ -509,7 +572,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "11/01/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6497965,
@@ -517,7 +581,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "01/08/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5439480,
@@ -525,7 +590,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "29/06/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6492082,
@@ -533,7 +599,8 @@
       "team": "Pulteney",
       "dateofbirth": "25/08/1977",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7080594,
@@ -541,7 +608,8 @@
       "team": "Pulteney",
       "dateofbirth": "04/02/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5432123,
@@ -549,7 +617,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "07/08/1955",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5448296,
@@ -557,7 +626,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "11/04/1985",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 6547263,
@@ -565,7 +635,8 @@
       "team": "Pulteney",
       "dateofbirth": "15/06/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6297115,
@@ -573,7 +644,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "27/03/1972",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5061147,
@@ -581,7 +653,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "11/12/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502158,
@@ -589,7 +662,8 @@
       "team": "Sporting",
       "dateofbirth": "11/12/1962",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4849826,
@@ -597,7 +671,8 @@
       "team": "Pulteney",
       "dateofbirth": "15/04/1979",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 3665474,
@@ -605,7 +680,8 @@
       "team": "Sporting",
       "dateofbirth": "02/08/1980",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5010359,
@@ -613,7 +689,8 @@
       "team": "Pulteney",
       "dateofbirth": "09/04/1967",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 7072594,
@@ -621,7 +698,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "15/11/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3623607,
@@ -629,7 +707,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "03/10/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4906084,
@@ -637,7 +716,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "09/01/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5729907,
@@ -645,7 +725,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "13/07/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5582435,
@@ -653,7 +734,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "13/02/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626176,
@@ -661,7 +743,8 @@
       "team": "Croatia",
       "dateofbirth": "18/04/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6817891,
@@ -669,7 +752,8 @@
       "team": "Croatia",
       "dateofbirth": "26/07/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6617795,
@@ -677,7 +761,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "24/07/1958",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5730888,
@@ -685,7 +770,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "08/04/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5673860,
@@ -693,7 +779,8 @@
       "team": "Pulteney",
       "dateofbirth": "15/06/1982",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 4328449,
@@ -701,7 +788,8 @@
       "team": "University Old Boys",
       "dateofbirth": "18/10/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6515823,
@@ -709,7 +797,8 @@
       "team": "Monarchs",
       "dateofbirth": "06/07/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7063190,
@@ -717,7 +806,8 @@
       "team": "Austria",
       "dateofbirth": "04/11/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6706835,
@@ -725,7 +815,8 @@
       "team": "Croatia",
       "dateofbirth": "16/04/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6582329,
@@ -733,7 +824,8 @@
       "team": "Croatia",
       "dateofbirth": "04/02/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6693179,
@@ -741,7 +833,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "19/07/1966",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6533563,
@@ -749,7 +842,8 @@
       "team": "University Old Boys",
       "dateofbirth": "26/11/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4722729,
@@ -757,7 +851,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "27/07/1966",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4569949,
@@ -765,7 +860,8 @@
       "team": "Man City",
       "dateofbirth": "13/11/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3623393,
@@ -773,7 +869,8 @@
       "team": "University Old Boys",
       "dateofbirth": "10/01/1979",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 3626678,
@@ -781,7 +878,8 @@
       "team": "Sporting",
       "dateofbirth": "21/10/1980",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 6770172,
@@ -789,7 +887,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "01/10/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6471309,
@@ -797,7 +896,8 @@
       "team": "Monarchs",
       "dateofbirth": "22/11/1978",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 3623309,
@@ -805,7 +905,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "28/05/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5222053,
@@ -813,7 +914,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "15/01/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3671362,
@@ -821,7 +923,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "04/02/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4680172,
@@ -829,7 +932,8 @@
       "team": "Monarchs",
       "dateofbirth": "13/09/1973",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": ""
     },
     {
       "id": 5934027,
@@ -837,7 +941,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "04/07/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4858586,
@@ -845,7 +950,8 @@
       "team": "Sporting",
       "dateofbirth": "27/09/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7057712,
@@ -853,7 +959,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "21/08/1964",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4514211,
@@ -861,7 +968,8 @@
       "team": "Pulteney",
       "dateofbirth": "18/12/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5869959,
@@ -869,7 +977,8 @@
       "team": "Phoenix",
       "dateofbirth": "23/03/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7055574,
@@ -877,7 +986,8 @@
       "team": "University Old Boys",
       "dateofbirth": "03/01/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4324445,
@@ -885,7 +995,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "18/03/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5839212,
@@ -893,7 +1004,8 @@
       "team": "Austria",
       "dateofbirth": "24/03/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4730048,
@@ -901,7 +1013,8 @@
       "team": "University Old Boys",
       "dateofbirth": "10/10/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5276906,
@@ -909,7 +1022,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "06/02/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5234449,
@@ -917,7 +1031,8 @@
       "team": "West Beach",
       "dateofbirth": "09/04/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5732209,
@@ -925,7 +1040,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "03/08/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5502794,
@@ -933,7 +1049,8 @@
       "team": "Croatia",
       "dateofbirth": "13/01/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6542758,
@@ -941,7 +1058,8 @@
       "team": "Croatia",
       "dateofbirth": "02/06/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6642606,
@@ -949,7 +1067,8 @@
       "team": "Sporting",
       "dateofbirth": "04/11/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6001464,
@@ -957,7 +1076,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "01/11/1978",
       "status": "De-reg Requested",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5023795,
@@ -965,7 +1085,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "20/01/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6397451,
@@ -973,7 +1094,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "22/09/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626770,
@@ -981,7 +1103,8 @@
       "team": "St Peter's",
       "dateofbirth": "10/06/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626819,
@@ -989,7 +1112,8 @@
       "team": "St Peter's",
       "dateofbirth": "01/10/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6514187,
@@ -997,7 +1121,8 @@
       "team": "Man City",
       "dateofbirth": "30/12/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4725076,
@@ -1005,7 +1130,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "08/03/1966",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502066,
@@ -1013,7 +1139,8 @@
       "team": "University Old Boys",
       "dateofbirth": "25/02/1959",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6528705,
@@ -1021,7 +1148,8 @@
       "team": "University Old Boys",
       "dateofbirth": "24/09/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6500419,
@@ -1029,7 +1157,8 @@
       "team": "Austria",
       "dateofbirth": "22/11/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6431175,
@@ -1037,7 +1166,8 @@
       "team": "Croatia",
       "dateofbirth": "14/11/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6535738,
@@ -1045,7 +1175,8 @@
       "team": "Croatia",
       "dateofbirth": "18/08/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6526645,
@@ -1053,7 +1184,8 @@
       "team": "Croatia",
       "dateofbirth": "16/07/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6680822,
@@ -1061,7 +1193,8 @@
       "team": "Phoenix",
       "dateofbirth": "06/06/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4859524,
@@ -1069,7 +1202,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "09/01/1966",
       "status": "Active",
-      "regotype": "Social"
+      "regotype": "Social",
+      "shirtno": "4"
     },
     {
       "id": 5224899,
@@ -1077,7 +1211,8 @@
       "team": "University Old Boys",
       "dateofbirth": "03/06/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6856382,
@@ -1085,7 +1220,8 @@
       "team": "Man City",
       "dateofbirth": "14/06/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6612579,
@@ -1093,7 +1229,8 @@
       "team": "Man City",
       "dateofbirth": "04/03/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5959565,
@@ -1101,7 +1238,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "01/07/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6779118,
@@ -1109,7 +1247,8 @@
       "team": "Sporting",
       "dateofbirth": "02/09/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5060959,
@@ -1117,7 +1256,8 @@
       "team": "University Old Boys",
       "dateofbirth": "16/03/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3628967,
@@ -1125,7 +1265,8 @@
       "team": "Sporting",
       "dateofbirth": "27/05/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6494893,
@@ -1133,7 +1274,8 @@
       "team": "Monarchs",
       "dateofbirth": "29/10/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6527873,
@@ -1141,7 +1283,8 @@
       "team": "Croatia",
       "dateofbirth": "27/07/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4587324,
@@ -1149,7 +1292,8 @@
       "team": "Sporting",
       "dateofbirth": "22/07/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6572732,
@@ -1157,7 +1301,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "24/04/1985",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4720047,
@@ -1165,7 +1310,8 @@
       "team": "University Old Boys",
       "dateofbirth": "02/03/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5730899,
@@ -1173,7 +1319,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "18/04/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5949004,
@@ -1181,7 +1328,8 @@
       "team": "Sporting",
       "dateofbirth": "27/09/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3594136,
@@ -1189,7 +1337,8 @@
       "team": "Sporting",
       "dateofbirth": "13/01/1985",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4999925,
@@ -1197,7 +1346,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "24/02/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7047873,
@@ -1205,7 +1355,8 @@
       "team": "Sporting",
       "dateofbirth": "30/06/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7044551,
@@ -1213,7 +1364,8 @@
       "team": "Monarchs",
       "dateofbirth": "20/01/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4501905,
@@ -1221,7 +1373,8 @@
       "team": "Sporting",
       "dateofbirth": "09/03/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4846154,
@@ -1229,7 +1382,8 @@
       "team": "Sporting",
       "dateofbirth": "16/03/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7047554,
@@ -1237,7 +1391,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "12/07/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5025113,
@@ -1245,7 +1400,8 @@
       "team": "Sporting",
       "dateofbirth": "20/10/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6494975,
@@ -1253,7 +1409,8 @@
       "team": "Sporting",
       "dateofbirth": "09/05/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5087865,
@@ -1261,7 +1418,8 @@
       "team": "University Old Boys",
       "dateofbirth": "18/07/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5431799,
@@ -1269,7 +1427,8 @@
       "team": "St Peter's",
       "dateofbirth": "10/10/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4587347,
@@ -1277,7 +1436,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "18/04/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5991363,
@@ -1285,7 +1445,8 @@
       "team": "St Peter's",
       "dateofbirth": "05/02/1953",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6491235,
@@ -1293,7 +1454,8 @@
       "team": "Phoenix",
       "dateofbirth": "17/02/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502089,
@@ -1301,7 +1463,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "19/02/1962",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6527772,
@@ -1309,7 +1472,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "21/10/1961",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5734540,
@@ -1317,7 +1481,8 @@
       "team": "University Old Boys",
       "dateofbirth": "12/04/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6657692,
@@ -1325,7 +1490,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "13/09/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7046503,
@@ -1333,7 +1499,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "10/09/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3675551,
@@ -1341,7 +1508,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "13/10/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6533328,
@@ -1349,7 +1517,8 @@
       "team": "University Old Boys",
       "dateofbirth": "27/09/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5836016,
@@ -1357,7 +1526,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "04/04/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6554528,
@@ -1365,7 +1535,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "24/01/1959",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4854055,
@@ -1373,7 +1544,8 @@
       "team": "University Old Boys",
       "dateofbirth": "19/01/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5431498,
@@ -1381,7 +1553,8 @@
       "team": "University Old Boys",
       "dateofbirth": "28/09/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4512883,
@@ -1389,7 +1562,8 @@
       "team": "St Peter's",
       "dateofbirth": "11/10/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4587340,
@@ -1397,7 +1571,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "07/06/1955",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7045610,
@@ -1405,7 +1580,8 @@
       "team": "St Peter's",
       "dateofbirth": "11/07/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6509837,
@@ -1413,7 +1589,8 @@
       "team": "St Peter's",
       "dateofbirth": "07/11/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626771,
@@ -1421,7 +1598,8 @@
       "team": "St Peter's",
       "dateofbirth": "20/10/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4853225,
@@ -1429,7 +1607,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "27/07/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6599446,
@@ -1437,7 +1616,8 @@
       "team": "Man City",
       "dateofbirth": "17/03/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4864518,
@@ -1445,7 +1625,8 @@
       "team": "Phoenix",
       "dateofbirth": "19/02/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5017117,
@@ -1453,7 +1634,8 @@
       "team": "Man City",
       "dateofbirth": "05/08/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5399915,
@@ -1461,7 +1643,8 @@
       "team": "West Beach",
       "dateofbirth": "26/09/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3628081,
@@ -1469,7 +1652,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "25/07/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6509913,
@@ -1477,7 +1661,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "14/02/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6600471,
@@ -1485,7 +1670,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "18/04/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3657277,
@@ -1493,7 +1679,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "10/10/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3624298,
@@ -1501,7 +1688,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "17/07/1959",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3679352,
@@ -1509,7 +1697,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "18/07/1985",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5839060,
@@ -1517,7 +1706,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "25/09/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5431762,
@@ -1525,7 +1715,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "02/11/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5265497,
@@ -1533,7 +1724,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "13/11/1963",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4844036,
@@ -1541,7 +1733,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "15/12/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5199427,
@@ -1549,7 +1742,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "19/01/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626945,
@@ -1557,7 +1751,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "06/03/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6701175,
@@ -1565,7 +1760,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "05/01/1985",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6500883,
@@ -1573,7 +1769,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "28/11/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4943962,
@@ -1581,7 +1778,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "21/11/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6463943,
@@ -1589,7 +1787,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "03/05/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4846338,
@@ -1597,7 +1796,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "02/08/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5432240,
@@ -1605,7 +1805,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "06/08/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5990340,
@@ -1613,7 +1814,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "22/11/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6493520,
@@ -1621,7 +1823,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "11/04/1960",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5062928,
@@ -1629,7 +1832,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "02/01/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5248308,
@@ -1637,7 +1841,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "20/05/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3675480,
@@ -1645,7 +1850,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "05/01/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5579977,
@@ -1653,7 +1859,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "23/11/1960",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4844021,
@@ -1661,7 +1868,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "27/02/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4491176,
@@ -1669,7 +1877,8 @@
       "team": "Phoenix",
       "dateofbirth": "11/04/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6480161,
@@ -1677,7 +1886,8 @@
       "team": "Man City",
       "dateofbirth": "26/05/1959",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6610565,
@@ -1685,7 +1895,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "11/06/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502561,
@@ -1693,7 +1904,8 @@
       "team": "Monarchs",
       "dateofbirth": "20/10/1963",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3630341,
@@ -1701,7 +1913,8 @@
       "team": "Croatia",
       "dateofbirth": "23/02/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6511499,
@@ -1709,7 +1922,8 @@
       "team": "Monarchs",
       "dateofbirth": "03/12/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6503472,
@@ -1717,7 +1931,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "15/10/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6674575,
@@ -1725,7 +1940,8 @@
       "team": "Croatia",
       "dateofbirth": "12/05/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6612632,
@@ -1733,7 +1949,8 @@
       "team": "Man City",
       "dateofbirth": "08/09/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5110714,
@@ -1741,7 +1958,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "15/08/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5725837,
@@ -1749,7 +1967,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "17/04/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5027034,
@@ -1757,7 +1976,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "29/07/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5570033,
@@ -1765,7 +1985,8 @@
       "team": "West Beach",
       "dateofbirth": "15/09/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5836215,
@@ -1773,7 +1994,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "03/02/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5056307,
@@ -1781,7 +2003,8 @@
       "team": "Adelaide Spurs",
       "dateofbirth": "18/05/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6607270,
@@ -1789,7 +2012,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "16/11/1974",
       "status": "De-reg Requested",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4857608,
@@ -1797,7 +2021,8 @@
       "team": "West Beach",
       "dateofbirth": "28/02/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5864386,
@@ -1805,7 +2030,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "04/02/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4842719,
@@ -1813,7 +2039,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "31/01/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6070863,
@@ -1821,7 +2048,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "03/10/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5000984,
@@ -1829,7 +2057,8 @@
       "team": "Monarchs",
       "dateofbirth": "01/03/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502210,
@@ -1837,7 +2066,8 @@
       "team": "Monarchs",
       "dateofbirth": "06/04/1965",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5030597,
@@ -1845,7 +2075,8 @@
       "team": "Monarchs",
       "dateofbirth": "18/02/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5724912,
@@ -1853,7 +2084,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "26/04/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5703724,
@@ -1861,7 +2093,8 @@
       "team": "Monarchs",
       "dateofbirth": "19/06/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4703946,
@@ -1869,7 +2102,8 @@
       "team": "Monarchs",
       "dateofbirth": "31/05/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6602085,
@@ -1877,7 +2111,8 @@
       "team": "Man City",
       "dateofbirth": "01/03/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5014908,
@@ -1885,7 +2120,8 @@
       "team": "Man City",
       "dateofbirth": "29/05/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7041970,
@@ -1893,7 +2129,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "03/08/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7041914,
@@ -1901,7 +2138,8 @@
       "team": "Man City",
       "dateofbirth": "05/08/1964",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6600731,
@@ -1909,7 +2147,8 @@
       "team": "Man City",
       "dateofbirth": "20/07/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6498090,
@@ -1917,7 +2156,8 @@
       "team": "Man City",
       "dateofbirth": "26/06/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6602107,
@@ -1925,7 +2165,8 @@
       "team": "Man City",
       "dateofbirth": "07/06/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7041876,
@@ -1933,7 +2174,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "03/08/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6532463,
@@ -1941,7 +2183,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "03/12/1965",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4657024,
@@ -1949,7 +2192,8 @@
       "team": "Old Plymptonians",
       "dateofbirth": "28/08/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6591862,
@@ -1957,7 +2201,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "12/02/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626974,
@@ -1965,7 +2210,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "23/09/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6632191,
@@ -1973,7 +2219,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "12/12/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6683042,
@@ -1981,7 +2228,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "27/12/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7037238,
@@ -1989,7 +2237,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "19/01/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4514447,
@@ -1997,7 +2246,8 @@
       "team": "Pulteney",
       "dateofbirth": "27/06/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6086533,
@@ -2005,7 +2255,8 @@
       "team": "Sturt-Marion",
       "dateofbirth": "12/05/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7040534,
@@ -2013,7 +2264,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "25/07/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6574130,
@@ -2021,7 +2273,8 @@
       "team": "Pulteney",
       "dateofbirth": "24/12/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6503729,
@@ -2029,7 +2282,8 @@
       "team": "Pulteney",
       "dateofbirth": "21/01/1967",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5562320,
@@ -2037,7 +2291,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "22/07/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6640088,
@@ -2045,7 +2300,8 @@
       "team": "Man City",
       "dateofbirth": "05/04/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6627535,
@@ -2053,7 +2309,8 @@
       "team": "Austria",
       "dateofbirth": "21/05/1966",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5123071,
@@ -2061,7 +2318,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "07/03/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7040539,
@@ -2069,7 +2327,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "30/06/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6548641,
@@ -2077,7 +2336,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "10/07/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5430264,
@@ -2085,7 +2345,8 @@
       "team": "Austria",
       "dateofbirth": "30/09/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5105270,
@@ -2093,7 +2354,8 @@
       "team": "St Peter's",
       "dateofbirth": "29/05/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5948211,
@@ -2101,7 +2363,8 @@
       "team": "St Peter's",
       "dateofbirth": "09/12/1962",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7039898,
@@ -2109,7 +2372,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "15/05/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6085342,
@@ -2117,7 +2381,8 @@
       "team": "St Peter's",
       "dateofbirth": "26/11/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6494070,
@@ -2125,7 +2390,8 @@
       "team": "Sporting",
       "dateofbirth": "29/09/1965",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5970390,
@@ -2133,7 +2399,8 @@
       "team": "Austria",
       "dateofbirth": "16/10/1968",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6620756,
@@ -2141,7 +2408,8 @@
       "team": "Austria",
       "dateofbirth": "05/11/1957",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502213,
@@ -2149,7 +2417,8 @@
       "team": "Phoenix",
       "dateofbirth": "05/10/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5842477,
@@ -2157,7 +2426,8 @@
       "team": "Austria",
       "dateofbirth": "07/09/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5768568,
@@ -2165,7 +2435,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "26/02/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6596273,
@@ -2173,7 +2444,8 @@
       "team": "Austria",
       "dateofbirth": "31/08/1962",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5718615,
@@ -2181,7 +2453,8 @@
       "team": "St Peter's",
       "dateofbirth": "04/05/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3625107,
@@ -2189,7 +2462,8 @@
       "team": "St Peter's",
       "dateofbirth": "20/10/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6075452,
@@ -2197,7 +2471,8 @@
       "team": "St Peter's",
       "dateofbirth": "26/06/1983",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5528914,
@@ -2205,7 +2480,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "20/12/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6494342,
@@ -2213,7 +2489,8 @@
       "team": "Austria",
       "dateofbirth": "12/02/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5731090,
@@ -2221,7 +2498,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "02/01/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7037524,
@@ -2229,7 +2507,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "08/10/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6513751,
@@ -2237,7 +2516,8 @@
       "team": "Austria",
       "dateofbirth": "23/05/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7037335,
@@ -2245,7 +2525,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "26/06/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7037241,
@@ -2253,7 +2534,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "27/09/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7036246,
@@ -2261,7 +2543,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "17/06/1965",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4492004,
@@ -2269,7 +2552,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "27/10/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6526788,
@@ -2277,7 +2561,8 @@
       "team": "Royal Ajvar",
       "dateofbirth": "29/06/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5729139,
@@ -2285,7 +2570,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "02/05/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3629483,
@@ -2293,7 +2579,8 @@
       "team": "Southern Cross",
       "dateofbirth": "21/05/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5698671,
@@ -2301,7 +2588,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "27/08/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5059959,
@@ -2309,7 +2597,8 @@
       "team": "West Beach",
       "dateofbirth": "22/01/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6789334,
@@ -2317,7 +2606,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "22/12/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3623865,
@@ -2325,7 +2615,8 @@
       "team": "West Beach",
       "dateofbirth": "21/10/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4724978,
@@ -2333,7 +2624,8 @@
       "team": "Pulteney",
       "dateofbirth": "20/07/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5794911,
@@ -2341,7 +2633,8 @@
       "team": "Pulteney",
       "dateofbirth": "12/05/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6492700,
@@ -2349,7 +2642,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "02/04/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3554773,
@@ -2357,7 +2651,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "26/10/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4909942,
@@ -2365,7 +2660,8 @@
       "team": "Pulteney",
       "dateofbirth": "04/05/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4725078,
@@ -2373,7 +2669,8 @@
       "team": "Cove Fusion",
       "dateofbirth": "09/11/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626600,
@@ -2381,7 +2678,8 @@
       "team": "Southern Cross",
       "dateofbirth": "22/03/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6094833,
@@ -2389,7 +2687,8 @@
       "team": "Southern Cross",
       "dateofbirth": "11/01/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6132699,
@@ -2397,7 +2696,8 @@
       "team": "Southern Cross",
       "dateofbirth": "24/10/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5586466,
@@ -2405,7 +2705,8 @@
       "team": "Southern Cross",
       "dateofbirth": "02/03/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5841385,
@@ -2413,7 +2714,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "16/03/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502128,
@@ -2421,7 +2723,8 @@
       "team": "Southern Cross",
       "dateofbirth": "06/05/1963",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5232846,
@@ -2429,7 +2732,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "18/06/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6432337,
@@ -2437,7 +2741,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "23/07/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502245,
@@ -2445,7 +2750,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "12/03/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5584973,
@@ -2453,7 +2759,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "24/12/1966",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4959746,
@@ -2461,7 +2768,8 @@
       "team": "Austria",
       "dateofbirth": "21/11/1965",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4502163,
@@ -2469,7 +2777,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "30/04/1958",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7017608,
@@ -2477,7 +2786,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "03/02/1962",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6612743,
@@ -2485,7 +2795,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "29/02/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3704166,
@@ -2493,7 +2804,8 @@
       "team": "Southern Cross",
       "dateofbirth": "26/03/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4326496,
@@ -2501,7 +2813,8 @@
       "team": "Southern Cross",
       "dateofbirth": "16/01/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6070179,
@@ -2509,7 +2822,8 @@
       "team": "Southern Cross",
       "dateofbirth": "22/02/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5586519,
@@ -2517,7 +2831,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "30/01/1965",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 7017184,
@@ -2525,7 +2840,8 @@
       "team": "Southern Cross",
       "dateofbirth": "19/09/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3673788,
@@ -2533,7 +2849,8 @@
       "team": "Southern Cross",
       "dateofbirth": "15/08/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6473253,
@@ -2541,7 +2858,8 @@
       "team": "Phoenix",
       "dateofbirth": "18/04/1980",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4681775,
@@ -2549,7 +2867,8 @@
       "team": "Phoenix",
       "dateofbirth": "18/02/1965",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3629124,
@@ -2557,7 +2876,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "26/11/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5991110,
@@ -2565,7 +2885,8 @@
       "team": "St Peter's",
       "dateofbirth": "03/04/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5923514,
@@ -2573,7 +2894,8 @@
       "team": "St Peter's",
       "dateofbirth": "27/10/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4573287,
@@ -2581,7 +2903,8 @@
       "team": "Pulteney",
       "dateofbirth": "27/06/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5929943,
@@ -2589,7 +2912,8 @@
       "team": "St Peter's",
       "dateofbirth": "23/03/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3656147,
@@ -2597,7 +2921,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "05/10/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6445018,
@@ -2605,7 +2930,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "28/06/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4856972,
@@ -2613,7 +2939,8 @@
       "team": "West Beach",
       "dateofbirth": "22/10/1973",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5346190,
@@ -2621,7 +2948,8 @@
       "team": "Pulteney",
       "dateofbirth": "29/06/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6499172,
@@ -2629,7 +2957,8 @@
       "team": "West Beach",
       "dateofbirth": "01/09/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3626783,
@@ -2637,7 +2966,8 @@
       "team": "Sturt Marion B",
       "dateofbirth": "14/08/1966",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5851082,
@@ -2645,7 +2975,8 @@
       "team": "Pulteney",
       "dateofbirth": "27/05/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6499036,
@@ -2653,7 +2984,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "27/02/1959",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6526151,
@@ -2661,7 +2993,8 @@
       "team": "West Beach",
       "dateofbirth": "20/11/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5265229,
@@ -2669,7 +3002,8 @@
       "team": "West Beach",
       "dateofbirth": "24/08/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6499007,
@@ -2677,7 +3011,8 @@
       "team": "Croatia",
       "dateofbirth": "27/06/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5585112,
@@ -2685,7 +3020,8 @@
       "team": "West Beach",
       "dateofbirth": "20/03/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6535981,
@@ -2693,7 +3029,8 @@
       "team": "Croatia",
       "dateofbirth": "23/12/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4344824,
@@ -2701,7 +3038,8 @@
       "team": "Croatia",
       "dateofbirth": "31/07/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5316568,
@@ -2709,7 +3047,8 @@
       "team": "Croatia",
       "dateofbirth": "30/04/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5573966,
@@ -2717,7 +3056,8 @@
       "team": "West Beach",
       "dateofbirth": "07/12/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6681536,
@@ -2725,7 +3065,8 @@
       "team": "Pulteney",
       "dateofbirth": "24/12/1953",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4903192,
@@ -2733,7 +3074,8 @@
       "team": "West Beach Legends",
       "dateofbirth": "07/12/1966",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4857700,
@@ -2741,7 +3083,8 @@
       "team": "West Beach",
       "dateofbirth": "21/04/1972",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6991459,
@@ -2749,7 +3092,8 @@
       "team": "Pulteney",
       "dateofbirth": "23/10/1977",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4571682,
@@ -2757,7 +3101,8 @@
       "team": "Pulteney",
       "dateofbirth": "17/07/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5842139,
@@ -2765,7 +3110,8 @@
       "team": "Pulteney",
       "dateofbirth": "03/12/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6506748,
@@ -2773,7 +3119,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "24/07/1955",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6985487,
@@ -2781,7 +3128,8 @@
       "team": "Pulteney",
       "dateofbirth": "21/05/1984",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6496150,
@@ -2789,7 +3137,8 @@
       "team": "Pulteney",
       "dateofbirth": "02/11/1974",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5817683,
@@ -2797,7 +3146,8 @@
       "team": "Pulteney",
       "dateofbirth": "09/03/1978",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6528311,
@@ -2805,7 +3155,8 @@
       "team": "Croatia",
       "dateofbirth": "10/08/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6413767,
@@ -2813,7 +3164,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "15/09/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6520309,
@@ -2821,7 +3173,8 @@
       "team": "Pulteney",
       "dateofbirth": "27/04/1970",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5588403,
@@ -2829,7 +3182,8 @@
       "team": "Southern Cross",
       "dateofbirth": "01/08/1976",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6096534,
@@ -2837,7 +3191,8 @@
       "team": "Southern Cross",
       "dateofbirth": "18/07/1982",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5016983,
@@ -2845,7 +3200,8 @@
       "team": "Southern Cross",
       "dateofbirth": "11/12/1975",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6409089,
@@ -2853,7 +3209,8 @@
       "team": "West Beach",
       "dateofbirth": "01/10/1971",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3655886,
@@ -2861,7 +3218,8 @@
       "team": "Southern Cross",
       "dateofbirth": "16/09/1981",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6172621,
@@ -2869,7 +3227,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "26/04/1962",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 5999325,
@@ -2877,7 +3236,8 @@
       "team": "Southern Sharks",
       "dateofbirth": "06/02/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 6191277,
@@ -2885,7 +3245,8 @@
       "team": "Croatia",
       "dateofbirth": "28/03/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 3627130,
@@ -2893,7 +3254,8 @@
       "team": "Southern Cross",
       "dateofbirth": "06/04/1979",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4891115,
@@ -2901,7 +3263,8 @@
       "team": "Sporting",
       "dateofbirth": "16/03/1969",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     },
     {
       "id": 4587321,
@@ -2909,6 +3272,7 @@
       "team": "Sporting",
       "dateofbirth": "19/12/1965",
       "status": "Active",
-      "regotype": "Community"
+      "regotype": "Community",
+      "shirtno": ""
     }
   ]
