@@ -39,7 +39,7 @@ const DevPanel = ({ round, team, selected, guests, dispatch }) => {
           </select>
         </label>
 
-        <label htmlFor="team">
+        {/* <label htmlFor="team">
           Team
           <select
             id="team"
@@ -57,7 +57,7 @@ const DevPanel = ({ round, team, selected, guests, dispatch }) => {
               </option>
             ))}
           </select>
-        </label>
+        </label> */}
       </form>
     </div>
   );

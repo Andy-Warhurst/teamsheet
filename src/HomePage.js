@@ -8,22 +8,33 @@ import DevPanel from "./DevPanel";
 import PrintPreview from "./PrintPreview";
 import GUESTS from "./GuestList.json";
 import ManageGuests from "./ManageGuests";
+import Teams from "./TeamData.json";
+
 
 import reducer from "./Reducer";
+import { propTypes } from "react-bootstrap/esm/Image";
 
 // We want to control the round and team at this level.
 
-const initialState = {
-  round: 1,
-  team: "Adelaide Spurs",
-  selected: [],
-  guests: GUESTS.sort((a, b) => a.name > b.name),
-};
 
-const HomePage = () => {
+
+const HomePage = (props) => {
+
+  console.log("Props: ", props);
+
+  const initialState = {
+    round: 1,
+    // team: "Adelaide Spurs",
+    team: Teams[props.teamId-1].name,
+    selected: [],
+    guests: GUESTS.sort((a, b) => a.name > b.name),
+  };
+
   const [state, dispatch] = useReducer(reducer, initialState);
 
   const { round, team, selected, guests } = state;
+
+  // const teamId = props.teamId || 1;
 
   //   const count = selected.length;
   //   const gcount = guests.length;
@@ -31,7 +42,7 @@ const HomePage = () => {
   return (
     <div className="home-page">
       <Container>
-        <Row>
+        {/* <Row>
           <Col md={3}>
             <Jumbotron>
               <DevPanel
@@ -43,12 +54,12 @@ const HomePage = () => {
               />
             </Jumbotron>
           </Col>
-        </Row>
+        </Row> */}
         <Row>
           <Col md={3}>
             <Jumbotron>
               <Selector
-                // round={round}
+                round={round}
                 team={team}
                 guests={guests}
                 selected={selected}
