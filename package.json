@@ -7,7 +7,7 @@
     "format": "prettier \"src/**/*.{js,html}\" --write",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "dev": "parcel src/index.html",
-    "build": "cp src/_redirects dist/_redirects && parcel build src/index.html",
+    "build": "parcel build src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "npx npm-force-resolutions"
   },
