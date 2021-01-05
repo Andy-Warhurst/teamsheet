@@ -1,7 +1,12 @@
 node_modules/
 .DS_Store
 .cache/
-dist/
+dist/App*
+dist/*.css
+dist/*.html
+dist/*.png
+dist/*.js
+dist/*.map
 teamsheets-dist/
 coverage/
 .vscode/
