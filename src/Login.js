@@ -40,6 +40,7 @@ const handleSubmit = (event) => {
         <Form.Group as={Row} controlId="formHorizontalTeam" >
             <Form.Label column sm={2}>
             Team
+
             </Form.Label>
             <Col sm={3}>
             
