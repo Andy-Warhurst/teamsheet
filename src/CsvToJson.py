@@ -22,7 +22,7 @@ df = df.replace({'Pulteney Old Scholars Masters': 'Pulteney',
  'Austria Masters': 'Austria',
  'Adelaide Spurs Masters': 'Adelaide Spurs',
  'Monarchs Masters': 'Monarchs',
- 'St. Peter\'s Old Collegians (Masters)': 'St Peter\'s',
+ 'St Peter\'s Old Collegians (Masters)': 'St Peter\'s',
  'West Beach Football Club': 'West Beach',
  'West Beach Legends Masters': 'West Beach Legends'})
 
