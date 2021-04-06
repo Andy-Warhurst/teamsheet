@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv (r'/Users/Andy/Downloads/RegManagementDetails(3).csv')
+df = pd.read_csv (r'/Users/Andy/Downloads/RegManagementDetails(6).csv')
 
 keeps=["FFA Number","Club Name","Firstname","Lastname","DOB","Product Name","Reg Status Secondary"]
 
@@ -12,6 +12,7 @@ df["shirtno"] = ''
 del df['Firstname']
 del df['Lastname']
 df = df.replace({'Pulteney Old Scholars Masters': 'Pulteney',
+ 'Man City Over 35s': 'Man City',
  'Southern Cross Masters': 'Southern Cross',
  'Southern Sharks Masters':'Southern Sharks',
  'Croatia Masters': 'Croatia',

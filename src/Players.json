@@ -1,5 +1,176 @@
 [
   {
+    "id":75570333,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"09\/01\/1966",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andy Warhurst",
+    "shirtno":""
+  },
+  {
+    "id":77583359,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"18\/05\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Adrian Lamond",
+    "shirtno":""
+  },
+  {
+    "id":11208907,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"13\/10\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Stephen Micallef",
+    "shirtno":""
+  },
+  {
+    "id":10160844,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"20\/06\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Daniel Pfluger",
+    "shirtno":""
+  },
+  {
+    "id":79180139,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"13\/11\/1963",
+    "type":"Full",
+    "status":"Active",
+    "name":"Antony Haddington",
+    "shirtno":""
+  },
+  {
+    "id":10098647,
+    "team":"Old Plymptonians",
+    "dateofbirth":"18\/04\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Nicol",
+    "shirtno":""
+  },
+  {
+    "id":64000680,
+    "team":"Sporting",
+    "dateofbirth":"22\/07\/1968",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Simms",
+    "shirtno":""
+  },
+  {
+    "id":54204276,
+    "team":"Croatia",
+    "dateofbirth":"31\/07\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jozo Simic",
+    "shirtno":""
+  },
+  {
+    "id":79697306,
+    "team":"Croatia",
+    "dateofbirth":"30\/04\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Domenico Mileto",
+    "shirtno":""
+  },
+  {
+    "id":75559708,
+    "team":"Sporting",
+    "dateofbirth":"27\/09\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Hickman",
+    "shirtno":""
+  },
+  {
+    "id":10590480,
+    "team":"Croatia",
+    "dateofbirth":"27\/06\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Papic",
+    "shirtno":""
+  },
+  {
+    "id":10585041,
+    "team":"Sporting",
+    "dateofbirth":"29\/09\/1965",
+    "type":"Full",
+    "status":"Active",
+    "name":"Eddie Moir",
+    "shirtno":""
+  },
+  {
+    "id":75637199,
+    "team":"Sporting",
+    "dateofbirth":"10\/08\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Patrick Miller",
+    "shirtno":""
+  },
+  {
+    "id":72624323,
+    "team":"Old Plymptonians",
+    "dateofbirth":"28\/08\/1968",
+    "type":"Full",
+    "status":"Active",
+    "name":"Steve Hammond",
+    "shirtno":""
+  },
+  {
+    "id":75409326,
+    "team":"Austria",
+    "dateofbirth":"16\/03\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Nathan Plant",
+    "shirtno":""
+  },
+  {
+    "id":11203638,
+    "team":"Austria",
+    "dateofbirth":"10\/02\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Martin Green",
+    "shirtno":""
+  },
+  {
+    "id":76663954,
+    "team":"Pulteney",
+    "dateofbirth":"25\/04\/1965",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Kent",
+    "shirtno":""
+  },
+  {
+    "id":60251055,
+    "team":"Sporting",
+    "dateofbirth":"05\/09\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"John Manca",
+    "shirtno":""
+  },
+  {
+    "id":64000060,
+    "team":"Southern Sharks",
+    "dateofbirth":"30\/04\/1958",
+    "type":"Full",
+    "status":"Active",
+    "name":"Nigel Fenton",
+    "shirtno":""
+  },
+  {
     "id":83758359,
     "team":"St Peter's",
     "dateofbirth":"04\/05\/1978",
@@ -15,6 +186,51 @@
     "type":"Full",
     "status":"Active",
     "name":"Andrew Di Biase",
+    "shirtno":""
+  },
+  {
+    "id":10524110,
+    "team":"Cove Fusion",
+    "dateofbirth":"09\/06\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Terry Jobling",
+    "shirtno":""
+  },
+  {
+    "id":10097069,
+    "team":"Southern Sharks",
+    "dateofbirth":"30\/08\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Stephen Lyons",
+    "shirtno":""
+  },
+  {
+    "id":64006240,
+    "team":"Cove Fusion",
+    "dateofbirth":"18\/04\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Gough",
+    "shirtno":""
+  },
+  {
+    "id":83872325,
+    "team":"Southern Sharks",
+    "dateofbirth":"13\/07\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Pav Olszewski",
+    "shirtno":""
+  },
+  {
+    "id":85379436,
+    "team":"Cove Fusion",
+    "dateofbirth":"22\/04\/1986",
+    "type":"Full",
+    "status":"Active",
+    "name":"Juan Calderon Otero",
     "shirtno":""
   },
   {
