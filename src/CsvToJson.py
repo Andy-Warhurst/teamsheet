@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv (r'/Users/Andy/Downloads/RegManagementDetails(6).csv')
+df = pd.read_csv (r'/Users/Andy/Downloads/RegManagementDetails.csv')
 
 keeps=["FFA Number","Club Name","Firstname","Lastname","DOB","Product Name","Reg Status Secondary"]
 

@@ -1,5 +1,86 @@
 [
   {
+    "id":75555797,
+    "team":"West Beach",
+    "dateofbirth":"01\/09\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Froude",
+    "shirtno":""
+  },
+  {
+    "id":75548180,
+    "team":"West Beach Legends",
+    "dateofbirth":"28\/02\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ross Wardrope",
+    "shirtno":""
+  },
+  {
+    "id":83821926,
+    "team":"West Beach Legends",
+    "dateofbirth":"26\/04\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Matthew O'Connor",
+    "shirtno":""
+  },
+  {
+    "id":80860026,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"02\/11\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Robert Jovanovic",
+    "shirtno":""
+  },
+  {
+    "id":82254913,
+    "team":"West Beach Legends",
+    "dateofbirth":"15\/09\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"James Wilkie",
+    "shirtno":""
+  },
+  {
+    "id":11068933,
+    "team":"West Beach",
+    "dateofbirth":"01\/10\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Adam Blackwood",
+    "shirtno":""
+  },
+  {
+    "id":10703169,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"13\/09\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Costa",
+    "shirtno":""
+  },
+  {
+    "id":73480279,
+    "team":"West Beach Legends",
+    "dateofbirth":"29\/03\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Glenn Bartlett",
+    "shirtno":""
+  },
+  {
+    "id":82032103,
+    "team":"Phoenix Masters",
+    "dateofbirth":"18\/04\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Gabriel Tudini",
+    "shirtno":""
+  },
+  {
     "id":75570333,
     "team":"Adelaide Spurs",
     "dateofbirth":"09\/01\/1966",
@@ -42,6 +123,60 @@
     "type":"Full",
     "status":"Active",
     "name":"Antony Haddington",
+    "shirtno":""
+  },
+  {
+    "id":82294521,
+    "team":"West Beach",
+    "dateofbirth":"07\/12\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Matthew Chatterton",
+    "shirtno":""
+  },
+  {
+    "id":10619883,
+    "team":"Croatia",
+    "dateofbirth":"02\/06\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Steve Dominic",
+    "shirtno":""
+  },
+  {
+    "id":80537921,
+    "team":"West Beach",
+    "dateofbirth":"26\/09\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Daniel Rowson",
+    "shirtno":""
+  },
+  {
+    "id":79004784,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"20\/05\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Nic Plews",
+    "shirtno":""
+  },
+  {
+    "id":75549253,
+    "team":"West Beach",
+    "dateofbirth":"21\/04\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Borovnik",
+    "shirtno":""
+  },
+  {
+    "id":83579011,
+    "team":"Pulteney",
+    "dateofbirth":"28\/05\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Anthony Carrocci",
     "shirtno":""
   },
   {
@@ -90,12 +225,30 @@
     "shirtno":""
   },
   {
+    "id":63928378,
+    "team":"Sturt-Marion",
+    "dateofbirth":"22\/04\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andrew Mclaren",
+    "shirtno":""
+  },
+  {
     "id":10590480,
     "team":"Croatia",
     "dateofbirth":"27\/06\/1977",
     "type":"Full",
     "status":"Active",
     "name":"Michael Papic",
+    "shirtno":""
+  },
+  {
+    "id":11206697,
+    "team":"Austria",
+    "dateofbirth":"19\/06\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Patrick Holzapfel",
     "shirtno":""
   },
   {
@@ -135,6 +288,33 @@
     "shirtno":""
   },
   {
+    "id":63352033,
+    "team":"University Orange",
+    "dateofbirth":"30\/09\/1946",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jacques Metzer",
+    "shirtno":""
+  },
+  {
+    "id":74609678,
+    "team":"University Orange",
+    "dateofbirth":"10\/10\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Willem Metzer",
+    "shirtno":""
+  },
+  {
+    "id":64005788,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"14\/02\/1968",
+    "type":"Full",
+    "status":"Active",
+    "name":"Brian Mcclelland",
+    "shirtno":""
+  },
+  {
     "id":11203638,
     "team":"Austria",
     "dateofbirth":"10\/02\/1978",
@@ -153,6 +333,15 @@
     "shirtno":""
   },
   {
+    "id":11031252,
+    "team":"West Beach",
+    "dateofbirth":"27\/01\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Robert Warner",
+    "shirtno":""
+  },
+  {
     "id":60251055,
     "team":"Sporting",
     "dateofbirth":"05\/09\/1976",
@@ -162,12 +351,39 @@
     "shirtno":""
   },
   {
+    "id":10626886,
+    "team":"Sturt-Marion",
+    "dateofbirth":"02\/05\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ian Sawyer",
+    "shirtno":""
+  },
+  {
+    "id":76455021,
+    "team":"Croatia",
+    "dateofbirth":"01\/07\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Mark Andrawos",
+    "shirtno":""
+  },
+  {
     "id":64000060,
     "team":"Southern Sharks",
     "dateofbirth":"30\/04\/1958",
     "type":"Full",
     "status":"Active",
     "name":"Nigel Fenton",
+    "shirtno":""
+  },
+  {
+    "id":11116758,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"29\/07\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Kleber Bonfim",
     "shirtno":""
   },
   {
@@ -270,6 +486,15 @@
     "shirtno":""
   },
   {
+    "id":11195102,
+    "team":"Sturt-Marion",
+    "dateofbirth":"01\/11\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Alec Rolston",
+    "shirtno":""
+  },
+  {
     "id":11195042,
     "team":"Pulteney",
     "dateofbirth":"20\/11\/1978",
@@ -294,6 +519,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Amir Farvardin",
+    "shirtno":""
+  },
+  {
+    "id":10267534,
+    "team":"Sturt-Marion",
+    "dateofbirth":"12\/05\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ciaran Cullen",
     "shirtno":""
   },
   {
@@ -537,6 +771,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Ian Usher",
+    "shirtno":""
+  },
+  {
+    "id":45117504,
+    "team":"West Beach",
+    "dateofbirth":"29\/09\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Josh Hilditch",
     "shirtno":""
   },
   {
@@ -888,15 +1131,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Tim Baker",
-    "shirtno":""
-  },
-  {
-    "id":78514353,
-    "team":"Sturt-Marion",
-    "dateofbirth":"19\/01\/1984",
-    "type":"Full",
-    "status":"Active",
-    "name":"Duncan Beard",
     "shirtno":""
   },
   {
