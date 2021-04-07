@@ -1,6 +1,87 @@
 [
   {
-    "id":77633469,
+    "id":10165925.0,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"01\/07\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Futo",
+    "shirtno":""
+  },
+  {
+    "id":77652691.0,
+    "team":"Monarchs",
+    "dateofbirth":"07\/06\/1968",
+    "type":"Full",
+    "status":"Active",
+    "name":"Darko Karalic",
+    "shirtno":""
+  },
+  {
+    "id":10096870.0,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"17\/07\/1959",
+    "type":"Full",
+    "status":"Active",
+    "name":"Stephen Clarke",
+    "shirtno":""
+  },
+  {
+    "id":75625723.0,
+    "team":"Monarchs",
+    "dateofbirth":"19\/02\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Gandeen Son",
+    "shirtno":""
+  },
+  {
+    "id":10104381.0,
+    "team":"Old Plymptonians",
+    "dateofbirth":"05\/01\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Mooney",
+    "shirtno":""
+  },
+  {
+    "id":10104395.0,
+    "team":"Old Plymptonians",
+    "dateofbirth":"13\/10\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"William Raven",
+    "shirtno":""
+  },
+  {
+    "id":null,
+    "team":"Croatia",
+    "dateofbirth":"21\/05\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Peter Corolis",
+    "shirtno":""
+  },
+  {
+    "id":11008471.0,
+    "team":"Monarchs",
+    "dateofbirth":"18\/03\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Girogis Mallios",
+    "shirtno":""
+  },
+  {
+    "id":77007540.0,
+    "team":"Old Plymptonians",
+    "dateofbirth":"24\/02\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Matt Book",
+    "shirtno":""
+  },
+  {
+    "id":77633469.0,
     "team":"West Beach",
     "dateofbirth":"21\/01\/1984",
     "type":"Full",
@@ -9,7 +90,7 @@
     "shirtno":""
   },
   {
-    "id":85501310,
+    "id":85501310.0,
     "team":"West Beach Old Boys",
     "dateofbirth":"11\/09\/1983",
     "type":"Full",
@@ -18,7 +99,7 @@
     "shirtno":""
   },
   {
-    "id":82411638,
+    "id":82411638.0,
     "team":"West Beach Legends",
     "dateofbirth":"20\/03\/1974",
     "type":"Full",
@@ -27,7 +108,7 @@
     "shirtno":""
   },
   {
-    "id":71361737,
+    "id":71361737.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"22\/11\/1981",
     "type":"Full",
@@ -36,7 +117,16 @@
     "shirtno":""
   },
   {
-    "id":74521485,
+    "id":50825116.0,
+    "team":"Sturt-Marion",
+    "dateofbirth":"28\/11\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Samuel Bowden",
+    "shirtno":""
+  },
+  {
+    "id":74521485.0,
     "team":"Cove Fusion",
     "dateofbirth":"08\/03\/1966",
     "type":"Full",
@@ -45,7 +135,16 @@
     "shirtno":""
   },
   {
-    "id":10096014,
+    "id":10101852.0,
+    "team":"Croatia",
+    "dateofbirth":"23\/02\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Johnny Grdovic",
+    "shirtno":""
+  },
+  {
+    "id":10096014.0,
     "team":"Cove Fusion",
     "dateofbirth":"28\/05\/1974",
     "type":"Full",
@@ -54,7 +153,16 @@
     "shirtno":""
   },
   {
-    "id":75522730,
+    "id":85152577.0,
+    "team":"Monarchs",
+    "dateofbirth":"17\/02\/1968",
+    "type":"Full",
+    "status":"Active",
+    "name":"Darren Lange",
+    "shirtno":""
+  },
+  {
+    "id":75522730.0,
     "team":"Sporting",
     "dateofbirth":"13\/01\/1985",
     "type":"Full",
@@ -63,7 +171,16 @@
     "shirtno":""
   },
   {
-    "id":75466995,
+    "id":77182871.0,
+    "team":"Man City",
+    "dateofbirth":"05\/08\/1975",
+    "type":"Full",
+    "status":"Active",
+    "name":"Matthew Mcgill",
+    "shirtno":""
+  },
+  {
+    "id":75466995.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"20\/03\/1986",
     "type":"Full",
@@ -72,7 +189,7 @@
     "shirtno":""
   },
   {
-    "id":10100734,
+    "id":10100734.0,
     "team":"Old Plymptonians",
     "dateofbirth":"14\/01\/1986",
     "type":"Full",
@@ -81,7 +198,7 @@
     "shirtno":""
   },
   {
-    "id":10098651,
+    "id":10098651.0,
     "team":"Old Plymptonians",
     "dateofbirth":"15\/09\/1973",
     "type":"Full",
@@ -90,7 +207,7 @@
     "shirtno":""
   },
   {
-    "id":10987528,
+    "id":10987528.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"11\/01\/1980",
     "type":"Full",
@@ -99,7 +216,7 @@
     "shirtno":""
   },
   {
-    "id":75379883,
+    "id":75379883.0,
     "team":"Old Plymptonians",
     "dateofbirth":"15\/12\/1972",
     "type":"Full",
@@ -108,7 +225,7 @@
     "shirtno":""
   },
   {
-    "id":55982557,
+    "id":55982557.0,
     "team":"Cove Fusion",
     "dateofbirth":"27\/05\/1982",
     "type":"Full",
@@ -117,7 +234,7 @@
     "shirtno":""
   },
   {
-    "id":78514353,
+    "id":78514353.0,
     "team":"Sturt-Marion B",
     "dateofbirth":"19\/01\/1984",
     "type":"Full",
@@ -126,7 +243,7 @@
     "shirtno":""
   },
   {
-    "id":11183271,
+    "id":11183271.0,
     "team":"West Beach Old Boys",
     "dateofbirth":"03\/03\/1980",
     "type":"Full",
@@ -135,7 +252,16 @@
     "shirtno":""
   },
   {
-    "id":83778431,
+    "id":81379190.0,
+    "team":"Man City",
+    "dateofbirth":"20\/05\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Thomas Brennan",
+    "shirtno":""
+  },
+  {
+    "id":83778431.0,
     "team":"Man City",
     "dateofbirth":"26\/06\/1979",
     "type":"Full",
@@ -144,7 +270,7 @@
     "shirtno":""
   },
   {
-    "id":84988757,
+    "id":84988757.0,
     "team":"West Beach Legends",
     "dateofbirth":"03\/02\/1976",
     "type":"Full",
@@ -153,7 +279,7 @@
     "shirtno":""
   },
   {
-    "id":10160666,
+    "id":10160666.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"18\/06\/1977",
     "type":"Full",
@@ -162,7 +288,7 @@
     "shirtno":""
   },
   {
-    "id":66028069,
+    "id":66028069.0,
     "team":"Man City",
     "dateofbirth":"30\/06\/1971",
     "type":"Full",
@@ -171,7 +297,7 @@
     "shirtno":""
   },
   {
-    "id":60366655,
+    "id":60366655.0,
     "team":"West Beach Old Boys",
     "dateofbirth":"03\/10\/1976",
     "type":"Full",
@@ -180,7 +306,7 @@
     "shirtno":""
   },
   {
-    "id":75555797,
+    "id":75555797.0,
     "team":"West Beach",
     "dateofbirth":"01\/09\/1974",
     "type":"Full",
@@ -189,7 +315,7 @@
     "shirtno":""
   },
   {
-    "id":10959209,
+    "id":10959209.0,
     "team":"St Peter's",
     "dateofbirth":"11\/07\/1977",
     "type":"Full",
@@ -198,7 +324,7 @@
     "shirtno":""
   },
   {
-    "id":75548180,
+    "id":75548180.0,
     "team":"West Beach Legends",
     "dateofbirth":"28\/02\/1974",
     "type":"Full",
@@ -207,7 +333,7 @@
     "shirtno":""
   },
   {
-    "id":83821926,
+    "id":83821926.0,
     "team":"West Beach Legends",
     "dateofbirth":"26\/04\/1982",
     "type":"Full",
@@ -216,7 +342,7 @@
     "shirtno":""
   },
   {
-    "id":55077796,
+    "id":55077796.0,
     "team":"Man City",
     "dateofbirth":"17\/03\/1982",
     "type":"Full",
@@ -225,7 +351,7 @@
     "shirtno":""
   },
   {
-    "id":80860026,
+    "id":80860026.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"02\/11\/1977",
     "type":"Full",
@@ -234,7 +360,7 @@
     "shirtno":""
   },
   {
-    "id":75411512,
+    "id":75411512.0,
     "team":"Old Plymptonians",
     "dateofbirth":"02\/08\/1971",
     "type":"Full",
@@ -243,7 +369,7 @@
     "shirtno":""
   },
   {
-    "id":82254913,
+    "id":82254913.0,
     "team":"West Beach Legends",
     "dateofbirth":"15\/09\/1980",
     "type":"Full",
@@ -252,7 +378,7 @@
     "shirtno":""
   },
   {
-    "id":10824100,
+    "id":10824100.0,
     "team":"Man City",
     "dateofbirth":"14\/06\/1981",
     "type":"Full",
@@ -261,7 +387,7 @@
     "shirtno":""
   },
   {
-    "id":71367098,
+    "id":71367098.0,
     "team":"Monarchs",
     "dateofbirth":"27\/05\/1965",
     "type":"Full",
@@ -270,7 +396,7 @@
     "shirtno":""
   },
   {
-    "id":75858274,
+    "id":75858274.0,
     "team":"Man City",
     "dateofbirth":"30\/12\/1971",
     "type":"Full",
@@ -279,7 +405,7 @@
     "shirtno":""
   },
   {
-    "id":11068933,
+    "id":11068933.0,
     "team":"West Beach",
     "dateofbirth":"01\/10\/1971",
     "type":"Full",
@@ -288,7 +414,7 @@
     "shirtno":""
   },
   {
-    "id":10597967,
+    "id":10597967.0,
     "team":"Monarchs",
     "dateofbirth":"03\/12\/1972",
     "type":"Full",
@@ -297,7 +423,7 @@
     "shirtno":""
   },
   {
-    "id":10703169,
+    "id":10703169.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"13\/09\/1971",
     "type":"Full",
@@ -306,7 +432,7 @@
     "shirtno":""
   },
   {
-    "id":76113158,
+    "id":76113158.0,
     "team":"Monarchs",
     "dateofbirth":"02\/02\/1969",
     "type":"Full",
@@ -315,7 +441,7 @@
     "shirtno":""
   },
   {
-    "id":73480279,
+    "id":73480279.0,
     "team":"West Beach Legends",
     "dateofbirth":"29\/03\/1982",
     "type":"Full",
@@ -324,7 +450,7 @@
     "shirtno":""
   },
   {
-    "id":10691945,
+    "id":10691945.0,
     "team":"Man City",
     "dateofbirth":"05\/04\/1982",
     "type":"Full",
@@ -333,7 +459,7 @@
     "shirtno":""
   },
   {
-    "id":82032103,
+    "id":82032103.0,
     "team":"Phoenix Masters",
     "dateofbirth":"18\/04\/1980",
     "type":"Full",
@@ -342,7 +468,7 @@
     "shirtno":""
   },
   {
-    "id":75570333,
+    "id":75570333.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"09\/01\/1966",
     "type":"Full",
@@ -351,7 +477,7 @@
     "shirtno":""
   },
   {
-    "id":77583359,
+    "id":77583359.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"18\/05\/1977",
     "type":"Full",
@@ -360,7 +486,7 @@
     "shirtno":""
   },
   {
-    "id":73467128,
+    "id":73467128.0,
     "team":"Monarchs",
     "dateofbirth":"08\/02\/1974",
     "type":"Full",
@@ -369,7 +495,7 @@
     "shirtno":""
   },
   {
-    "id":11208907,
+    "id":11208907.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"13\/10\/1985",
     "type":"Full",
@@ -378,7 +504,7 @@
     "shirtno":""
   },
   {
-    "id":10160844,
+    "id":10160844.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"20\/06\/1967",
     "type":"Full",
@@ -387,7 +513,7 @@
     "shirtno":""
   },
   {
-    "id":10099242,
+    "id":10099242.0,
     "team":"St Peter's",
     "dateofbirth":"01\/10\/1980",
     "type":"Full",
@@ -396,7 +522,7 @@
     "shirtno":""
   },
   {
-    "id":79180139,
+    "id":79180139.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"13\/11\/1963",
     "type":"Full",
@@ -405,7 +531,7 @@
     "shirtno":""
   },
   {
-    "id":82294521,
+    "id":82294521.0,
     "team":"West Beach",
     "dateofbirth":"07\/12\/1979",
     "type":"Full",
@@ -414,7 +540,7 @@
     "shirtno":""
   },
   {
-    "id":10619883,
+    "id":10619883.0,
     "team":"Croatia",
     "dateofbirth":"02\/06\/1972",
     "type":"Full",
@@ -423,7 +549,7 @@
     "shirtno":""
   },
   {
-    "id":80537921,
+    "id":80537921.0,
     "team":"West Beach",
     "dateofbirth":"26\/09\/1978",
     "type":"Full",
@@ -432,7 +558,7 @@
     "shirtno":""
   },
   {
-    "id":10566975,
+    "id":10566975.0,
     "team":"Monarchs",
     "dateofbirth":"22\/11\/1978",
     "type":"Full",
@@ -441,7 +567,7 @@
     "shirtno":""
   },
   {
-    "id":79004784,
+    "id":79004784.0,
     "team":"West Beach Old Boys",
     "dateofbirth":"20\/05\/1970",
     "type":"Full",
@@ -450,7 +576,7 @@
     "shirtno":""
   },
   {
-    "id":75549253,
+    "id":75549253.0,
     "team":"West Beach",
     "dateofbirth":"21\/04\/1972",
     "type":"Full",
@@ -459,7 +585,7 @@
     "shirtno":""
   },
   {
-    "id":83579011,
+    "id":83579011.0,
     "team":"Pulteney",
     "dateofbirth":"28\/05\/1976",
     "type":"Full",
@@ -468,7 +594,7 @@
     "shirtno":""
   },
   {
-    "id":10098647,
+    "id":10098647.0,
     "team":"Old Plymptonians",
     "dateofbirth":"18\/04\/1978",
     "type":"Full",
@@ -477,7 +603,7 @@
     "shirtno":""
   },
   {
-    "id":64000680,
+    "id":64000680.0,
     "team":"Sporting",
     "dateofbirth":"22\/07\/1968",
     "type":"Full",
@@ -486,7 +612,7 @@
     "shirtno":""
   },
   {
-    "id":54204276,
+    "id":54204276.0,
     "team":"Croatia",
     "dateofbirth":"31\/07\/1984",
     "type":"Full",
@@ -495,7 +621,7 @@
     "shirtno":""
   },
   {
-    "id":64001035,
+    "id":64001035.0,
     "team":"Monarchs",
     "dateofbirth":"06\/04\/1965",
     "type":"Full",
@@ -504,7 +630,7 @@
     "shirtno":""
   },
   {
-    "id":83608174,
+    "id":83608174.0,
     "team":"Monarchs",
     "dateofbirth":"19\/06\/1967",
     "type":"Full",
@@ -513,7 +639,7 @@
     "shirtno":""
   },
   {
-    "id":74200908,
+    "id":74200908.0,
     "team":"Monarchs",
     "dateofbirth":"31\/05\/1970",
     "type":"Full",
@@ -522,7 +648,7 @@
     "shirtno":""
   },
   {
-    "id":79697306,
+    "id":79697306.0,
     "team":"Croatia",
     "dateofbirth":"30\/04\/1977",
     "type":"Full",
@@ -531,7 +657,7 @@
     "shirtno":""
   },
   {
-    "id":75559708,
+    "id":75559708.0,
     "team":"Sporting",
     "dateofbirth":"27\/09\/1976",
     "type":"Full",
@@ -540,7 +666,7 @@
     "shirtno":""
   },
   {
-    "id":63928378,
+    "id":63928378.0,
     "team":"Sturt-Marion",
     "dateofbirth":"22\/04\/1982",
     "type":"Full",
@@ -549,7 +675,7 @@
     "shirtno":""
   },
   {
-    "id":10590480,
+    "id":10590480.0,
     "team":"Croatia",
     "dateofbirth":"27\/06\/1977",
     "type":"Full",
@@ -558,7 +684,7 @@
     "shirtno":""
   },
   {
-    "id":11206697,
+    "id":11206697.0,
     "team":"Austria",
     "dateofbirth":"19\/06\/1981",
     "type":"Full",
@@ -567,7 +693,7 @@
     "shirtno":""
   },
   {
-    "id":10585041,
+    "id":10585041.0,
     "team":"Sporting",
     "dateofbirth":"29\/09\/1965",
     "type":"Full",
@@ -576,7 +702,7 @@
     "shirtno":""
   },
   {
-    "id":75637199,
+    "id":75637199.0,
     "team":"Sporting",
     "dateofbirth":"10\/08\/1967",
     "type":"Full",
@@ -585,7 +711,7 @@
     "shirtno":""
   },
   {
-    "id":72624323,
+    "id":72624323.0,
     "team":"Old Plymptonians",
     "dateofbirth":"28\/08\/1968",
     "type":"Full",
@@ -594,7 +720,7 @@
     "shirtno":""
   },
   {
-    "id":75409326,
+    "id":75409326.0,
     "team":"Austria",
     "dateofbirth":"16\/03\/1971",
     "type":"Full",
@@ -603,7 +729,7 @@
     "shirtno":""
   },
   {
-    "id":63352033,
+    "id":63352033.0,
     "team":"University Orange",
     "dateofbirth":"30\/09\/1946",
     "type":"Full",
@@ -612,7 +738,7 @@
     "shirtno":""
   },
   {
-    "id":74609678,
+    "id":74609678.0,
     "team":"University Orange",
     "dateofbirth":"10\/10\/1979",
     "type":"Full",
@@ -621,7 +747,7 @@
     "shirtno":""
   },
   {
-    "id":64005788,
+    "id":64005788.0,
     "team":"Sturt-Marion B",
     "dateofbirth":"14\/02\/1968",
     "type":"Full",
@@ -630,7 +756,7 @@
     "shirtno":""
   },
   {
-    "id":11203638,
+    "id":11203638.0,
     "team":"Austria",
     "dateofbirth":"10\/02\/1978",
     "type":"Full",
@@ -639,7 +765,7 @@
     "shirtno":""
   },
   {
-    "id":76663954,
+    "id":76663954.0,
     "team":"Pulteney",
     "dateofbirth":"25\/04\/1965",
     "type":"Full",
@@ -648,7 +774,7 @@
     "shirtno":""
   },
   {
-    "id":11031252,
+    "id":11031252.0,
     "team":"West Beach",
     "dateofbirth":"27\/01\/1983",
     "type":"Full",
@@ -657,7 +783,7 @@
     "shirtno":""
   },
   {
-    "id":60251055,
+    "id":60251055.0,
     "team":"Sporting",
     "dateofbirth":"05\/09\/1976",
     "type":"Full",
@@ -666,7 +792,7 @@
     "shirtno":""
   },
   {
-    "id":10626886,
+    "id":10626886.0,
     "team":"Sturt-Marion",
     "dateofbirth":"02\/05\/1984",
     "type":"Full",
@@ -675,16 +801,16 @@
     "shirtno":""
   },
   {
-    "id":76455021,
+    "id":76455021.0,
     "team":"Croatia",
     "dateofbirth":"01\/07\/1977",
     "type":"Full",
-    "status":"Active",
+    "status":"De-reg Requested",
     "name":"Mark Andrawos",
     "shirtno":""
   },
   {
-    "id":77160463,
+    "id":77160463.0,
     "team":"Man City",
     "dateofbirth":"29\/05\/1975",
     "type":"Full",
@@ -693,7 +819,7 @@
     "shirtno":""
   },
   {
-    "id":64000060,
+    "id":64000060.0,
     "team":"Southern Sharks",
     "dateofbirth":"30\/04\/1958",
     "type":"Full",
@@ -702,7 +828,7 @@
     "shirtno":""
   },
   {
-    "id":11116758,
+    "id":11116758.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"29\/07\/1976",
     "type":"Full",
@@ -711,7 +837,7 @@
     "shirtno":""
   },
   {
-    "id":83758359,
+    "id":83758359.0,
     "team":"St Peter's",
     "dateofbirth":"04\/05\/1978",
     "type":"Full",
@@ -720,7 +846,7 @@
     "shirtno":""
   },
   {
-    "id":73633034,
+    "id":73633034.0,
     "team":"Monarchs",
     "dateofbirth":"13\/09\/1973",
     "type":"Full",
@@ -729,7 +855,7 @@
     "shirtno":""
   },
   {
-    "id":10524110,
+    "id":10524110.0,
     "team":"Cove Fusion",
     "dateofbirth":"09\/06\/1981",
     "type":"Full",
@@ -738,7 +864,7 @@
     "shirtno":""
   },
   {
-    "id":10097069,
+    "id":10097069.0,
     "team":"Southern Sharks",
     "dateofbirth":"30\/08\/1982",
     "type":"Full",
@@ -747,7 +873,7 @@
     "shirtno":""
   },
   {
-    "id":64006240,
+    "id":64006240.0,
     "team":"Cove Fusion",
     "dateofbirth":"18\/04\/1973",
     "type":"Full",
@@ -756,7 +882,7 @@
     "shirtno":""
   },
   {
-    "id":83872325,
+    "id":83872325.0,
     "team":"Southern Sharks",
     "dateofbirth":"13\/07\/1973",
     "type":"Full",
@@ -765,7 +891,7 @@
     "shirtno":""
   },
   {
-    "id":85379436,
+    "id":85379436.0,
     "team":"Cove Fusion",
     "dateofbirth":"22\/04\/1986",
     "type":"Full",
@@ -774,7 +900,7 @@
     "shirtno":""
   },
   {
-    "id":10952579,
+    "id":10952579.0,
     "team":"Royal Ajvar",
     "dateofbirth":"08\/10\/1982",
     "type":"Full",
@@ -783,7 +909,7 @@
     "shirtno":""
   },
   {
-    "id":85143899,
+    "id":85143899.0,
     "team":"Pulteney",
     "dateofbirth":"05\/03\/1977",
     "type":"Full",
@@ -792,7 +918,7 @@
     "shirtno":""
   },
   {
-    "id":11125732,
+    "id":11125732.0,
     "team":"Sporting",
     "dateofbirth":"27\/02\/1977",
     "type":"Full",
@@ -801,7 +927,7 @@
     "shirtno":""
   },
   {
-    "id":11196118,
+    "id":11196118.0,
     "team":"Pulteney",
     "dateofbirth":"17\/04\/1983",
     "type":"Full",
@@ -810,7 +936,7 @@
     "shirtno":""
   },
   {
-    "id":11195102,
+    "id":11195102.0,
     "team":"Sturt-Marion",
     "dateofbirth":"01\/11\/1976",
     "type":"Full",
@@ -819,7 +945,7 @@
     "shirtno":""
   },
   {
-    "id":11195042,
+    "id":11195042.0,
     "team":"Pulteney",
     "dateofbirth":"20\/11\/1978",
     "type":"Full",
@@ -828,7 +954,7 @@
     "shirtno":""
   },
   {
-    "id":10310926,
+    "id":10310926.0,
     "team":"Southern Cross",
     "dateofbirth":"24\/10\/1981",
     "type":"Full",
@@ -837,7 +963,7 @@
     "shirtno":""
   },
   {
-    "id":10791270,
+    "id":10791270.0,
     "team":"Royal Ajvar",
     "dateofbirth":"09\/09\/1984",
     "type":"Full",
@@ -846,7 +972,7 @@
     "shirtno":""
   },
   {
-    "id":10267534,
+    "id":10267534.0,
     "team":"Sturt-Marion",
     "dateofbirth":"12\/05\/1982",
     "type":"Full",
@@ -855,7 +981,7 @@
     "shirtno":""
   },
   {
-    "id":77427995,
+    "id":77427995.0,
     "team":"Croatia",
     "dateofbirth":"16\/07\/1976",
     "type":"Full",
@@ -864,7 +990,7 @@
     "shirtno":""
   },
   {
-    "id":79995940,
+    "id":79995940.0,
     "team":"Pulteney",
     "dateofbirth":"29\/06\/1971",
     "type":"Full",
@@ -873,7 +999,7 @@
     "shirtno":""
   },
   {
-    "id":10612848,
+    "id":10612848.0,
     "team":"Royal Ajvar",
     "dateofbirth":"03\/12\/1965",
     "type":"Full",
@@ -882,7 +1008,7 @@
     "shirtno":""
   },
   {
-    "id":10797606,
+    "id":10797606.0,
     "team":"Royal Ajvar",
     "dateofbirth":"26\/07\/1975",
     "type":"Full",
@@ -891,7 +1017,7 @@
     "shirtno":""
   },
   {
-    "id":76020825,
+    "id":76020825.0,
     "team":"Sporting",
     "dateofbirth":"04\/11\/1974",
     "type":"Full",
@@ -900,7 +1026,7 @@
     "shirtno":""
   },
   {
-    "id":10990414,
+    "id":10990414.0,
     "team":"Croatia",
     "dateofbirth":"10\/12\/1981",
     "type":"Full",
@@ -909,7 +1035,7 @@
     "shirtno":""
   },
   {
-    "id":79095717,
+    "id":79095717.0,
     "team":"Croatia",
     "dateofbirth":"18\/08\/1978",
     "type":"Full",
@@ -918,7 +1044,7 @@
     "shirtno":""
   },
   {
-    "id":83884346,
+    "id":83884346.0,
     "team":"Sturt-Marion B",
     "dateofbirth":"02\/01\/1979",
     "type":"Full",
@@ -927,7 +1053,7 @@
     "shirtno":""
   },
   {
-    "id":10741140,
+    "id":10741140.0,
     "team":"Sporting",
     "dateofbirth":"28\/04\/1969",
     "type":"Full",
@@ -936,7 +1062,7 @@
     "shirtno":""
   },
   {
-    "id":11031002,
+    "id":11031002.0,
     "team":"Sporting",
     "dateofbirth":"30\/06\/1972",
     "type":"Full",
@@ -945,7 +1071,7 @@
     "shirtno":""
   },
   {
-    "id":64000672,
+    "id":64000672.0,
     "team":"Sporting",
     "dateofbirth":"09\/03\/1969",
     "type":"Full",
@@ -954,7 +1080,7 @@
     "shirtno":""
   },
   {
-    "id":10776482,
+    "id":10776482.0,
     "team":"Sturt-Marion B",
     "dateofbirth":"22\/12\/1971",
     "type":"Full",
@@ -963,7 +1089,7 @@
     "shirtno":""
   },
   {
-    "id":11190520,
+    "id":11190520.0,
     "team":"Sturt-Marion",
     "dateofbirth":"30\/05\/1986",
     "type":"Full",
@@ -972,7 +1098,7 @@
     "shirtno":""
   },
   {
-    "id":11190419,
+    "id":11190419.0,
     "team":"Sporting",
     "dateofbirth":"14\/04\/1985",
     "type":"Full",
@@ -981,7 +1107,7 @@
     "shirtno":""
   },
   {
-    "id":10768812,
+    "id":10768812.0,
     "team":"Sporting",
     "dateofbirth":"02\/09\/1978",
     "type":"Full",
@@ -990,7 +1116,7 @@
     "shirtno":""
   },
   {
-    "id":11190381,
+    "id":11190381.0,
     "team":"Sporting",
     "dateofbirth":"19\/02\/1985",
     "type":"Full",
@@ -999,7 +1125,7 @@
     "shirtno":""
   },
   {
-    "id":10586271,
+    "id":10586271.0,
     "team":"Sturt-Marion B",
     "dateofbirth":"11\/04\/1960",
     "type":"Full",
@@ -1008,7 +1134,7 @@
     "shirtno":""
   },
   {
-    "id":65612111,
+    "id":65612111.0,
     "team":"Sturt-Marion B",
     "dateofbirth":"25\/07\/1968",
     "type":"Full",
@@ -1017,7 +1143,7 @@
     "shirtno":""
   },
   {
-    "id":81049827,
+    "id":81049827.0,
     "team":"Royal Ajvar",
     "dateofbirth":"27\/03\/1972",
     "type":"Full",
@@ -1026,7 +1152,7 @@
     "shirtno":""
   },
   {
-    "id":71339980,
+    "id":71339980.0,
     "team":"Pulteney",
     "dateofbirth":"27\/06\/1976",
     "type":"Full",
@@ -1035,7 +1161,7 @@
     "shirtno":""
   },
   {
-    "id":10953395,
+    "id":10953395.0,
     "team":"Royal Ajvar",
     "dateofbirth":"19\/01\/1979",
     "type":"Full",
@@ -1044,7 +1170,7 @@
     "shirtno":""
   },
   {
-    "id":79134110,
+    "id":79134110.0,
     "team":"Austria",
     "dateofbirth":"12\/02\/1975",
     "type":"Full",
@@ -1053,7 +1179,7 @@
     "shirtno":""
   },
   {
-    "id":83882274,
+    "id":83882274.0,
     "team":"Austria",
     "dateofbirth":"08\/04\/1969",
     "type":"Full",
@@ -1062,7 +1188,7 @@
     "shirtno":""
   },
   {
-    "id":11187149,
+    "id":11187149.0,
     "team":"Southern Cross",
     "dateofbirth":"16\/02\/1986",
     "type":"Full",
@@ -1071,7 +1197,7 @@
     "shirtno":""
   },
   {
-    "id":76135540,
+    "id":76135540.0,
     "team":"Pulteney",
     "dateofbirth":"04\/05\/1971",
     "type":"Full",
@@ -1080,7 +1206,7 @@
     "shirtno":""
   },
   {
-    "id":74518911,
+    "id":74518911.0,
     "team":"Pulteney",
     "dateofbirth":"20\/07\/1972",
     "type":"Full",
@@ -1089,7 +1215,7 @@
     "shirtno":""
   },
   {
-    "id":10570302,
+    "id":10570302.0,
     "team":"St Peter's",
     "dateofbirth":"24\/06\/1985",
     "type":"Full",
@@ -1098,7 +1224,7 @@
     "shirtno":""
   },
   {
-    "id":45117504,
+    "id":45117504.0,
     "team":"West Beach",
     "dateofbirth":"29\/09\/1979",
     "type":"Full",
@@ -1107,7 +1233,7 @@
     "shirtno":""
   },
   {
-    "id":82410242,
+    "id":82410242.0,
     "team":"Southern Sharks",
     "dateofbirth":"24\/12\/1966",
     "type":"Full",
@@ -1116,7 +1242,7 @@
     "shirtno":""
   },
   {
-    "id":50824853,
+    "id":50824853.0,
     "team":"Southern Cross",
     "dateofbirth":"16\/01\/1982",
     "type":"Full",
@@ -1125,7 +1251,7 @@
     "shirtno":""
   },
   {
-    "id":83915702,
+    "id":83915702.0,
     "team":"Southern Cross",
     "dateofbirth":"18\/07\/1982",
     "type":"Full",
@@ -1134,7 +1260,7 @@
     "shirtno":""
   },
   {
-    "id":75919316,
+    "id":75919316.0,
     "team":"Sporting",
     "dateofbirth":"16\/03\/1969",
     "type":"Full",
@@ -1143,7 +1269,7 @@
     "shirtno":""
   },
   {
-    "id":64000706,
+    "id":64000706.0,
     "team":"Sporting",
     "dateofbirth":"19\/12\/1965",
     "type":"Full",
@@ -1152,7 +1278,7 @@
     "shirtno":""
   },
   {
-    "id":10955409,
+    "id":10955409.0,
     "team":"Royal Ajvar",
     "dateofbirth":"25\/07\/1978",
     "type":"Full",
@@ -1161,7 +1287,7 @@
     "shirtno":""
   },
   {
-    "id":85041069,
+    "id":85041069.0,
     "team":"Southern Sharks",
     "dateofbirth":"16\/03\/1977",
     "type":"Full",
@@ -1170,7 +1296,7 @@
     "shirtno":""
   },
   {
-    "id":10612380,
+    "id":10612380.0,
     "team":"Southern Sharks",
     "dateofbirth":"02\/12\/1962",
     "type":"Full",
@@ -1179,7 +1305,7 @@
     "shirtno":""
   },
   {
-    "id":10603781,
+    "id":10603781.0,
     "team":"Pulteney",
     "dateofbirth":"27\/04\/1970",
     "type":"Full",
@@ -1188,7 +1314,7 @@
     "shirtno":""
   },
   {
-    "id":81840209,
+    "id":81840209.0,
     "team":"Royal Ajvar",
     "dateofbirth":"20\/12\/1976",
     "type":"Full",
@@ -1197,7 +1323,7 @@
     "shirtno":""
   },
   {
-    "id":66028077,
+    "id":66028077.0,
     "team":"Southern Sharks",
     "dateofbirth":"07\/06\/1955",
     "type":"Full",
@@ -1206,7 +1332,7 @@
     "shirtno":""
   },
   {
-    "id":10537825,
+    "id":10537825.0,
     "team":"Southern Sharks",
     "dateofbirth":"23\/07\/1974",
     "type":"Full",
@@ -1215,7 +1341,7 @@
     "shirtno":""
   },
   {
-    "id":64000169,
+    "id":64000169.0,
     "team":"Sporting",
     "dateofbirth":"11\/12\/1962",
     "type":"Full",
@@ -1224,7 +1350,7 @@
     "shirtno":""
   },
   {
-    "id":85366763,
+    "id":85366763.0,
     "team":"Croatia",
     "dateofbirth":"27\/07\/1981",
     "type":"Full",
@@ -1233,7 +1359,7 @@
     "shirtno":""
   },
   {
-    "id":76597491,
+    "id":76597491.0,
     "team":"Austria",
     "dateofbirth":"21\/11\/1965",
     "type":"Full",
@@ -1242,7 +1368,7 @@
     "shirtno":""
   },
   {
-    "id":11180856,
+    "id":11180856.0,
     "team":"St Peter's",
     "dateofbirth":"21\/01\/1986",
     "type":"Full",
@@ -1251,7 +1377,7 @@
     "shirtno":""
   },
   {
-    "id":63095160,
+    "id":63095160.0,
     "team":"Southern Cross",
     "dateofbirth":"11\/01\/1979",
     "type":"Full",
@@ -1260,7 +1386,7 @@
     "shirtno":""
   },
   {
-    "id":63351811,
+    "id":63351811.0,
     "team":"Austria",
     "dateofbirth":"23\/05\/1973",
     "type":"Full",
@@ -1269,7 +1395,7 @@
     "shirtno":""
   },
   {
-    "id":10990095,
+    "id":10990095.0,
     "team":"Southern Sharks",
     "dateofbirth":"28\/09\/1982",
     "type":"Full",
@@ -1278,7 +1404,7 @@
     "shirtno":""
   },
   {
-    "id":78854478,
+    "id":78854478.0,
     "team":"Southern Sharks",
     "dateofbirth":"18\/06\/1974",
     "type":"Full",
@@ -1287,7 +1413,7 @@
     "shirtno":""
   },
   {
-    "id":65169765,
+    "id":65169765.0,
     "team":"Pulteney",
     "dateofbirth":"27\/06\/1970",
     "type":"Full",
@@ -1296,7 +1422,7 @@
     "shirtno":""
   },
   {
-    "id":65167363,
+    "id":65167363.0,
     "team":"Pulteney",
     "dateofbirth":"18\/12\/1975",
     "type":"Full",
@@ -1305,7 +1431,7 @@
     "shirtno":""
   },
   {
-    "id":11177391,
+    "id":11177391.0,
     "team":"Sturt-Marion B",
     "dateofbirth":"31\/10\/1985",
     "type":"Full",
@@ -1314,7 +1440,7 @@
     "shirtno":""
   },
   {
-    "id":10265651,
+    "id":10265651.0,
     "team":"St Peter's",
     "dateofbirth":"26\/11\/1983",
     "type":"Full",
@@ -1323,7 +1449,7 @@
     "shirtno":""
   },
   {
-    "id":10646390,
+    "id":10646390.0,
     "team":"Pulteney",
     "dateofbirth":"24\/12\/1981",
     "type":"Full",
@@ -1332,7 +1458,7 @@
     "shirtno":""
   },
   {
-    "id":83895250,
+    "id":83895250.0,
     "team":"St Peter's",
     "dateofbirth":"02\/12\/1976",
     "type":"Full",
@@ -1341,7 +1467,7 @@
     "shirtno":""
   },
   {
-    "id":84801877,
+    "id":84801877.0,
     "team":"Pulteney",
     "dateofbirth":"09\/03\/1978",
     "type":"Full",
@@ -1350,7 +1476,7 @@
     "shirtno":""
   },
   {
-    "id":73790099,
+    "id":73790099.0,
     "team":"St Peter's",
     "dateofbirth":"21\/10\/1980",
     "type":"Full",
@@ -1359,7 +1485,7 @@
     "shirtno":""
   },
   {
-    "id":10955148,
+    "id":10955148.0,
     "team":"Royal Ajvar",
     "dateofbirth":"30\/06\/1976",
     "type":"Full",
@@ -1368,7 +1494,7 @@
     "shirtno":""
   },
   {
-    "id":77482339,
+    "id":77482339.0,
     "team":"Southern Sharks",
     "dateofbirth":"26\/04\/1962",
     "type":"Full",
@@ -1377,7 +1503,7 @@
     "shirtno":""
   },
   {
-    "id":10952489,
+    "id":10952489.0,
     "team":"Royal Ajvar",
     "dateofbirth":"26\/06\/1977",
     "type":"Full",
@@ -1386,7 +1512,7 @@
     "shirtno":""
   },
   {
-    "id":74521501,
+    "id":74521501.0,
     "team":"Cove Fusion",
     "dateofbirth":"09\/11\/1970",
     "type":"Full",
@@ -1395,7 +1521,7 @@
     "shirtno":""
   },
   {
-    "id":77181527,
+    "id":77181527.0,
     "team":"Southern Cross",
     "dateofbirth":"11\/12\/1975",
     "type":"Full",
@@ -1404,7 +1530,7 @@
     "shirtno":""
   },
   {
-    "id":10956562,
+    "id":10956562.0,
     "team":"Royal Ajvar",
     "dateofbirth":"03\/08\/1967",
     "type":"Full",
@@ -1413,7 +1539,7 @@
     "shirtno":""
   },
   {
-    "id":84307552,
+    "id":84307552.0,
     "team":"Royal Ajvar",
     "dateofbirth":"26\/02\/1980",
     "type":"Full",
@@ -1422,7 +1548,7 @@
     "shirtno":""
   },
   {
-    "id":82425265,
+    "id":82425265.0,
     "team":"Southern Sharks",
     "dateofbirth":"02\/03\/1970",
     "type":"Full",
@@ -1431,7 +1557,7 @@
     "shirtno":""
   },
   {
-    "id":10102892,
+    "id":10102892.0,
     "team":"Southern Cross",
     "dateofbirth":"16\/09\/1981",
     "type":"Full",
@@ -1440,7 +1566,7 @@
     "shirtno":""
   },
   {
-    "id":77250348,
+    "id":77250348.0,
     "team":"St Peter's",
     "dateofbirth":"24\/06\/1985",
     "type":"Full",
@@ -1449,7 +1575,7 @@
     "shirtno":""
   },
   {
-    "id":83882381,
+    "id":83882381.0,
     "team":"Sturt-Marion",
     "dateofbirth":"18\/04\/1981",
     "type":"Full",
@@ -1458,7 +1584,7 @@
     "shirtno":""
   },
   {
-    "id":77651362,
+    "id":77651362.0,
     "team":"Adelaide Spurs",
     "dateofbirth":"02\/01\/1969",
     "type":"Full",
@@ -1467,7 +1593,7 @@
     "shirtno":""
   },
   {
-    "id":10192353,
+    "id":10192353.0,
     "team":"St Peter's",
     "dateofbirth":"03\/04\/1976",
     "type":"Full",
@@ -1476,7 +1602,7 @@
     "shirtno":""
   },
   {
-    "id":83895375,
+    "id":83895375.0,
     "team":"St Peter's",
     "dateofbirth":"27\/10\/1981",
     "type":"Full",
@@ -1485,7 +1611,7 @@
     "shirtno":""
   },
   {
-    "id":10726735,
+    "id":10726735.0,
     "team":"Royal Ajvar",
     "dateofbirth":"16\/04\/1974",
     "type":"Full",
@@ -1494,7 +1620,7 @@
     "shirtno":""
   },
   {
-    "id":75463018,
+    "id":75463018.0,
     "team":"Southern Sharks",
     "dateofbirth":"14\/03\/1975",
     "type":"Full",
@@ -1503,7 +1629,7 @@
     "shirtno":""
   },
   {
-    "id":81577298,
+    "id":81577298.0,
     "team":"Croatia",
     "dateofbirth":"13\/01\/1972",
     "type":"Full",
@@ -1512,7 +1638,7 @@
     "shirtno":""
   },
   {
-    "id":77150407,
+    "id":77150407.0,
     "team":"Pulteney",
     "dateofbirth":"02\/11\/1974",
     "type":"Full",
@@ -1521,7 +1647,7 @@
     "shirtno":""
   },
   {
-    "id":11003893,
+    "id":11003893.0,
     "team":"Royal Ajvar",
     "dateofbirth":"08\/09\/1984",
     "type":"Full",
@@ -1530,7 +1656,7 @@
     "shirtno":""
   },
   {
-    "id":85256857,
+    "id":85256857.0,
     "team":"Croatia",
     "dateofbirth":"28\/03\/1979",
     "type":"Full",
@@ -1539,7 +1665,7 @@
     "shirtno":""
   },
   {
-    "id":10952454,
+    "id":10952454.0,
     "team":"Royal Ajvar",
     "dateofbirth":"27\/09\/1980",
     "type":"Full",
@@ -1548,7 +1674,7 @@
     "shirtno":""
   },
   {
-    "id":79181327,
+    "id":79181327.0,
     "team":"Royal Ajvar",
     "dateofbirth":"29\/06\/1979",
     "type":"Full",
@@ -1557,7 +1683,7 @@
     "shirtno":""
   },
   {
-    "id":53388534,
+    "id":53388534.0,
     "team":"Southern Sharks",
     "dateofbirth":"22\/06\/1978",
     "type":"Full",
@@ -1566,7 +1692,7 @@
     "shirtno":""
   },
   {
-    "id":10572841,
+    "id":10572841.0,
     "team":"Southern Sharks",
     "dateofbirth":"02\/11\/1981",
     "type":"Full",
@@ -1575,7 +1701,7 @@
     "shirtno":""
   },
   {
-    "id":10537433,
+    "id":10537433.0,
     "team":"Southern Sharks",
     "dateofbirth":"28\/06\/1978",
     "type":"Full",
@@ -1584,7 +1710,7 @@
     "shirtno":""
   },
   {
-    "id":10956590,
+    "id":10956590.0,
     "team":"Southern Sharks",
     "dateofbirth":"05\/08\/1964",
     "type":"Full",
@@ -1593,7 +1719,7 @@
     "shirtno":""
   },
   {
-    "id":10194847,
+    "id":10194847.0,
     "team":"Southern Sharks",
     "dateofbirth":"06\/02\/1969",
     "type":"Full",
@@ -1602,7 +1728,7 @@
     "shirtno":""
   },
   {
-    "id":10671600,
+    "id":10671600.0,
     "team":"Southern Sharks",
     "dateofbirth":"16\/11\/1974",
     "type":"Full",
@@ -1611,7 +1737,7 @@
     "shirtno":""
   },
   {
-    "id":10575287,
+    "id":10575287.0,
     "team":"Southern Sharks",
     "dateofbirth":"26\/05\/1959",
     "type":"Full",
@@ -1620,7 +1746,7 @@
     "shirtno":""
   },
   {
-    "id":10524331,
+    "id":10524331.0,
     "team":"Southern Sharks",
     "dateofbirth":"15\/09\/1981",
     "type":"Full",
@@ -1629,7 +1755,7 @@
     "shirtno":""
   },
   {
-    "id":10974062,
+    "id":10974062.0,
     "team":"Croatia",
     "dateofbirth":"08\/10\/1979",
     "type":"Full",
@@ -1638,7 +1764,7 @@
     "shirtno":""
   },
   {
-    "id":75919118,
+    "id":75919118.0,
     "team":"Southern Sharks",
     "dateofbirth":"24\/07\/1955",
     "type":"Full",
