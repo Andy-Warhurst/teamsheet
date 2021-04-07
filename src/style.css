@@ -338,6 +338,10 @@ header {
     padding: 0 !important;
   }
 
+  .footer {
+    display: none !important;
+  }
+
   .printArea {
     visibility: visible !important;
 
