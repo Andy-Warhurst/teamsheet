@@ -1,20 +1,2 @@
 [
-    {
-      "id": 1,
-      "name": "Greg Stansfield",
-      "team": "Adelaide Spurs",
-      "dateofbirth": "10/08/1967",
-      "status": "Active",
-      "regotype": "Guest",
-      "games": 0
-    },
-    {
-      "id": 2,
-      "name": "Fred Blogs",
-      "team": "Sporting",
-      "dateofbirth": "10/08/1967",
-      "status": "Active",
-      "regotype": "Guest",
-      "games": 0
-    }
 ]

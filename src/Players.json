@@ -1,11 +1,101 @@
 [
   {
+    "id":10096931,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"29\/10\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Gregorio Stansfield",
+    "shirtno":""
+  },
+  {
+    "id":45046695,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"18\/07\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Daniele Cece",
+    "shirtno":""
+  },
+  {
+    "id":85139343,
+    "team":"Pulteney",
+    "dateofbirth":"27\/05\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Zac Coligan",
+    "shirtno":""
+  },
+  {
+    "id":10715633,
+    "team":"Pulteney",
+    "dateofbirth":"24\/12\/1953",
+    "type":"Full",
+    "status":"Active",
+    "name":"Brent Parkes",
+    "shirtno":""
+  },
+  {
+    "id":73633034,
+    "team":"Monarchs",
+    "dateofbirth":"13\/09\/1973",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Andrew Di Biase",
+    "shirtno":""
+  },
+  {
+    "id":10444415,
+    "team":"University Orange",
+    "dateofbirth":"26\/07\/1982",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Elliot St Claire",
+    "shirtno":""
+  },
+  {
+    "id":10563454,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"03\/05\/1974",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Phillip Im",
+    "shirtno":""
+  },
+  {
+    "id":11214787,
+    "team":"Pulteney",
+    "dateofbirth":"09\/03\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Daniel Traino",
+    "shirtno":""
+  },
+  {
+    "id":11030411,
+    "team":"Cove Fusion",
+    "dateofbirth":"29\/05\/1971",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Alessandro Mannini",
+    "shirtno":""
+  },
+  {
     "id":73786220,
     "team":"Pulteney",
     "dateofbirth":"15\/06\/1978",
     "type":"Full",
     "status":"Active",
     "name":"Ante Juricin",
+    "shirtno":""
+  },
+  {
+    "id":10609458,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"24\/09\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Daniel Kelly",
     "shirtno":""
   },
   {
@@ -69,6 +159,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Roberto Pedrini",
+    "shirtno":""
+  },
+  {
+    "id":10967496,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"03\/01\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Corey Tavella",
     "shirtno":""
   },
   {
