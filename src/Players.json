@@ -1,5 +1,59 @@
 [
   {
+    "id":80917131,
+    "team":"Sturt-Marion",
+    "dateofbirth":"10\/02\/1986",
+    "type":"Full",
+    "status":"Active",
+    "name":"Matthew Dangar",
+    "shirtno":""
+  },
+  {
+    "id":10099239,
+    "team":"St Peter's",
+    "dateofbirth":"07\/11\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Luke Rowley",
+    "shirtno":""
+  },
+  {
+    "id":10099201,
+    "team":"St Peter's",
+    "dateofbirth":"10\/06\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Biagio De Fazio",
+    "shirtno":""
+  },
+  {
+    "id":10559766,
+    "team":"University Orange",
+    "dateofbirth":"16\/09\/1983",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Tom De Flart",
+    "shirtno":""
+  },
+  {
+    "id":76091149,
+    "team":"Cove Fusion",
+    "dateofbirth":"09\/01\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Elliott",
+    "shirtno":""
+  },
+  {
+    "id":82444977,
+    "team":"Southern Cross",
+    "dateofbirth":"01\/08\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andrew Mangle",
+    "shirtno":""
+  },
+  {
     "id":10096931,
     "team":"Adelaide Spurs",
     "dateofbirth":"29\/10\/1981",
@@ -9,12 +63,39 @@
     "shirtno":""
   },
   {
+    "id":10342261,
+    "team":"Cove Fusion",
+    "dateofbirth":"15\/09\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Gavin Notridge",
+    "shirtno":""
+  },
+  {
     "id":45046695,
     "team":"University Old Boys Masters",
     "dateofbirth":"18\/07\/1967",
     "type":"Full",
     "status":"Active",
     "name":"Daniele Cece",
+    "shirtno":""
+  },
+  {
+    "id":10104009,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"04\/02\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Allan Barnes",
+    "shirtno":""
+  },
+  {
+    "id":80864374,
+    "team":"St Peter's",
+    "dateofbirth":"09\/09\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Rocky Oliveira",
     "shirtno":""
   },
   {
@@ -72,6 +153,15 @@
     "shirtno":""
   },
   {
+    "id":11001262,
+    "team":"West Beach Legends",
+    "dateofbirth":"16\/01\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ardit Ibro",
+    "shirtno":""
+  },
+  {
     "id":11030411,
     "team":"Cove Fusion",
     "dateofbirth":"29\/05\/1971",
@@ -122,7 +212,7 @@
     "dateofbirth":"15\/11\/1981",
     "type":"Full",
     "status":"Active",
-    "name":"Stu Quigley",
+    "name":"Stuart Quigley",
     "shirtno":""
   },
   {
@@ -141,6 +231,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Richard Barker",
+    "shirtno":""
+  },
+  {
+    "id":10646134,
+    "team":"St Peter's",
+    "dateofbirth":"26\/06\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andrew Pearce",
     "shirtno":""
   },
   {
