@@ -1,5 +1,131 @@
 [
   {
+    "id":75570333,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"09\/01\/1966",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Andy Warhurst",
+    "shirtno":""
+  },
+  {
+    "id":82425794,
+    "team":"Southern Sharks",
+    "dateofbirth":"30\/01\/1965",
+    "type":"Full",
+    "status":"Active",
+    "name":"Gary Williams",
+    "shirtno":""
+  },
+  {
+    "id":10026915,
+    "team":"Sturt-Marion",
+    "dateofbirth":"27\/12\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Duncan Ashcroft",
+    "shirtno":""
+  },
+  {
+    "id":64005960,
+    "team":"Austria",
+    "dateofbirth":"14\/05\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Green",
+    "shirtno":""
+  },
+  {
+    "id":11220379,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"09\/11\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Niels Van De Kreeke",
+    "shirtno":""
+  },
+  {
+    "id":64002066,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"06\/09\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ilario Ieraci",
+    "shirtno":""
+  },
+  {
+    "id":10686954,
+    "team":"Royal Ajvar",
+    "dateofbirth":"12\/12\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Osman Pasic",
+    "shirtno":""
+  },
+  {
+    "id":10096098,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"10\/01\/1979",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Luke Gardiner",
+    "shirtno":""
+  },
+  {
+    "id":63352587,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"25\/02\/1959",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jules Mandalovic",
+    "shirtno":""
+  },
+  {
+    "id":80860398,
+    "team":"St Peter's",
+    "dateofbirth":"10\/10\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Richard Burley",
+    "shirtno":""
+  },
+  {
+    "id":10099118,
+    "team":"University Orange",
+    "dateofbirth":"21\/10\/1980",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Thomas Saurbrey",
+    "shirtno":""
+  },
+  {
+    "id":85158368,
+    "team":"Man City",
+    "dateofbirth":"07\/06\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Alex Wall",
+    "shirtno":""
+  },
+  {
+    "id":75379701,
+    "team":"Old Plymptonians",
+    "dateofbirth":"27\/02\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Lee Edwards",
+    "shirtno":""
+  },
+  {
+    "id":74403627,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"02\/03\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Yusuke Yoshida",
+    "shirtno":""
+  },
+  {
     "id":85017671,
     "team":"Old Plymptonians",
     "dateofbirth":"25\/09\/1977",
@@ -51,6 +177,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Joel Polkinghorne",
+    "shirtno":""
+  },
+  {
+    "id":45292695,
+    "team":"St Peter's",
+    "dateofbirth":"29\/05\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Atilio Waltcheff",
     "shirtno":""
   },
   {
@@ -162,6 +297,15 @@
     "shirtno":""
   },
   {
+    "id":70751185,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"21\/05\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Takumi Takahashi",
+    "shirtno":""
+  },
+  {
     "id":10096931,
     "team":"Adelaide Spurs",
     "dateofbirth":"29\/10\/1981",
@@ -171,12 +315,30 @@
     "shirtno":""
   },
   {
+    "id":75506261,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"19\/01\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Kumar",
+    "shirtno":""
+  },
+  {
     "id":76170992,
     "team":"Austria",
     "dateofbirth":"31\/08\/1962",
     "type":"Full",
     "status":"Active",
     "name":"Andrew Mckibbin",
+    "shirtno":""
+  },
+  {
+    "id":78773587,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"03\/06\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Scott Kumar",
     "shirtno":""
   },
   {
@@ -342,6 +504,15 @@
     "shirtno":""
   },
   {
+    "id":11214522,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"22\/08\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Erik Leinius",
+    "shirtno":""
+  },
+  {
     "id":82384686,
     "team":"Cove Fusion",
     "dateofbirth":"13\/02\/1969",
@@ -411,6 +582,15 @@
     "type":"Shared",
     "status":"Active",
     "name":"Dang Nguyen",
+    "shirtno":""
+  },
+  {
+    "id":80857352,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"28\/09\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Christian Burvill-Holmes",
     "shirtno":""
   },
   {
@@ -1077,15 +1257,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Gabriel Tudini",
-    "shirtno":""
-  },
-  {
-    "id":75570333,
-    "team":"Adelaide Spurs",
-    "dateofbirth":"09\/01\/1966",
-    "type":"Full",
-    "status":"Active",
-    "name":"Andy Warhurst",
     "shirtno":""
   },
   {
@@ -2272,7 +2443,7 @@
     "team":"Royal Ajvar",
     "dateofbirth":"27\/09\/1980",
     "type":"Full",
-    "status":"Active",
+    "status":"De-reg Requested",
     "name":"Edo Arslanagic",
     "shirtno":""
   },
