@@ -8,7 +8,7 @@ const ManageGuests = ({ team, guests, dispatch }) => {
   const [latestGuest, setLatestGuest] = useState(1);
 
   function addGuest(name) {
-    var guestCount = "Guest " + latestGuest;
+    var guestCount = "Guest-" + latestGuest;
     var newGuests = {
       id: guestCount,
       name: name,
