@@ -4,7 +4,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Selector from "./Selector";
-import DevPanel from "./DevPanel";
+//import DevPanel from "./DevPanel";
 import PrintPreview from "./PrintPreview";
 import GUESTS from "./GuestList.json";
 import ManageGuests from "./ManageGuests";
@@ -12,7 +12,7 @@ import Teams from "./TeamData.json";
 
 
 import reducer from "./Reducer";
-import { propTypes } from "react-bootstrap/esm/Image";
+//import { propTypes } from "react-bootstrap/esm/Image";
 
 // We want to control the round and team at this level.
 
@@ -23,7 +23,7 @@ const HomePage = (props) => {
   console.log("Props: ", props);
 
   const initialState = {
-    round: 1,
+    round: 2,
     // team: "Adelaide Spurs",
     team: Teams[props.teamId-1].name,
     selected: [],
