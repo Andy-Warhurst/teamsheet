@@ -1,5 +1,86 @@
 [
   {
+    "id":50748326,
+    "team":"Sturt-Marion",
+    "dateofbirth":"04\/07\/1985",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Mitchell Hume",
+    "shirtno":""
+  },
+  {
+    "id":64022833,
+    "team":"University Orange",
+    "dateofbirth":"18\/01\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Jonathan Walsh",
+    "shirtno":""
+  },
+  {
+    "id":83831222,
+    "team":"West Beach Legends",
+    "dateofbirth":"17\/04\/1982",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Andrew Castiglio",
+    "shirtno":""
+  },
+  {
+    "id":75650457,
+    "team":"Phoenix",
+    "dateofbirth":"29\/06\/1984",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Alan Evans",
+    "shirtno":""
+  },
+  {
+    "id":80286438,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"18\/02\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Moseley",
+    "shirtno":""
+  },
+  {
+    "id":77264620,
+    "team":"Sporting",
+    "dateofbirth":"20\/10\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Edward Boyes",
+    "shirtno":""
+  },
+  {
+    "id":10101166,
+    "team":"Sturt-Marion",
+    "dateofbirth":"27\/01\/1983",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Terry Blyth",
+    "shirtno":""
+  },
+  {
+    "id":10096138,
+    "team":"University Old Boys Masters",
+    "dateofbirth":"24\/11\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Isaac Mann",
+    "shirtno":""
+  },
+  {
+    "id":10099365,
+    "team":"Sturt-Marion",
+    "dateofbirth":"06\/03\/1973",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Jim Hadjandonis",
+    "shirtno":""
+  },
+  {
     "id":75570333,
     "team":"Adelaide Spurs",
     "dateofbirth":"09\/01\/1966",

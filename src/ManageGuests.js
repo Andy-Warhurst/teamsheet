@@ -5,11 +5,12 @@ import FormControl from "react-bootstrap/FormControl";
 import InputGroup from "react-bootstrap/InputGroup";
 
 const ManageGuests = ({ team, guests, dispatch }) => {
-  const [latestGuest, setLatestGuest] = useState(1001);
+  const [latestGuest, setLatestGuest] = useState(1);
 
   function addGuest(name) {
+    var guestCount = "Guest " + latestGuest;
     var newGuests = {
-      id: latestGuest,
+      id: guestCount,
       name: name,
       team: team,
       dateofbirth: "10/08/1967",
