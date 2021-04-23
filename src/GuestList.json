@@ -32,6 +32,12 @@
   {
     "id": "Guest",
     "team":"West Beach Old Boys",
+    "name":"Daryl Pratt",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Old Boys",
     "name":"Andy Firth",
     "shirtno":""
   },
@@ -56,7 +62,25 @@
   {
     "id": "Guest",
     "team":"West Beach Old Boys",
+    "name":"Paul McKeddie",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Old Boys",
+    "name":"Tom Farnsworth",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Old Boys",
     "name":"Peter Drapaniutis",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Old Boys",
+    "name":"Peter Semple",
     "shirtno":""
   },
   {
@@ -128,7 +152,7 @@
   {
     "id": "Guest",
     "team":"Sturt-Marion",
-    "name":"MSCott Mates",
+    "name":"Scott Mates",
     "shirtno":""
   },
   {
@@ -230,7 +254,7 @@
   {
     "id": "Guest",
     "team":"Croatia",
-    "name":"Souk Douauotony",
+    "name":"Souk Doaucotory",
     "shirtno":""
   },
   {
@@ -277,6 +301,24 @@
   },
   {
     "id": "Guest",
+    "team":"University Orange",
+    "name":"Damien Weisz",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"University Orange",
+    "name":"James Forde",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"University Orange",
+    "name":"Volmer Berens",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
     "team":"Pulteney",
     "name":"Cristian Douglas",
     "shirtno":""
@@ -291,6 +333,66 @@
     "id": "Guest",
     "team":"Southern Cross",
     "name":"Simon Darmon",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Cove Fusion",
+    "name":"David Cowan",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Croatia",
+    "name":"Mark Andrawos",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Uni Old Boys",
+    "name":"David Bowman",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Mark Something",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Kerry Alagich",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Simon Taylor",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Colin Alagich",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Ross Vaughan",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Simon Jackson",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Sam Vuksevic",
     "shirtno":""
   }
 ]
