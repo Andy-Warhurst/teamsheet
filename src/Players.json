@@ -1,5 +1,230 @@
 [
   {
+    "id":10312965,
+    "team":"Sturt-Marion",
+    "dateofbirth":"14\/01\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Joseph Campbell",
+    "shirtno":""
+  },
+  {
+    "id":71367585,
+    "team":"Phoenix",
+    "dateofbirth":"09\/11\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Yong Chin",
+    "shirtno":""
+  },
+  {
+    "id":45371218,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"15\/08\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Robison",
+    "shirtno":""
+  },
+  {
+    "id":11253123,
+    "team":"Man City",
+    "dateofbirth":"26\/05\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Wayne Heald",
+    "shirtno":""
+  },
+  {
+    "id":83896043,
+    "team":"Sturt-Marion",
+    "dateofbirth":"04\/03\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Leroy Mahony",
+    "shirtno":""
+  },
+  {
+    "id":10952454,
+    "team":"Royal Ajvar",
+    "dateofbirth":"27\/09\/1980",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Edo Arslanagic",
+    "shirtno":""
+  },
+  {
+    "id":10588806,
+    "team":"Old Plymptonians",
+    "dateofbirth":"05\/04\/1983",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Richard Pickles",
+    "shirtno":""
+  },
+  {
+    "id":83556951,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"27\/08\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Christopher Nugent",
+    "shirtno":""
+  },
+  {
+    "id":83896993,
+    "team":"Sturt-Marion",
+    "dateofbirth":"30\/04\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Mustafa Hussein",
+    "shirtno":""
+  },
+  {
+    "id":85330355,
+    "team":"Phoenix",
+    "dateofbirth":"23\/03\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Anthony Egidio",
+    "shirtno":""
+  },
+  {
+    "id":11062906,
+    "team":"Sturt-Marion",
+    "dateofbirth":"22\/05\/1984",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Jay Honeysett",
+    "shirtno":""
+  },
+  {
+    "id":10699037,
+    "team":"Sturt-Marion",
+    "dateofbirth":"09\/06\/1977",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Andrew Mcaulay",
+    "shirtno":""
+  },
+  {
+    "id":80863665,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"07\/08\/1955",
+    "type":"Full",
+    "status":"Active",
+    "name":"Thomas Williams",
+    "shirtno":""
+  },
+  {
+    "id":77284388,
+    "team":"West Beach Legends",
+    "dateofbirth":"29\/07\/1975",
+    "type":"Full",
+    "status":"Active",
+    "name":"Kerry Alagich",
+    "shirtno":""
+  },
+  {
+    "id":77632925,
+    "team":"Cove Fusion",
+    "dateofbirth":"11\/12\/1974",
+    "type":"Shared",
+    "status":"Active",
+    "name":"David Cowan",
+    "shirtno":""
+  },
+  {
+    "id":82286873,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"06\/01\/1980",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Naseer Ahmed",
+    "shirtno":""
+  },
+  {
+    "id":76455021,
+    "team":"Croatia",
+    "dateofbirth":"01\/07\/1977",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Mark Andrawos",
+    "shirtno":""
+  },
+  {
+    "id":10608613,
+    "team":"West Beach",
+    "dateofbirth":"20\/11\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Steve Fulton",
+    "shirtno":""
+  },
+  {
+    "id":10101861,
+    "team":"Old Plymptonians",
+    "dateofbirth":"19\/08\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Kevin Lyne",
+    "shirtno":""
+  },
+  {
+    "id":10099069,
+    "team":"Southern Cross",
+    "dateofbirth":"22\/03\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ross Hawkes",
+    "shirtno":""
+  },
+  {
+    "id":60277084,
+    "team":"University Old Boys",
+    "dateofbirth":"18\/10\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Bowman",
+    "shirtno":""
+  },
+  {
+    "id":85156578,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"01\/11\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Darryl Pratt",
+    "shirtno":""
+  },
+  {
+    "id":80533375,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"21\/10\/1961",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andrew Firth",
+    "shirtno":""
+  },
+  {
+    "id":50765346,
+    "team":"Man City",
+    "dateofbirth":"05\/03\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Parkin",
+    "shirtno":""
+  },
+  {
+    "id":79296133,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"06\/02\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Roger Moore",
+    "shirtno":""
+  },
+  {
     "id":10615582,
     "team":"Croatia",
     "dateofbirth":"23\/12\/1976",
@@ -42,6 +267,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Jim Hadjandonis",
+    "shirtno":""
+  },
+  {
+    "id":80468036,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"26\/07\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Peter Semple",
     "shirtno":""
   },
   {
@@ -95,15 +329,6 @@
     "dateofbirth":"24\/09\/1976",
     "type":"Shared",
     "status":"Active",
-    "name":"Miroslav Markovic",
-    "shirtno":""
-  },
-  {
-    "id":11233139,
-    "team":"Royal Ajvar",
-    "dateofbirth":"24\/09\/1976",
-    "type":"Shared",
-    "status":"De-reg Requested",
     "name":"Miroslav Markovic",
     "shirtno":""
   },
@@ -339,6 +564,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Niels Van De Kreeke",
+    "shirtno":""
+  },
+  {
+    "id":11220175,
+    "team":"University Old Boys",
+    "dateofbirth":"29\/11\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jan Dohse",
     "shirtno":""
   },
   {
@@ -2745,15 +2979,6 @@
     "shirtno":""
   },
   {
-    "id":10952454,
-    "team":"Royal Ajvar",
-    "dateofbirth":"27\/09\/1980",
-    "type":"Full",
-    "status":"De-reg Requested",
-    "name":"Edo Arslanagic",
-    "shirtno":""
-  },
-  {
     "id":79181327,
     "team":"Royal Ajvar",
     "dateofbirth":"29\/06\/1979",
@@ -2814,15 +3039,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Matthew Turtle",
-    "shirtno":""
-  },
-  {
-    "id":10575287,
-    "team":"Southern Sharks",
-    "dateofbirth":"26\/05\/1959",
-    "type":"Full",
-    "status":"Active",
-    "name":"Robert Arnold",
     "shirtno":""
   },
   {

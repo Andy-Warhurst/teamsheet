@@ -1,7 +1,7 @@
 [
   {
     "id": "Guest",
-    "team":"Adelaide Spurs",
+    "team":"Phoenix",
     "name":"Mohannad Alotaibi",
     "shirtno":""
   },
@@ -20,25 +20,7 @@
   {
     "id": "Guest",
     "team":"Monarchs",
-    "name":"Yong Chin",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Monarchs",
     "name":"Ron Van Ayswyk",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach Old Boys",
-    "name":"Daryl Pratt",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach Old Boys",
-    "name":"Andy Firth",
     "shirtno":""
   },
   {
@@ -80,12 +62,6 @@
   {
     "id": "Guest",
     "team":"West Beach Old Boys",
-    "name":"Peter Semple",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach Old Boys",
     "name":"Tom Lowe",
     "shirtno":""
   },
@@ -93,18 +69,6 @@
     "id": "Guest",
     "team":"West Beach Old Boys",
     "name":"John Raschella",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach Old Boys",
-    "name":"David Robison",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Sturt-Marion B",
-    "name":"Chris Nugent",
     "shirtno":""
   },
   {
@@ -123,24 +87,6 @@
     "id": "Guest",
     "team":"Sturt-Marion B",
     "name":"Rob Becker",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Sturt-Marion",
-    "name":"Joseph Campbell",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Sturt-Marion",
-    "name":"Andrew McAuley",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Sturt-Marion",
-    "name":"Mustapha Hussein",
     "shirtno":""
   },
   {
@@ -170,12 +116,6 @@
   {
     "id": "Guest",
     "team":"West Beach",
-    "name":"Steve Fulton",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach",
     "name":"Scot Bradley",
     "shirtno":""
   },
@@ -194,12 +134,6 @@
   {
     "id": "Guest",
     "team":"Phoenix",
-    "name":"Anthony Egidio",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Phoenix",
     "name":"Dhan Rai",
     "shirtno":""
   },
@@ -207,24 +141,6 @@
     "id": "Guest",
     "team":"Phoenix",
     "name":"Chris Zoubini",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Old Plymptonians",
-    "name":"Ricky Pickles",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Old Plymptonians",
-    "name":"Kev Lyne",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Old Plymptonians",
-    "name":"Dave Southwell",
     "shirtno":""
   },
   {
@@ -241,18 +157,6 @@
   },
   {
     "id": "Guest",
-    "team":"Austria",
-    "name":"Steve Gawthrop",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Austria",
-    "name":"Michael Rock",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
     "team":"Croatia",
     "name":"Souk Doaucotory",
     "shirtno":""
@@ -260,19 +164,7 @@
   {
     "id": "Guest",
     "team":"Man City",
-    "name":"Wayne Heald",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Man City",
     "name":"Rob Arnold",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Man City",
-    "name":"Simon Parkin",
     "shirtno":""
   },
   {
@@ -291,18 +183,6 @@
     "id": "Guest",
     "team":"University Orange",
     "name":"Dan Kerber",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"University Orange",
-    "name":"Jon Walsh",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"University Orange",
-    "name":"Damien Weisz",
     "shirtno":""
   },
   {
@@ -331,38 +211,8 @@
   },
   {
     "id": "Guest",
-    "team":"Southern Cross",
-    "name":"Simon Darmon",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Cove Fusion",
-    "name":"David Cowan",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Croatia",
-    "name":"Mark Andrawos",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Uni Old Boys",
-    "name":"David Bowman",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
     "team":"West Beach Legends",
     "name":"Mark Something",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach Legends",
-    "name":"Kerry Alagich",
     "shirtno":""
   },
   {
