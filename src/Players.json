@@ -1,5 +1,23 @@
 [
   {
+    "id":75807339,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"25\/09\/1953",
+    "type":"Full",
+    "status":"Active",
+    "name":"Bill Houston",
+    "shirtno":""
+  },
+  {
+    "id":10984587,
+    "team":"Croatia",
+    "dateofbirth":"13\/10\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ante Kolar",
+    "shirtno":""
+  },
+  {
     "id":10312965,
     "team":"Sturt-Marion",
     "dateofbirth":"14\/01\/1983",
@@ -1770,15 +1788,6 @@
     "type":"Full",
     "status":"Active",
     "name":"John Alexandrou",
-    "shirtno":""
-  },
-  {
-    "id":73480279,
-    "team":"West Beach Legends",
-    "dateofbirth":"29\/03\/1982",
-    "type":"Full",
-    "status":"Active",
-    "name":"Glenn Bartlett",
     "shirtno":""
   },
   {
