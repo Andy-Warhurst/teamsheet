@@ -1,5 +1,77 @@
 [
   {
+    "id":73480279,
+    "team":"Sporting",
+    "dateofbirth":"29\/03\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Glenn Bartlett",
+    "shirtno":""
+  },
+  {
+    "id":10592608,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"15\/10\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Tom Lowe",
+    "shirtno":""
+  },
+  {
+    "id":10102351,
+    "team":"West Beach",
+    "dateofbirth":"06\/05\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Nicholas Tattoli",
+    "shirtno":""
+  },
+  {
+    "id":10103360,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"14\/09\/1973",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Man Chio Cheang",
+    "shirtno":""
+  },
+  {
+    "id":75928374,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"10\/07\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Mackeddie",
+    "shirtno":""
+  },
+  {
+    "id":10096497,
+    "team":"West Beach",
+    "dateofbirth":"21\/10\/1972",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Gary Ashton",
+    "shirtno":""
+  },
+  {
+    "id":11255070,
+    "team":"Southern Sharks",
+    "dateofbirth":"11\/06\/1961",
+    "type":"Full",
+    "status":"Active",
+    "name":"Les Crawford",
+    "shirtno":""
+  },
+  {
+    "id":11255009,
+    "team":"Phoenix",
+    "dateofbirth":"04\/08\/1975",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Mohannad Alotaibi",
+    "shirtno":""
+  },
+  {
     "id":75807339,
     "team":"West Beach Old Boys",
     "dateofbirth":"25\/09\/1953",
@@ -2103,15 +2175,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Simon Kent",
-    "shirtno":""
-  },
-  {
-    "id":11031252,
-    "team":"West Beach",
-    "dateofbirth":"27\/01\/1983",
-    "type":"Full",
-    "status":"Active",
-    "name":"Robert Warner",
     "shirtno":""
   },
   {

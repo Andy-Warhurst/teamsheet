@@ -1,10 +1,5 @@
 [
-  {
-    "id": "Guest",
-    "team":"Phoenix",
-    "name":"Mohannad Alotaibi",
-    "shirtno":""
-  },
+
   {
     "id": "Guest",
     "team":"Adelaide Spurs",
@@ -38,12 +33,6 @@
   {
     "id": "Guest",
     "team":"West Beach Old Boys",
-    "name":"Paul McKeddie",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach Old Boys",
     "name":"Tom Farnsworth",
     "shirtno":""
   },
@@ -51,12 +40,6 @@
     "id": "Guest",
     "team":"West Beach Old Boys",
     "name":"Peter Drapaniutis",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach Old Boys",
-    "name":"Tom Lowe",
     "shirtno":""
   },
   {
