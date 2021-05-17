@@ -1,5 +1,68 @@
 [
   {
+    "id":77632925,
+    "team":"Cove Fusion",
+    "dateofbirth":"11\/12\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Cowan",
+    "shirtno":""
+  },
+  {
+    "id":11263213,
+    "team":"Man City",
+    "dateofbirth":"19\/05\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Richard Graham",
+    "shirtno":""
+  },
+  {
+    "id":11262848,
+    "team":"Royal Ajvar",
+    "dateofbirth":"10\/04\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Sasa Prso",
+    "shirtno":""
+  },
+  {
+    "id":10101110,
+    "team":"Croatia",
+    "dateofbirth":"01\/05\/1966",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Souk Douangphoumy",
+    "shirtno":""
+  },
+  {
+    "id":63358766,
+    "team":"West Beach",
+    "dateofbirth":"21\/04\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Torsten Rutter",
+    "shirtno":""
+  },
+  {
+    "id":10103069,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"25\/03\/1986",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Soo Bin Moon",
+    "shirtno":""
+  },
+  {
+    "id":10099745,
+    "team":"West Beach",
+    "dateofbirth":"09\/04\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Benjamin Yolland",
+    "shirtno":""
+  },
+  {
     "id":78899804,
     "team":"Adelaide Spurs",
     "dateofbirth":"02\/02\/1977",
@@ -312,15 +375,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Kerry Alagich",
-    "shirtno":""
-  },
-  {
-    "id":77632925,
-    "team":"Cove Fusion",
-    "dateofbirth":"11\/12\/1974",
-    "type":"Shared",
-    "status":"Active",
-    "name":"David Cowan",
     "shirtno":""
   },
   {
@@ -1167,15 +1221,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Ardit Ibro",
-    "shirtno":""
-  },
-  {
-    "id":11030411,
-    "team":"Cove Fusion",
-    "dateofbirth":"29\/05\/1971",
-    "type":"Shared",
-    "status":"Active",
-    "name":"Alessandro Mannini",
     "shirtno":""
   },
   {
@@ -2877,15 +2922,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Duncan Haller",
-    "shirtno":""
-  },
-  {
-    "id":10990095,
-    "team":"Southern Sharks",
-    "dateofbirth":"28\/09\/1982",
-    "type":"Full",
-    "status":"Active",
-    "name":"Benjamin Bol Bol",
     "shirtno":""
   },
   {
