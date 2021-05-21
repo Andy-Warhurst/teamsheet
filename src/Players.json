@@ -1,5 +1,32 @@
 [
   {
+    "id":10990095,
+    "team":"Monarchs",
+    "dateofbirth":"28\/09\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Benjamin Bol Bol",
+    "shirtno":""
+  },
+  {
+    "id":10099105,
+    "team":"University Orange",
+    "dateofbirth":"14\/02\/1957",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Alan Dickson",
+    "shirtno":""
+  },
+  {
+    "id":11030411,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"29\/05\/1971",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Alessandro Mannini",
+    "shirtno":""
+  },
+  {
     "id":77632925,
     "team":"Cove Fusion",
     "dateofbirth":"11\/12\/1974",
@@ -60,6 +87,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Benjamin Yolland",
+    "shirtno":""
+  },
+  {
+    "id":10672782,
+    "team":"West Beach Legends",
+    "dateofbirth":"11\/06\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Marcus Woods",
     "shirtno":""
   },
   {
@@ -1842,6 +1878,15 @@
     "type":"Full",
     "status":"Active",
     "name":"David Beukman",
+    "shirtno":""
+  },
+  {
+    "id":11210075,
+    "team":"University Orange",
+    "dateofbirth":"01\/02\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Graeme Atkinson",
     "shirtno":""
   },
   {
