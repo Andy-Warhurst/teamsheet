@@ -1,5 +1,59 @@
 [
   {
+    "id":11153594,
+    "team":"West Beach Legends",
+    "dateofbirth":"30\/10\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Simon Taylor",
+    "shirtno":""
+  },
+  {
+    "id":11267828,
+    "team":"Cove Fusion",
+    "dateofbirth":"17\/05\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Panayiotis Mazis",
+    "shirtno":""
+  },
+  {
+    "id":77018216,
+    "team":"Monarchs",
+    "dateofbirth":"01\/03\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Anthony Marafioti",
+    "shirtno":""
+  },
+  {
+    "id":10796864,
+    "team":"Southern Cross",
+    "dateofbirth":"30\/01\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Kitchen",
+    "shirtno":""
+  },
+  {
+    "id":11266147,
+    "team":"Phoenix",
+    "dateofbirth":"20\/10\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "name":"David Palmieri",
+    "shirtno":""
+  },
+  {
+    "id":10797892,
+    "team":"Cove Fusion",
+    "dateofbirth":"03\/02\/1965",
+    "type":"Full",
+    "status":"Active",
+    "name":"Bosko Jaric",
+    "shirtno":""
+  },
+  {
     "id":10990095,
     "team":"Monarchs",
     "dateofbirth":"28\/09\/1982",

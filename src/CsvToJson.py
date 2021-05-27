@@ -1,4 +1,6 @@
 import pandas as pd
+import os
+
 df = pd.read_csv (r'/Users/Andy/Downloads/RegManagementDetails.csv')
 
 keeps=["FFA Number","Club Name","Firstname","Lastname","DOB","Product Name","Reg Status Secondary"]
@@ -41,3 +43,5 @@ df = df.rename(columns={"FFA Number": "id",
 print(df)
 
 df.to_json (r'./src/Players.json',orient='records',indent=2)
+
+os.remove('/Users/Andy/Downloads/RegManagementDetails.csv')
