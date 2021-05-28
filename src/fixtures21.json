@@ -692,6 +692,24 @@
     "division": 2
   },
   {
+    "round": 7,
+    "hometeam": "Southern Cross",
+    "awayteam": "Phoenix",
+    "venue": "Barratt Reserve 1",
+    "date": "30/05/21",
+    "time": "11:15",
+    "division": "CUP"
+  },
+  {
+    "round": 7,
+    "hometeam": "Cove Fusion",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 5",
+    "date": "30/05/21",
+    "time": "11:15",
+    "division": "CUP"
+  },
+  {
     "round": 8,
     "hometeam": "Croatia",
     "awayteam": "Southern Cross",
