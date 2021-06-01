@@ -1,5 +1,23 @@
 [
   {
+    "id":75764233,
+    "team":"West Beach",
+    "dateofbirth":"24\/05\/1979",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Shane Frank",
+    "shirtno":""
+  },
+  {
+    "id":65174054,
+    "team":"Pulteney",
+    "dateofbirth":"21\/01\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Alan Bradshaw",
+    "shirtno":""
+  },
+  {
     "id":11153594,
     "team":"West Beach Legends",
     "dateofbirth":"30\/10\/1981",
@@ -189,15 +207,6 @@
     "shirtno":""
   },
   {
-    "id":45555299,
-    "team":"West Beach Legends",
-    "dateofbirth":"07\/03\/1983",
-    "type":"Full",
-    "status":"Active",
-    "name":"Mason Willis",
-    "shirtno":""
-  },
-  {
     "id":50738186,
     "team":"West Beach Legends",
     "dateofbirth":"18\/03\/1976",
@@ -213,15 +222,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Rob Vaughan",
-    "shirtno":""
-  },
-  {
-    "id":64025570,
-    "team":"West Beach Legends",
-    "dateofbirth":"19\/07\/1966",
-    "type":"Full",
-    "status":"Active",
-    "name":"John Raschella",
     "shirtno":""
   },
   {
@@ -330,15 +330,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Joseph Campbell",
-    "shirtno":""
-  },
-  {
-    "id":71367585,
-    "team":"Phoenix",
-    "dateofbirth":"09\/11\/1972",
-    "type":"Full",
-    "status":"Active",
-    "name":"Yong Chin",
     "shirtno":""
   },
   {
