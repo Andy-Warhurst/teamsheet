@@ -63,7 +63,7 @@
   {
     "id": "Guest",
     "team":"Phoenix",
-    "name":"Mauigok Ajai Wai",
+    "name":"Mangok Ajai Wai",
     "shirtno":""
   },
   {
@@ -142,6 +142,120 @@
     "id": "Guest",
     "team":"West Beach Legends",
     "name":"Sam Vuksevic",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Man City",
+    "name":"Craig Harrison",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sturt-Marion",
+    "name":"Heath Shelmerdidie",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Chris Bradley",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Phoenix",
+    "name":"Tony Zolo",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sporting",
+    "name":"Alan Grimwood",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Man City",
+    "name":"Chris Long",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sporting",
+    "name":"J Caceres",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Phoenix",
+    "name":"Mark Lenartowicz",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Phoenix",
+    "name":"Dave Palmieri",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sporting",
+    "name":"Spotty Hancock",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Old Plymptonians",
+    "name":"Liam Glass",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Old Plymptonians",
+    "name":"Paul Bennett",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Nick Tattoli",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Man City",
+    "name":"James Havl",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Josh Mcafferray",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Lee Gregan",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Southern Cross",
+    "name":"Tref Koutas",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Steve Bordijeda",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Adrian Leet",
     "shirtno":""
   }
 ]
