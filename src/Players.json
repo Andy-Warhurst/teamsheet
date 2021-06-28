@@ -1,5 +1,68 @@
 [
   {
+    "id":11253939,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"15\/01\/1966",
+    "type":"Full",
+    "status":"Active",
+    "name":"Arthur Paragalas",
+    "shirtno":""
+  },
+  {
+    "id":10099388,
+    "team":"Sturt-Marion",
+    "dateofbirth":"22\/10\/1979",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Darren Paice",
+    "shirtno":""
+  },
+  {
+    "id":10956590,
+    "team":"Man City",
+    "dateofbirth":"05\/08\/1964",
+    "type":"Full",
+    "status":"Active",
+    "name":"Peter Batts",
+    "shirtno":""
+  },
+  {
+    "id":80990799,
+    "team":"Royal Ajvar",
+    "dateofbirth":"16\/09\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Bahram Alvandi",
+    "shirtno":""
+  },
+  {
+    "id":64025570,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"19\/07\/1966",
+    "type":"Full",
+    "status":"Active",
+    "name":"John Raschella",
+    "shirtno":""
+  },
+  {
+    "id":11275093,
+    "team":"University Old Boys",
+    "dateofbirth":"27\/10\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Roger Han",
+    "shirtno":""
+  },
+  {
+    "id":11274694,
+    "team":"Southern Cross",
+    "dateofbirth":"11\/01\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Emmanuel Akpaloo",
+    "shirtno":""
+  },
+  {
     "id":11229688,
     "team":"Sporting",
     "dateofbirth":"27\/09\/1971",
