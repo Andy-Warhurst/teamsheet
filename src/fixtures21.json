@@ -1004,50 +1004,42 @@
     "date": "27/06/21",
     "time": "N/A",
     "division": 2
-  },{
-  "round": 11,
-  "hometeam": "",
-  "awayteam": "",
-  "venue": "Barratt Reserve 1",
-  "date": "04/07/21",
-  "time": "11:15",
-  "division": 1
-},
+  },
   {
     "round": 11,
-    "hometeam": "",
-    "awayteam": "",
+    "hometeam": "Old Plymptonians",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 2",
     "date": "04/07/21",
     "time": "11:15",
-    "division": 1
+    "division": "CUP"
   },
   {
     "round": 11,
-    "hometeam": "",
-    "awayteam": "",
+    "hometeam": "West Beach",
+    "awayteam": "Sporting",
     "venue": "Barratt Reserve 3",
     "date": "04/07/21",
     "time": "11:15",
-    "division": 1
+    "division": "CUP"
   },
   {
     "round": 11,
-    "hometeam": "",
-    "awayteam": "",
+    "hometeam": "Croatia",
+    "awayteam": "Sturt Marion",
     "venue": "Barratt Reserve 4",
     "date": "04/07/21",
     "time": "11:15",
-    "division": 1
+    "division": "CUP"
   },
   {
     "round": 11,
-    "hometeam": "",
-    "awayteam": "",
+    "hometeam": "Man City",
+    "awayteam": "Southern Cross",
     "venue": "Barratt Reserve 5",
     "date": "04/07/21",
     "time": "11:15",
-    "division": 1
+    "division": "CUP"
   },
   {
     "round": 11,
