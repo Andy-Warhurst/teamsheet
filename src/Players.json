@@ -1,5 +1,32 @@
 [
   {
+    "id":66974825,
+    "team":"Pulteney",
+    "dateofbirth":"25\/08\/1977",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Christian Douglas",
+    "shirtno":""
+  },
+  {
+    "id":76058148,
+    "team":"West Beach Old Boys",
+    "dateofbirth":"07\/12\/1966",
+    "type":"Full",
+    "status":"Active",
+    "name":"Damian Hassell",
+    "shirtno":""
+  },
+  {
+    "id":71340681,
+    "team":"Pulteney",
+    "dateofbirth":"15\/09\/1983",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Lee Farrell",
+    "shirtno":""
+  },
+  {
     "id":11253939,
     "team":"Sturt-Marion B",
     "dateofbirth":"15\/01\/1966",
