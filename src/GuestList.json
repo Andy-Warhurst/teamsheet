@@ -38,18 +38,6 @@
   },
   {
     "id": "Guest",
-    "team":"Sturt-Marion",
-    "name":"Mark Sanger",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach",
-    "name":"Scot Bradley",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
     "team":"Phoenix",
     "name":"Mangok Ajai Wai",
     "shirtno":""
@@ -74,14 +62,14 @@
   },
   {
     "id": "Guest",
-    "team":"Old Plymptonians",
-    "name":"Carlos De Azambuja",
+    "team":"Phoenix",
+    "name":"Mark Lenartowicz",
     "shirtno":""
   },
   {
     "id": "Guest",
-    "team":"Man City",
-    "name":"Stefan Ebelufe",
+    "team":"Phoenix",
+    "name":"Tony Zolo",
     "shirtno":""
   },
   {
@@ -110,32 +98,20 @@
   },
   {
     "id": "Guest",
-    "team":"West Beach Legends",
-    "name":"Mark Something",
+    "team":"Southern Cross",
+    "name":"Tref Koutas",
     "shirtno":""
   },
   {
     "id": "Guest",
-    "team":"West Beach Legends",
-    "name":"Simon Jackson",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"West Beach Legends",
-    "name":"Sam Vuksevic",
+    "team":"Southern Cross",
+    "name":"John Seale",
     "shirtno":""
   },
   {
     "id": "Guest",
     "team":"Man City",
     "name":"Craig Harrison",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"Sturt-Marion",
-    "name":"Heath Shelmerdidie",
     "shirtno":""
   },
   {
@@ -147,7 +123,25 @@
   {
     "id": "Guest",
     "team":"Man City",
+    "name":"James Havl",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Man City",
+    "name":"Stefan Ebelufe",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Man City",
     "name":"Chris Long",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Man City",
+    "name":"John Wannal",
     "shirtno":""
   },
   {
@@ -188,14 +182,14 @@
   },
   {
     "id": "Guest",
-    "team":"West Beach",
-    "name":"Nick Tattoli",
+    "team":"Old Plymptonians",
+    "name":"Carlos De Azambuja",
     "shirtno":""
   },
   {
     "id": "Guest",
-    "team":"Man City",
-    "name":"James Havl",
+    "team":"Old Plymptonians",
+    "name":"Barry Vanloo",
     "shirtno":""
   },
   {
@@ -212,12 +206,6 @@
   },
   {
     "id": "Guest",
-    "team":"Southern Cross",
-    "name":"Tref Koutas",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
     "team":"West Beach Legends",
     "name":"Steve Bordijeda",
     "shirtno":""
@@ -225,7 +213,133 @@
   {
     "id": "Guest",
     "team":"West Beach Legends",
+    "name":"Mark Something",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Simon Jackson",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Sam Vuksevic",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
     "name":"Adrian Leet",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Marco Leone",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach Legends",
+    "name":"Shane Frank",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Scot Bradley",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Nick Tattoli",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Sime Pesa",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Steve Burdigen",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Peter Semple",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Robert Warner",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Adrian Leet",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"West Beach",
+    "name":"Chris Kelly",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sturt-Marion",
+    "name":"Mark Sanger",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sturt-Marion",
+    "name":"Heath Shelmerdidie",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sturt-Marion",
+    "name":"Denis ?",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sturt-Marion",
+    "name":"David Sedgewick",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Sturt-Marion",
+    "name":"Deal Redmond",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Croatia",
+    "name":"Ivar Karlovic",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Cove Fusion",
+    "name":"Mark Sayers",
+    "shirtno":""
+  },
+  {
+    "id": "Guest",
+    "team":"Cove Fusion",
+    "name":"Peter",
     "shirtno":""
   }
 ]
