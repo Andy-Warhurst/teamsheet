@@ -1,5 +1,59 @@
 [
   {
+    "id":80468036,
+    "team":"West Beach",
+    "dateofbirth":"26\/07\/1978",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Peter Semple",
+    "shirtno":""
+  },
+  {
+    "id":75555797,
+    "team":"West Beach Legends",
+    "dateofbirth":"01\/09\/1974",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Simon Froude",
+    "shirtno":""
+  },
+  {
+    "id":10373360,
+    "team":"Southern Cross",
+    "dateofbirth":"11\/01\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Clinton King",
+    "shirtno":""
+  },
+  {
+    "id":11277904,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"09\/06\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Mcpherson",
+    "shirtno":""
+  },
+  {
+    "id":10716740,
+    "team":"Croatia",
+    "dateofbirth":"06\/12\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Eugene Galekovic",
+    "shirtno":""
+  },
+  {
+    "id":85329688,
+    "team":"University Orange",
+    "dateofbirth":"28\/07\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ross Dingle",
+    "shirtno":""
+  },
+  {
     "id":10099131,
     "team":"Austria",
     "dateofbirth":"02\/04\/1976",
@@ -861,15 +915,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Jim Hadjandonis",
-    "shirtno":""
-  },
-  {
-    "id":80468036,
-    "team":"West Beach Old Boys",
-    "dateofbirth":"26\/07\/1978",
-    "type":"Full",
-    "status":"Active",
-    "name":"Peter Semple",
     "shirtno":""
   },
   {
@@ -2220,15 +2265,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Wiktor Mertyn",
-    "shirtno":""
-  },
-  {
-    "id":75555797,
-    "team":"West Beach",
-    "dateofbirth":"01\/09\/1974",
-    "type":"Full",
-    "status":"Active",
-    "name":"Simon Froude",
     "shirtno":""
   },
   {
