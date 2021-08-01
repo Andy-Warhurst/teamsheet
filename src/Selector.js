@@ -14,8 +14,9 @@ const Rounds = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22];
 const Selector = ({round, team, guests, selected, dispatch}) => {
 
   var availablePlayers = Players;
-  availablePlayers = availablePlayers.concat(guests);
   availablePlayers = availablePlayers.filter(extractPlayersByTeam).sort((a, b) => a.name > b.name);
+  availablePlayers = availablePlayers.concat(guests);
+  availablePlayers = availablePlayers.filter(extractPlayersByTeam);
   
   function extractPlayersByTeam(plr) {
     return plr.team === team;    
@@ -27,7 +28,8 @@ const Selector = ({round, team, guests, selected, dispatch}) => {
     updatedSelections = updatedSelections.concat(selected);
 
     if (!updatedSelections.includes(selection)) {
-      updatedSelections[updatedSelections.length] = selection;
+      // updatedSelections[updatedSelections.length] = selection;
+      updatedSelections.push(selection);
     } else {
       var index = updatedSelections.indexOf(selection);
       updatedSelections.splice(index, 1);
@@ -85,7 +87,17 @@ const Selector = ({round, team, guests, selected, dispatch}) => {
           ))
         }
 
+
       </Form>
+
+        {/*<hr></hr>*/}
+
+        {/*{*/}
+        {/*    selected.map(s=> (*/}
+        {/*        <p>{s.name}</p>*/}
+
+        {/*    ))*/}
+        {/*}*/}
      
     </div>
   );

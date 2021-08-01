@@ -25,7 +25,7 @@ const ManageGuests = ({ team, guests, dispatch }) => {
     allGuests = allGuests.concat(guests);
 
     allGuests[allGuests.length] = newGuests;
-    GUESTS[GUESTS.length] = newGuests;
+    // GUESTS[GUESTS.length] = newGuests;    // Possibly unmutable
 
     dispatch({ type: "CHANGE_GUESTS", payload: allGuests });
   }
@@ -37,7 +37,7 @@ const ManageGuests = ({ team, guests, dispatch }) => {
       <InputGroup>
         <FormControl
           placeholder="Guest's Name"
-          aria-label="Ruest's Name"
+          aria-label="Guest's Name"
           aria-describedby="basic-addon2"
           id="guestname"
         />

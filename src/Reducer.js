@@ -16,7 +16,7 @@ function reducer(state, action) {
     case "CHANGE_SELECTED":
       return {
         ...state,
-        selected: action.payload,
+        selected: action.payload
       };
 
     case "CHANGE_GUESTS":
