@@ -1,5 +1,32 @@
 [
   {
+    "id":70295191,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"31\/08\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Welsh",
+    "shirtno":""
+  },
+  {
+    "id":10102351,
+    "team":"West Beach Legends",
+    "dateofbirth":"06\/05\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Nicholas Tattoli",
+    "shirtno":""
+  },
+  {
+    "id":45117504,
+    "team":"West Beach Legends",
+    "dateofbirth":"29\/09\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Josh Hilditch",
+    "shirtno":""
+  },
+  {
     "id":80468036,
     "team":"West Beach",
     "dateofbirth":"26\/07\/1978",
@@ -564,15 +591,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Tom Lowe",
-    "shirtno":""
-  },
-  {
-    "id":10102351,
-    "team":"West Beach",
-    "dateofbirth":"06\/05\/1985",
-    "type":"Full",
-    "status":"Active",
-    "name":"Nicholas Tattoli",
     "shirtno":""
   },
   {
@@ -3138,15 +3156,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Ian Usher",
-    "shirtno":""
-  },
-  {
-    "id":45117504,
-    "team":"West Beach",
-    "dateofbirth":"29\/09\/1979",
-    "type":"Full",
-    "status":"Active",
-    "name":"Josh Hilditch",
     "shirtno":""
   },
   {
