@@ -32,6 +32,7 @@ df = df.replace({'Pulteney Old Scholars Masters': 'Pulteney',
  'West Beach Legends Masters': 'West Beach Legends'})
 
 df = df.replace({'Product Name': r'.*FULL.*'},{'Product Name': 'Full'}, regex=True)
+
 df = df.replace({'Product Name': r'.*SHARED.*'},{'Product Name': 'Shared'}, regex=True)
 
 df = df.rename(columns={"FFA Number": "id",

@@ -1,5 +1,68 @@
 [
   {
+    "id":10099929,
+    "team":"Austria",
+    "dateofbirth":"18\/03\/1986",
+    "type":"Full",
+    "status":"Active",
+    "name":"Pascal Sherpa",
+    "shirtno":""
+  },
+  {
+    "id":10917925,
+    "team":"Pulteney",
+    "dateofbirth":"23\/10\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Taylor",
+    "shirtno":""
+  },
+  {
+    "id":80788409,
+    "team":"Phoenix",
+    "dateofbirth":"02\/09\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Darlington  Ogbonna",
+    "shirtno":""
+  },
+  {
+    "id":82411638,
+    "team":"West Beach",
+    "dateofbirth":"20\/03\/1974",
+    "type":"Shared",
+    "status":"Active",
+    "name":"William Prescott",
+    "shirtno":""
+  },
+  {
+    "id":10672408,
+    "team":"Sturt-Marion B",
+    "dateofbirth":"17\/05\/1984",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Tyson Rivers",
+    "shirtno":""
+  },
+  {
+    "id":11280198,
+    "team":"St Peter's",
+    "dateofbirth":"27\/07\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Nicolas Arriola",
+    "shirtno":""
+  },
+  {
+    "id":77642783,
+    "team":"Sporting",
+    "dateofbirth":"30\/12\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Peter Taylor",
+    "shirtno":""
+  },
+  {
     "id":59157255,
     "team":"Royal Ajvar",
     "dateofbirth":"23\/05\/1979",
@@ -2061,15 +2124,6 @@
     "shirtno":""
   },
   {
-    "id":82411638,
-    "team":"West Beach Legends",
-    "dateofbirth":"20\/03\/1974",
-    "type":"Full",
-    "status":"Active",
-    "name":"William Prescott",
-    "shirtno":""
-  },
-  {
     "id":71361737,
     "team":"Adelaide Spurs",
     "dateofbirth":"22\/11\/1981",
@@ -2886,15 +2940,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Trent Brotherton",
-    "shirtno":""
-  },
-  {
-    "id":11125732,
-    "team":"Sporting",
-    "dateofbirth":"27\/02\/1977",
-    "type":"Full",
-    "status":"Active",
-    "name":"Simon Lucey",
     "shirtno":""
   },
   {
