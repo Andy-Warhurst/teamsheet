@@ -23,7 +23,7 @@ const HomePage = (props) => {
   console.log("Props: ", props);
 
   const initialState = {
-    round: 20,
+    round: 21,
     // team: "Adelaide Spurs",
     team: Teams[props.teamId-1].name,
     selected: [],
