@@ -1,5 +1,23 @@
 [
   {
+    "id":10192438,
+    "team":"St Peter's",
+    "dateofbirth":"05\/02\/1953",
+    "type":"Full",
+    "status":"Active",
+    "name":"Angel Lopez",
+    "shirtno":""
+  },
+  {
+    "id":10099364,
+    "team":"Sturt-Marion",
+    "dateofbirth":"22\/01\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Adam Gray",
+    "shirtno":""
+  },
+  {
     "id":10994180,
     "team":"Sturt-Marion",
     "dateofbirth":"26\/03\/1982",
@@ -1599,15 +1617,6 @@
     "type":"Full",
     "status":"Active",
     "name":"Luke Rowley",
-    "shirtno":""
-  },
-  {
-    "id":10099201,
-    "team":"St Peter's",
-    "dateofbirth":"10\/06\/1967",
-    "type":"Full",
-    "status":"Active",
-    "name":"Biagio De Fazio",
     "shirtno":""
   },
   {
