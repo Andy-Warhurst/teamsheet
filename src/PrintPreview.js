@@ -15,7 +15,7 @@ const PrintPreview = (props) => {
             />
             <PlayerList team={props.team} players={props.selected} />
             <br />
-            <Result 
+            <Result
                 round={props.round}
                 team={props.team} />
                 <br />

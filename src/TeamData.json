@@ -8,7 +8,7 @@
     "id": 2,
     "name": "Austria",
     "division": 2,
-    "delegate": "Duncan H"
+    "delegate": "Gordon"
 },{
     "id": 3,
     "name": "Cove Fusion",
@@ -26,82 +26,72 @@
     "delegate": "Jon Parkin"
 },{
     "id": 6,
-    "name": "Monarchs",
-    "division": 2,
-    "delegate": "Andrew DiBlaise"
-},{
-    "id": 7,
     "name": "Old Plymptonians",
     "division": 1,
     "delegate": "Steve Hammond"
 },{
-    "id": 8,
-    "name": "Phoenix",
-    "division": 1,
-    "delegate": "Stuart Cowan"
-},{
-    "id": 9,
+    "id": 7,
     "name": "Pulteney",
     "division": 2,
     "delegate": "Frank"
 },{
-    "id": 10,
+    "id": 8,
     "name": "Royal Ajvar",
     "division": 2,
     "delegate": "Branko Rippa"
 },{
-    "id": 11,
-    "name": "St Peter's",
-    "division": 2,
+    "id": 9,
+    "name": "St Peters",
+    "division": 1,
     "delegate": "Jonnathan Betts"
 },{
-    "id": 12,
+    "id": 10,
+    "name": "St Peters B",
+    "division": 2,
+    "delegate": "Jon Betts"
+},{
+    "id": 11,
     "name": "Sporting",
     "division": 1,
     "delegate": "Andy Whitfield"
 },{
-    "id": 13,
+    "id": 12,
     "name": "Southern Cross",
     "division": 1,
     "delegate": "Alan Campbell"
 },{
-    "id": 14,
+    "id": 13,
     "name": "Southern Sharks",
     "division": 2,
     "delegate": "Ray Hayes"
 },{
-    "id": 15,
+    "id": 14,
     "name": "Sturt-Marion",
     "division": 1,
     "delegate": "David"
 },{
-    "id": 16,
-    "name": "Sturt-Marion B",
+    "id": 15,
+    "name": "Sturt Marion",
     "division": 2,
     "delegate": "David"
 },{
-    "id": 17,
+    "id": 16,
     "name": "University Old Boys",
-    "division": 2,
+    "division": 1,
     "delegate": "Luke Gardner"
 },{
-    "id": 18,
+    "id": 17,
     "name": "University Orange",
     "division": 2,
     "delegate": "Jacques Metzer"
 },{
-    "id": 19,
+    "id": 18,
     "name": "West Beach",
     "division": 1,
     "delegate": "Bill Houston"
 },{
-    "id": 20,
+    "id": 19,
     "name": "West Beach Legends",
-    "division": 1,
-    "delegate": "Bill Houston"
-},{
-    "id": 21,
-    "name": "West Beach Old Boys",
     "division": 2,
     "delegate": "Bill Houston"
 }

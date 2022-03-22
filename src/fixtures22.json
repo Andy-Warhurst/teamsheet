@@ -1,0 +1,1624 @@
+[
+  {
+    "round": 1,
+    "hometeam": "Croatia",
+    "awayteam": "Sporting",
+    "venue": "Barratt Reserve 1",
+    "date": "3/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 1,
+    "hometeam": "Old Plymptonians",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 2",
+    "date": "3/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 1,
+    "hometeam": "West Beach",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 3",
+    "date": "3/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 1,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 4",
+    "date": "3/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 1,
+    "hometeam": "University Old Boys",
+    "awayteam": "St Peters",
+    "venue": "Barratt Reserve 5",
+    "date": "3/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 1,
+    "hometeam": "Southern Sharks",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 1",
+    "date": "3/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 1,
+    "hometeam": "Austria",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 2",
+    "date": "3/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 1,
+    "hometeam": "West Beach Legends",
+    "awayteam": "University Orange",
+    "venue": "Barratt Reserve 3",
+    "date": "3/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 1,
+    "hometeam": "Sturt Marion",
+    "awayteam": "Adelaide Spurs",
+    "venue": "Barratt Reserve 4",
+    "date": "3/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 1,
+    "hometeam": "Pulteney",
+    "awayteam": "St Peters B",
+    "venue": "Barratt Reserve 5",
+    "date": "3/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 2,
+    "hometeam": "University Old Boys",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 1",
+    "date": "10/04/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 2,
+    "hometeam": "Man City",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 2",
+    "date": "10/04/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 2,
+    "hometeam": "Cove Fusion",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 3",
+    "date": "10/04/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 2,
+    "hometeam": "Sporting",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 4",
+    "date": "10/04/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 2,
+    "hometeam": "St Peters",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 5",
+    "date": "10/04/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 2,
+    "hometeam": "Pulteney",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 1",
+    "date": "10/04/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 2,
+    "hometeam": "University Orange",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 2",
+    "date": "10/04/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 2,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "Austria",
+    "venue": "Barratt Reserve 3",
+    "date": "10/04/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 2,
+    "hometeam": "Southern Sharks",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 4",
+    "date": "10/04/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 2,
+    "hometeam": "St Peters B",
+    "awayteam": "West Beach Legends",
+    "venue": "Barratt Reserve 5",
+    "date": "10/04/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 3,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 1",
+    "date": "24/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 3,
+    "hometeam": "St Peters",
+    "awayteam": "Sporting",
+    "venue": "Barratt Reserve 2",
+    "date": "24/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 3,
+    "hometeam": "Croatia",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 3",
+    "date": "24/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 3,
+    "hometeam": "Southern Cross",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 4",
+    "date": "24/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 3,
+    "hometeam": "Old Plymptonians",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 5",
+    "date": "24/04/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 3,
+    "hometeam": "Sturt Marion",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 1",
+    "date": "24/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 3,
+    "hometeam": "St Peters B",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 2",
+    "date": "24/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 3,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 3",
+    "date": "24/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 3,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "WB Legends",
+    "venue": "Barratt Reserve 4",
+    "date": "24/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 3,
+    "hometeam": "Austria",
+    "awayteam": "University Orange",
+    "venue": "Barratt Reserve 5",
+    "date": "24/04/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 4,
+    "hometeam": "Cove Fusion",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 1",
+    "date": "01/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 4,
+    "hometeam": "Man City",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 2",
+    "date": "01/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 4,
+    "hometeam": "University Old Boys",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 3",
+    "date": "01/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 4,
+    "hometeam": "St Peters",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 4",
+    "date": "01/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 4,
+    "hometeam": "Sporting",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 5",
+    "date": "01/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 4,
+    "hometeam": "University Orange",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 1",
+    "date": "01/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 4,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "WB Legends",
+    "venue": "Barratt Reserve 2",
+    "date": "01/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 4,
+    "hometeam": "Pulteney",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 3",
+    "date": "01/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 4,
+    "hometeam": "St Peters B",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 4",
+    "date": "01/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 4,
+    "hometeam": "Southern Sharks",
+    "awayteam": "Austria",
+    "venue": "Barratt Reserve 5",
+    "date": "01/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 5,
+    "hometeam": "Croatia",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 1",
+    "date": "15/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 5,
+    "hometeam": "Old Plymptonians",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 2",
+    "date": "15/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 5,
+    "hometeam": "University Old Boys",
+    "awayteam": "Sporting",
+    "venue": "Barratt Reserve 3",
+    "date": "15/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 5,
+    "hometeam": "St Peters",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 4",
+    "date": "15/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 5,
+    "hometeam": "Southern Cross",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 5",
+    "date": "15/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 5,
+    "hometeam": "BYE",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 1",
+    "date": "15/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 5,
+    "hometeam": "Austria",
+    "awayteam": "WB Legends",
+    "venue": "Barratt Reserve 2",
+    "date": "15/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 5,
+    "hometeam": "Pulteney",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 3",
+    "date": "15/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 5,
+    "hometeam": "St Peters B",
+    "awayteam": "University Orange",
+    "venue": "Barratt Reserve 4",
+    "date": "15/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 5,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "Adelaide Spurs",
+    "venue": "Barratt Reserve 5",
+    "date": "15/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 6,
+    "hometeam": "Sporting",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 1",
+    "date": "22/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 6,
+    "hometeam": "Man City",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 2",
+    "date": "22/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 6,
+    "hometeam": "St Peters",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 3",
+    "date": "22/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 6,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 4",
+    "date": "22/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 6,
+    "hometeam": "West Beach",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 5",
+    "date": "22/05/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 6,
+    "hometeam": "BYE",
+    "awayteam": "WB Legends",
+    "venue": "Barratt Reserve 1",
+    "date": "22/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 6,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 2",
+    "date": "22/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 6,
+    "hometeam": "St Peters B",
+    "awayteam": "Austria",
+    "venue": "Barratt Reserve 3",
+    "date": "22/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 6,
+    "hometeam": "Sturt Marion",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 4",
+    "date": "22/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 6,
+    "hometeam": "Southern Sharks",
+    "awayteam": "University Orange",
+    "venue": "Barratt Reserve 5",
+    "date": "22/05/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 7,
+    "hometeam": "Old lymptonians",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 1",
+    "date": "29/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 7,
+    "hometeam": "Cove Fusion",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 2",
+    "date": "29/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 7,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "St Peters B",
+    "venue": "Barratt Reserve 3",
+    "date": "29/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 7,
+    "hometeam": "West Beach",
+    "awayteam": "Sporting",
+    "venue": "Barratt Reserve 4",
+    "date": "29/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 7,
+    "hometeam": "Croatia",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 5",
+    "date": "29/05/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 7,
+    "hometeam": "Austria",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 1",
+    "date": "29/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 7,
+    "hometeam": "University Orange",
+    "awayteam": "Adelaide Spurs",
+    "venue": "Barratt Reserve 2",
+    "date": "29/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 7,
+    "hometeam": "Sturt Marion",
+    "awayteam": "St Peters",
+    "venue": "Barratt Reserve 3",
+    "date": "29/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 7,
+    "hometeam": "WB Legends",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 4",
+    "date": "29/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 7,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 5",
+    "date": "29/05/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 8,
+    "hometeam": "St Peters",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 1",
+    "date": "05/06/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 8,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 2",
+    "date": "05/06/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 8,
+    "hometeam": "West Beach",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 3",
+    "date": "05/06/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 8,
+    "hometeam": "Cove Fusion",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 4",
+    "date": "05/06/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 8,
+    "hometeam": "Sporting",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 5",
+    "date": "05/06/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 8,
+    "hometeam": "St Peters B",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 1",
+    "date": "05/06/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 8,
+    "hometeam": "Sturt Marion",
+    "awayteam": "Austria",
+    "venue": "Barratt Reserve 2",
+    "date": "05/06/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 8,
+    "hometeam": "WB Legends",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 3",
+    "date": "05/06/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 8,
+    "hometeam": "University Orange",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 4",
+    "date": "05/06/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 8,
+    "hometeam": "Southern Sharks",
+    "awayteam": "Adelaide Spurs",
+    "venue": "Barratt Reserve 5",
+    "date": "05/06/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 9,
+    "hometeam": "Man City",
+    "awayteam": "St Peters",
+    "venue": "Barratt Reserve 1",
+    "date": "19/06/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 9,
+    "hometeam": "Southern Cross",
+    "awayteam": "Sporting",
+    "venue": "Barratt Reserve 2",
+    "date": "19/06/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 9,
+    "hometeam": "West Beach",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 3",
+    "date": "19/06/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 9,
+    "hometeam": "Croatia",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 4",
+    "date": "19/06/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 9,
+    "hometeam": "University Old Boys",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 5",
+    "date": "19/06/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 9,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "St Peters B",
+    "venue": "Barratt Reserve 1",
+    "date": "19/06/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 9,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 2",
+    "date": "19/06/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 9,
+    "hometeam": "WB Legends",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 3",
+    "date": "19/06/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 9,
+    "hometeam": "Austria",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 4",
+    "date": "19/06/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 9,
+    "hometeam": "Pulteney",
+    "awayteam": "University Orange",
+    "venue": "Barratt Reserve 5",
+    "date": "19/06/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 10,
+    "hometeam": "Man City",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 1",
+    "date": "03/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 10,
+    "hometeam": "St Peters",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 2",
+    "date": "03/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 10,
+    "hometeam": "Sporting",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 3",
+    "date": "03/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 10,
+    "hometeam": "Cove Fusion",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 4",
+    "date": "03/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 10,
+    "hometeam": "Southern Cross",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 5",
+    "date": "03/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 10,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 1",
+    "date": "03/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 10,
+    "hometeam": "St Peters B",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 2",
+    "date": "03/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 10,
+    "hometeam": "Southern Sharks",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 3",
+    "date": "03/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 10,
+    "hometeam": "University Orange",
+    "awayteam": "WB Legends",
+    "venue": "Barratt Reserve 4",
+    "date": "03/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 10,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "Austria",
+    "venue": "Barratt Reserve 5",
+    "date": "03/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 11,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "Sporting",
+    "venue": "Barratt Reserve 1",
+    "date": "10/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 11,
+    "hometeam": "Old Plymptonians",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 2",
+    "date": "10/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 11,
+    "hometeam": "Southern Cross",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 3",
+    "date": "10/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 11,
+    "hometeam": "Croatia",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 4",
+    "date": "10/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 11,
+    "hometeam": "West Beach",
+    "awayteam": "St Peters",
+    "venue": "Barratt Reserve 5",
+    "date": "10/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 11,
+    "hometeam": "Sturt Marion",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 1",
+    "date": "10/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 11,
+    "hometeam": "Univerity Orange",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 2",
+    "date": "10/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 11,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 3",
+    "date": "10/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 11,
+    "hometeam": "Austria",
+    "awayteam": "Adelaide Spurs",
+    "venue": "Barratt Reserve 4",
+    "date": "10/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 11,
+    "hometeam": "WB Legends",
+    "awayteam": "St Peters B",
+    "venue": "Barratt Reserve 5",
+    "date": "10/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 12,
+    "hometeam": "Cove Fusion",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 1",
+    "date": "17/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 12,
+    "hometeam": "University Old Boys",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 2",
+    "date": "17/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 12,
+    "hometeam": "West Beach",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 3",
+    "date": "17/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 12,
+    "hometeam": "Sporting",
+    "awayteam": "St Peters",
+    "venue": "Barratt Reserve 4",
+    "date": "17/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 12,
+    "hometeam": "Man City",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 5",
+    "date": "17/07/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 12,
+    "hometeam": "University Orange",
+    "awayteam": "Austria",
+    "venue": "Barratt Reserve 1",
+    "date": "17/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 12,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 2",
+    "date": "17/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 12,
+    "hometeam": "WB Legends",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 3",
+    "date": "17/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 12,
+    "hometeam": "Southern Sharks",
+    "awayteam": "St Peters B",
+    "venue": "Barratt Reserve 4",
+    "date": "17/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 12,
+    "hometeam": "Pulteney",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 5",
+    "date": "17/07/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 13,
+    "hometeam": "Croatia",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 1",
+    "date": "31/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 13,
+    "hometeam": "Southern Cross",
+    "awayteam": "St Peters",
+    "venue": "Barratt Reserve 2",
+    "date": "31/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 13,
+    "hometeam": "Old Plymptonians",
+    "awayteam": "Sporting",
+    "venue": "Barratt Reserve 3",
+    "date": "31/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 13,
+    "hometeam": "West Beach",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 4",
+    "date": "31/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 13,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 5",
+    "date": "31/07/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 13,
+    "hometeam": "Pulteney",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 1",
+    "date": "31/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 13,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "St Peters B",
+    "venue": "Barratt Reserve 2",
+    "date": "31/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 13,
+    "hometeam": "Austria",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 3",
+    "date": "31/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 13,
+    "hometeam": "WB Legends",
+    "awayteam": "Adelaide Spurs",
+    "venue": "Barratt Reserve 4",
+    "date": "31/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 13,
+    "hometeam": "Sturt Marion",
+    "awayteam": "University Orange",
+    "venue": "Barratt Reserve 5",
+    "date": "31/07/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 14,
+    "hometeam": "Man City",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 1",
+    "date": "07/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 14,
+    "hometeam": "Cove Fusion",
+    "awayteam": "St Peters",
+    "venue": "Barratt Reserve 2",
+    "date": "07/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 14,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 3",
+    "date": "07/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 14,
+    "hometeam": "Sporting",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 4",
+    "date": "07/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 14,
+    "hometeam": "West Beach",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 5",
+    "date": "07/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 14,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 1",
+    "date": "07/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 14,
+    "hometeam": "University Orange",
+    "awayteam": "St Peters B",
+    "venue": "Barratt Reserve 2",
+    "date": "07/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 14,
+    "hometeam": "Sturt Marion",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 3",
+    "date": "07/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 14,
+    "hometeam": "Southern Sharks",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 4",
+    "date": "07/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 14,
+    "hometeam": "WB Legends",
+    "awayteam": "Austria",
+    "venue": "Barratt Reserve 5",
+    "date": "07/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 15,
+    "hometeam": "Croatia",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 1",
+    "date": "14/08/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 15,
+    "hometeam": "Southern Cross",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 2",
+    "date": "14/08/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 15,
+    "hometeam": "Cove Fusion",
+    "awayteam": "Sporting",
+    "venue": "Barratt Reserve 3",
+    "date": "14/08/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 15,
+    "hometeam": "Old Plymptonians",
+    "awayteam": "St Petes'",
+    "venue": "Barratt Reserve 4",
+    "date": "14/08/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 15,
+    "hometeam": "University Old Boys",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 5",
+    "date": "14/08/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 15,
+    "hometeam": "University Orange",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 1",
+    "date": "14/08/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 15,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 2",
+    "date": "14/08/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 15,
+    "hometeam": "WB Legends",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 3",
+    "date": "14/08/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 15,
+    "hometeam": "Austria",
+    "awayteam": "St Peters B",
+    "venue": "Barratt Reserve 4",
+    "date": "14/08/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 15,
+    "hometeam": "Pulteney",
+    "awayteam": "Adelaide Spurs",
+    "venue": "Barratt Reserve 5",
+    "date": "14/08/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 16,
+    "hometeam": "St Peters",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 1",
+    "date": "28/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 16,
+    "hometeam": "University Old Boys",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 2",
+    "date": "28/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 16,
+    "hometeam": "Man City",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 3",
+    "date": "28/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 16,
+    "hometeam": "Southern Cross",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 4",
+    "date": "28/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 16,
+    "hometeam": "Sporting",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 5",
+    "date": "28/08/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 16,
+    "hometeam": "St Peters B",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 1",
+    "date": "28/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 16,
+    "hometeam": "Pulteney",
+    "awayteam": "Austria",
+    "venue": "Barratt Reserve 2",
+    "date": "28/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 16,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "University Orange",
+    "venue": "Barratt Reserve 3",
+    "date": "28/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 16,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 4",
+    "date": "28/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 16,
+    "hometeam": "Southern Sharks",
+    "awayteam": "WB Legends",
+    "venue": "Barratt Reserve 5",
+    "date": "28/08/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 17,
+    "hometeam": "Croatia",
+    "awayteam": "St Peters",
+    "venue": "Barratt Reserve 1",
+    "date": "04/09/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 17,
+    "hometeam": "Man City",
+    "awayteam": "Sorting",
+    "venue": "Barratt Reserve 2",
+    "date": "04/09/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 17,
+    "hometeam": "Old Plymptonians",
+    "awayteam": "Sturt-Marion",
+    "venue": "Barratt Reserve 3",
+    "date": "04/09/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 17,
+    "hometeam": "University Old Boys",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 4",
+    "date": "04/09/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 17,
+    "hometeam": "Southern Cross",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 5",
+    "date": "04/09/22",
+    "time": "9:30",
+    "division": 1
+  },
+  {
+    "round": 17,
+    "hometeam": "St Peters B",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 1",
+    "date": "04/09/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 17,
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 2",
+    "date": "04/09/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 17,
+    "hometeam": "Austria",
+    "awayteam": "Sturt Marion",
+    "venue": "Barratt Reserve 3",
+    "date": "04/09/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 17,
+    "hometeam": "Pulteney",
+    "awayteam": "WB Legends",
+    "venue": "Barratt Reserve 4",
+    "date": "04/09/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 17,
+    "hometeam": "Royal Ajvar",
+    "awayteam": "University Orange",
+    "venue": "Barratt Reserve 5",
+    "date": "04/09/22",
+    "time": "11:15",
+    "division": 2
+  },
+  {
+    "round": 18,
+    "hometeam": "Old Plymptonians",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 1",
+    "date": "18/09/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 18,
+    "hometeam": "Sturt-Marion",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 2",
+    "date": "18/09/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 18,
+    "hometeam": "Sporting",
+    "awayteam": "Southern Cross",
+    "venue": "Barratt Reserve 3",
+    "date": "18/09/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 18,
+    "hometeam": "Cove Fusion",
+    "awayteam": "University Old Boys",
+    "venue": "Barratt Reserve 4",
+    "date": "18/09/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 18,
+    "hometeam": "St Peters",
+    "awayteam": "Man City",
+    "venue": "Barratt Reserve 5",
+    "date": "18/09/22",
+    "time": "11:15",
+    "division": 1
+  },
+  {
+    "round": 18,
+    "hometeam": "St Peters B",
+    "awayteam": "Adelaide Spurs",
+    "venue": "Barratt Reserve 1",
+    "date": "18/09/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 18,
+    "hometeam": "Sturt Marion",
+    "awayteam": "WB Legends",
+    "venue": "Barratt Reserve 2",
+    "date": "18/09/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 18,
+    "hometeam": "Southern Sharks",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 3",
+    "date": "18/09/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 18,
+    "hometeam": "University Orange",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 4",
+    "date": "18/09/22",
+    "time": "9:30",
+    "division": 2
+  },
+  {
+    "round": 18,
+    "hometeam": "Austria",
+    "awayteam": "BYE",
+    "venue": "Barratt Reserve 5",
+    "date": "18/09/22",
+    "time": "9:30",
+    "division": 2
+  }
+
+
+]

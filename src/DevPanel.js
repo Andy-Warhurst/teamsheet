@@ -4,7 +4,7 @@ import Teams from "./TeamData.json";
 
 // import reducer from "./Reducer";
 
-const Rounds = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22];
+const Rounds = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18];
 
 const DevPanel = ({ round, team, selected, guests, dispatch }) => {
   const count = selected.length;
