@@ -36,6 +36,15 @@
     "shirtno":""
   },
   {
+    "id":10726735,
+    "team":"Royal Ajvar",
+    "dateofbirth":"16\/04\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Frank Passalacqua",
+    "shirtno":""
+  },
+  {
     "id":11433106,
     "team":"Pulteney",
     "dateofbirth":"06\/04\/1976",
@@ -69,6 +78,15 @@
     "type":"Shared",
     "status":"Active",
     "name":"Corey Tavella",
+    "shirtno":""
+  },
+  {
+    "id":10952489,
+    "team":"Royal Ajvar",
+    "dateofbirth":"26\/06\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Emir Sabanovic",
     "shirtno":""
   },
   {
@@ -342,6 +360,15 @@
     "shirtno":""
   },
   {
+    "id":59157255,
+    "team":"Royal Ajvar",
+    "dateofbirth":"23\/05\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Anel Kurtovic",
+    "shirtno":""
+  },
+  {
     "id":10099201,
     "team":"Adelaide Spurs",
     "dateofbirth":"10\/06\/1967",
@@ -360,12 +387,57 @@
     "shirtno":""
   },
   {
+    "id":78986254,
+    "team":"Royal Ajvar",
+    "dateofbirth":"26\/07\/1975",
+    "type":"Full",
+    "status":"Active",
+    "name":"Mashallah Soleimani",
+    "shirtno":""
+  },
+  {
     "id":81970162,
     "team":"Pulteney",
     "dateofbirth":"03\/08\/1986",
     "type":"Full",
     "status":"Active",
     "name":"Blaz Vozelj",
+    "shirtno":""
+  },
+  {
+    "id":10620835,
+    "team":"Royal Ajvar",
+    "dateofbirth":"27\/03\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jasmin Bolic",
+    "shirtno":""
+  },
+  {
+    "id":11262848,
+    "team":"Royal Ajvar",
+    "dateofbirth":"10\/04\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Sasa Prso",
+    "shirtno":""
+  },
+  {
+    "id":10953395,
+    "team":"Royal Ajvar",
+    "dateofbirth":"19\/01\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Dragan Curak",
+    "shirtno":""
+  },
+  {
+    "id":80990799,
+    "team":"Royal Ajvar",
+    "dateofbirth":"16\/09\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Bahram Alvandi",
     "shirtno":""
   },
   {
@@ -393,6 +465,15 @@
     "type":"Shared",
     "status":"Active",
     "name":"Dejan Prso",
+    "shirtno":""
+  },
+  {
+    "id":10686954,
+    "team":"Royal Ajvar",
+    "dateofbirth":"12\/12\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Osman Pasic",
     "shirtno":""
   },
   {
@@ -459,6 +540,24 @@
     "shirtno":""
   },
   {
+    "id":10952579,
+    "team":"Royal Ajvar",
+    "dateofbirth":"08\/10\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Adnan Kaljic",
+    "shirtno":""
+  },
+  {
+    "id":45049566,
+    "team":"Royal Ajvar",
+    "dateofbirth":"06\/03\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Darius Sabou",
+    "shirtno":""
+  },
+  {
     "id":84801877,
     "team":"Pulteney",
     "dateofbirth":"09\/03\/1978",
@@ -501,6 +600,33 @@
     "type":"Adelaide Spurs Player Registration",
     "status":"Active",
     "name":"Simon Futo",
+    "shirtno":""
+  },
+  {
+    "id":84307552,
+    "team":"Royal Ajvar",
+    "dateofbirth":"26\/02\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Sladjan Bilic",
+    "shirtno":""
+  },
+  {
+    "id":81840209,
+    "team":"Royal Ajvar",
+    "dateofbirth":"20\/12\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Kemo Kopic",
+    "shirtno":""
+  },
+  {
+    "id":79181327,
+    "team":"Royal Ajvar",
+    "dateofbirth":"29\/06\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Perica Cokara",
     "shirtno":""
   },
   {
