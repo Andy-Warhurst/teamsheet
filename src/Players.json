@@ -1,5 +1,194 @@
 [
   {
+    "id":78514353,
+    "team":"Sturt Marion",
+    "dateofbirth":"19\/01\/1984",
+    "type":"Sturt Marion Old Boys (Div2) Already Registered",
+    "status":"Active",
+    "name":"Duncan Beard",
+    "shirtno":""
+  },
+  {
+    "id":10609458,
+    "team":"University Old Boys",
+    "dateofbirth":"24\/09\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Daniel Kelly",
+    "shirtno":""
+  },
+  {
+    "id":11438300,
+    "team":"Southern Sharks",
+    "dateofbirth":"16\/07\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Nick Logan",
+    "shirtno":""
+  },
+  {
+    "id":11214522,
+    "team":"University Old Boys",
+    "dateofbirth":"22\/08\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Erik Leinius",
+    "shirtno":""
+  },
+  {
+    "id":11433106,
+    "team":"Pulteney",
+    "dateofbirth":"06\/04\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Enrico Monti",
+    "shirtno":""
+  },
+  {
+    "id":10096058,
+    "team":"Royal Ajvar",
+    "dateofbirth":"05\/03\/1972",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Edin Skrijelj",
+    "shirtno":""
+  },
+  {
+    "id":64000169,
+    "team":"Sporting",
+    "dateofbirth":"11\/12\/1962",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Andrew Woollett",
+    "shirtno":""
+  },
+  {
+    "id":10967496,
+    "team":"University Old Boys",
+    "dateofbirth":"03\/01\/1979",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Corey Tavella",
+    "shirtno":""
+  },
+  {
+    "id":82425265,
+    "team":"Southern Sharks",
+    "dateofbirth":"02\/03\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Damian Lunn",
+    "shirtno":""
+  },
+  {
+    "id":52551348,
+    "team":"Southern Cross",
+    "dateofbirth":"18\/12\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Brad Murphy",
+    "shirtno":""
+  },
+  {
+    "id":83889832,
+    "team":"West Beach Legends",
+    "dateofbirth":"03\/08\/1974",
+    "type":"Sturt-Marion Div 2 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Gordon Peebles",
+    "shirtno":""
+  },
+  {
+    "id":65174054,
+    "team":"Pulteney",
+    "dateofbirth":"21\/01\/1967",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Alan Bradshaw",
+    "shirtno":""
+  },
+  {
+    "id":80857352,
+    "team":"University Old Boys",
+    "dateofbirth":"28\/09\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Christian Burvill-Holmes",
+    "shirtno":""
+  },
+  {
+    "id":11068933,
+    "team":"West Beach",
+    "dateofbirth":"01\/10\/1971",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Adam Blackwood",
+    "shirtno":""
+  },
+  {
+    "id":75540641,
+    "team":"West Beach",
+    "dateofbirth":"22\/10\/1973",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Simon Evans",
+    "shirtno":""
+  },
+  {
+    "id":10671600,
+    "team":"Southern Sharks",
+    "dateofbirth":"16\/11\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Matthew Turtle",
+    "shirtno":""
+  },
+  {
+    "id":10715633,
+    "team":"Pulteney",
+    "dateofbirth":"24\/12\/1953",
+    "type":"Full",
+    "status":"Active",
+    "name":"Brent Parkes",
+    "shirtno":""
+  },
+  {
+    "id":10194847,
+    "team":"Southern Sharks",
+    "dateofbirth":"06\/02\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Perry Childs",
+    "shirtno":""
+  },
+  {
+    "id":85366763,
+    "team":"Croatia",
+    "dateofbirth":"27\/07\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Dario Barisic",
+    "shirtno":""
+  },
+  {
+    "id":10537433,
+    "team":"Southern Sharks",
+    "dateofbirth":"28\/06\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Damon Eden",
+    "shirtno":""
+  },
+  {
+    "id":78854478,
+    "team":"Southern Sharks",
+    "dateofbirth":"18\/06\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Peter Arnell",
+    "shirtno":""
+  },
+  {
     "id":65169765,
     "team":"Pulteney",
     "dateofbirth":"27\/06\/1970",
@@ -12,7 +201,7 @@
     "id":65612111,
     "team":"Sturt Marion",
     "dateofbirth":"25\/07\/1968",
-    "type":"Sturt-Marion Div 2 Already CSL\/SAASL Registered",
+    "type":"Sturt Marion Old Boys (Div2) Already Registered",
     "status":"Active",
     "name":"Sean Reilly",
     "shirtno":""
@@ -30,7 +219,7 @@
     "id":10102695,
     "team":"Sturt-Marion",
     "dateofbirth":"09\/04\/1972",
-    "type":"Sturt-Marion Div 1 Already CSL\/SAASL Registered",
+    "type":"Sturt Marion Thunder (Div1) Already Registered",
     "status":"Active",
     "name":"Andrew Marshall",
     "shirtno":""
@@ -48,7 +237,7 @@
     "id":83882381,
     "team":"Sturt-Marion",
     "dateofbirth":"18\/04\/1981",
-    "type":"Sturt-Marion Div 1 Already CSL\/SAASL Registered",
+    "type":"Sturt Marion Thunder (Div1) Already Registered",
     "status":"Active",
     "name":"Tim Baker",
     "shirtno":""
@@ -162,12 +351,30 @@
     "shirtno":""
   },
   {
+    "id":11092136,
+    "team":"Southern Sharks",
+    "dateofbirth":"25\/08\/1966",
+    "type":"Full",
+    "status":"Active",
+    "name":"Rob Anthony",
+    "shirtno":""
+  },
+  {
     "id":81970162,
     "team":"Pulteney",
     "dateofbirth":"03\/08\/1986",
     "type":"Full",
     "status":"Active",
     "name":"Blaz Vozelj",
+    "shirtno":""
+  },
+  {
+    "id":85041069,
+    "team":"Southern Sharks",
+    "dateofbirth":"16\/03\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jeremy Bradley",
     "shirtno":""
   },
   {
