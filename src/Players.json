@@ -1,5 +1,50 @@
 [
   {
+    "id":11153594,
+    "team":"West Beach",
+    "dateofbirth":"30\/10\/1981",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Simon Taylor",
+    "shirtno":""
+  },
+  {
+    "id":64000706,
+    "team":"Sporting",
+    "dateofbirth":"19\/12\/1965",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andrew Whitfield",
+    "shirtno":""
+  },
+  {
+    "id":10716740,
+    "team":"Croatia",
+    "dateofbirth":"06\/12\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Eugene Galekovic",
+    "shirtno":""
+  },
+  {
+    "id":55988612,
+    "team":"Croatia",
+    "dateofbirth":"14\/09\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Kamer Simsek",
+    "shirtno":""
+  },
+  {
+    "id":11232338,
+    "team":"Croatia",
+    "dateofbirth":"23\/02\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Johnny Grdovic",
+    "shirtno":""
+  },
+  {
     "id":78514353,
     "team":"Sturt Marion",
     "dateofbirth":"19\/01\/1984",
@@ -189,6 +234,15 @@
     "shirtno":""
   },
   {
+    "id":64025745,
+    "team":"Sporting",
+    "dateofbirth":"06\/08\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Julian Peck",
+    "shirtno":""
+  },
+  {
     "id":10537433,
     "team":"Southern Sharks",
     "dateofbirth":"28\/06\/1978",
@@ -249,6 +303,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Paul Wright",
+    "shirtno":""
+  },
+  {
+    "id":10585041,
+    "team":"Sporting",
+    "dateofbirth":"29\/09\/1965",
+    "type":"Full",
+    "status":"Active",
+    "name":"Eddie Moir",
     "shirtno":""
   },
   {
@@ -591,6 +654,15 @@
     "type":"Shared",
     "status":"Active",
     "name":"Thomas Short",
+    "shirtno":""
+  },
+  {
+    "id":74521501,
+    "team":"Cove Fusion",
+    "dateofbirth":"09\/11\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Philip Hall",
     "shirtno":""
   },
   {
