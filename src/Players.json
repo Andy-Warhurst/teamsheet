@@ -1,5 +1,41 @@
 [
   {
+    "id":74518911,
+    "team":"Pulteney",
+    "dateofbirth":"20\/07\/1972",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Justin Astbury",
+    "shirtno":""
+  },
+  {
+    "id":10104186,
+    "team":"Southern Cross",
+    "dateofbirth":"03\/03\/1987",
+    "type":"Full",
+    "status":"Active",
+    "name":"Kevin O'Connor",
+    "shirtno":""
+  },
+  {
+    "id":85328243,
+    "team":"University Orange",
+    "dateofbirth":"02\/04\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Curzon",
+    "shirtno":""
+  },
+  {
+    "id":10103295,
+    "team":"West Beach",
+    "dateofbirth":"11\/10\/1983",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Barry James",
+    "shirtno":""
+  },
+  {
     "id":11451441,
     "team":"Old Plymptonians",
     "dateofbirth":"08\/11\/1980",
@@ -69,6 +105,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Carlos Knebel",
+    "shirtno":""
+  },
+  {
+    "id":80679582,
+    "team":"Southern Cross",
+    "dateofbirth":"09\/08\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Thomas Rich",
     "shirtno":""
   },
   {
@@ -243,6 +288,15 @@
     "shirtno":""
   },
   {
+    "id":11210075,
+    "team":"University Orange",
+    "dateofbirth":"01\/02\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Graeme Atkinson",
+    "shirtno":""
+  },
+  {
     "id":77264620,
     "team":"Sporting",
     "dateofbirth":"20\/10\/1977",
@@ -384,6 +438,15 @@
     "type":"Full",
     "status":"Active",
     "name":"James O\u2019Hara",
+    "shirtno":""
+  },
+  {
+    "id":63352033,
+    "team":"University Orange",
+    "dateofbirth":"30\/09\/1946",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jacques Metzer",
     "shirtno":""
   },
   {
@@ -1437,6 +1500,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Daniel Winder",
+    "shirtno":""
+  },
+  {
+    "id":11432387,
+    "team":"University Orange",
+    "dateofbirth":"31\/03\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Damien W",
     "shirtno":""
   },
   {
