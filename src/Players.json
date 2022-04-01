@@ -1,5 +1,32 @@
 [
   {
+    "id":11190419,
+    "team":"Sporting",
+    "dateofbirth":"14\/04\/1985",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Mathieu Jacquet",
+    "shirtno":""
+  },
+  {
+    "id":10776482,
+    "team":"Sturt Marion Thunder",
+    "dateofbirth":"22\/12\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Sedgwick",
+    "shirtno":""
+  },
+  {
+    "id":74521576,
+    "team":"Sporting",
+    "dateofbirth":"05\/08\/1963",
+    "type":"Full",
+    "status":"Active",
+    "name":"Stephen Trowman",
+    "shirtno":""
+  },
+  {
     "id":74518911,
     "team":"Pulteney",
     "dateofbirth":"20\/07\/1972",
@@ -1386,6 +1413,15 @@
     "shirtno":""
   },
   {
+    "id":83882381,
+    "team":"Sturt Marion Thunder",
+    "dateofbirth":"18\/04\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Tim Baker",
+    "shirtno":""
+  },
+  {
     "id":10537433,
     "team":"Southern Sharks",
     "dateofbirth":"28\/06\/1978",
@@ -1395,12 +1431,30 @@
     "shirtno":""
   },
   {
+    "id":50825116,
+    "team":"Sturt Marion Thunder",
+    "dateofbirth":"28\/11\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Samuel Bowden",
+    "shirtno":""
+  },
+  {
     "id":78854478,
     "team":"Southern Sharks",
     "dateofbirth":"18\/06\/1974",
     "type":"Full",
     "status":"Active",
     "name":"Peter Arnell",
+    "shirtno":""
+  },
+  {
+    "id":11195102,
+    "team":"Sturt Marion Thunder",
+    "dateofbirth":"01\/11\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Alec Rolston",
     "shirtno":""
   },
   {
@@ -1473,6 +1527,15 @@
     "type":"Sturt Marion Thunder (Div1) Already Registered",
     "status":"Active",
     "name":"Tim Baker",
+    "shirtno":""
+  },
+  {
+    "id":10267534,
+    "team":"Sturt Marion Thunder",
+    "dateofbirth":"12\/05\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ciaran Cullen",
     "shirtno":""
   },
   {
