@@ -69,7 +69,7 @@ const handleSubmit = (event) => {
                       </Col>
                   </Form.Group>
               </Form>
-              <p><i>Version 1.2 (22/03/22)</i></p>
+              <p><i>Version 1.2.2 (01/04/22)</i></p>
           </Jumbotron>
       </div>
   );

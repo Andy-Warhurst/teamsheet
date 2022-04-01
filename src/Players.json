@@ -1,11 +1,1073 @@
 [
   {
+    "id":11451441,
+    "team":"Old Plymptonians",
+    "dateofbirth":"08\/11\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Gregg Van Hal",
+    "shirtno":""
+  },
+  {
+    "id":81577298,
+    "team":"Croatia",
+    "dateofbirth":"13\/01\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Branko Suica",
+    "shirtno":""
+  },
+  {
+    "id":75506261,
+    "team":"University Old Boys",
+    "dateofbirth":"19\/01\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Kumar",
+    "shirtno":""
+  },
+  {
+    "id":10099242,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"01\/10\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Keiran Taylor",
+    "shirtno":""
+  },
+  {
+    "id":10768812,
+    "team":"Sporting",
+    "dateofbirth":"02\/09\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Adam Kiejko",
+    "shirtno":""
+  },
+  {
+    "id":11450769,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"27\/11\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Josue Moran",
+    "shirtno":""
+  },
+  {
+    "id":75724021,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"24\/02\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Carlos Knebel",
+    "shirtno":""
+  },
+  {
+    "id":11450666,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"19\/01\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jerson Guzman",
+    "shirtno":""
+  },
+  {
+    "id":11284552,
+    "team":"Sporting",
+    "dateofbirth":"20\/09\/1986",
+    "type":"Full",
+    "status":"Active",
+    "name":"Adam Djekic",
+    "shirtno":""
+  },
+  {
+    "id":10584780,
+    "team":"West Beach",
+    "dateofbirth":"28\/09\/1984",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Neil Bittles",
+    "shirtno":""
+  },
+  {
+    "id":60251055,
+    "team":"Sporting",
+    "dateofbirth":"05\/09\/1976",
+    "type":"Shared",
+    "status":"Active",
+    "name":"John Manca",
+    "shirtno":""
+  },
+  {
+    "id":80864374,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"09\/09\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Rocky Oliveira",
+    "shirtno":""
+  },
+  {
+    "id":11449192,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"31\/03\/1987",
+    "type":"Full",
+    "status":"Active",
+    "name":"Grzegorz Sikora",
+    "shirtno":""
+  },
+  {
+    "id":11276224,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"22\/10\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Martin Russell",
+    "shirtno":""
+  },
+  {
+    "id":10099239,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"07\/11\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Luke Rowley",
+    "shirtno":""
+  },
+  {
+    "id":11450229,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"07\/01\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ivan Scholl",
+    "shirtno":""
+  },
+  {
+    "id":79697306,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"30\/04\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Domenico Mileto",
+    "shirtno":""
+  },
+  {
+    "id":80468036,
+    "team":"West Beach Legends",
+    "dateofbirth":"26\/07\/1978",
+    "type":"West Beach Legends Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Peter Semple",
+    "shirtno":""
+  },
+  {
+    "id":76020825,
+    "team":"Sporting",
+    "dateofbirth":"04\/11\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Neil Ambler",
+    "shirtno":""
+  },
+  {
+    "id":76091149,
+    "team":"Sporting",
+    "dateofbirth":"09\/01\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Elliott",
+    "shirtno":""
+  },
+  {
+    "id":77250348,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"24\/06\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andrew Usher",
+    "shirtno":""
+  },
+  {
+    "id":77631018,
+    "team":"University Old Boys",
+    "dateofbirth":"16\/03\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Dodd",
+    "shirtno":""
+  },
+  {
+    "id":10070971,
+    "team":"West Beach Legends",
+    "dateofbirth":"11\/06\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Adrian Yarzabal",
+    "shirtno":""
+  },
+  {
+    "id":70748249,
+    "team":"Croatia",
+    "dateofbirth":"08\/07\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"John Stevanja",
+    "shirtno":""
+  },
+  {
+    "id":64000672,
+    "team":"Sporting",
+    "dateofbirth":"09\/03\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Shaun  Walker",
+    "shirtno":""
+  },
+  {
+    "id":11031002,
+    "team":"Sporting",
+    "dateofbirth":"30\/06\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Broome",
+    "shirtno":""
+  },
+  {
+    "id":77264620,
+    "team":"Sporting",
+    "dateofbirth":"20\/10\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Edward Boyes",
+    "shirtno":""
+  },
+  {
+    "id":75637199,
+    "team":"Sporting",
+    "dateofbirth":"10\/08\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Patrick Miller",
+    "shirtno":""
+  },
+  {
+    "id":10103488,
+    "team":"Southern Sharks",
+    "dateofbirth":"20\/12\/1984",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Maxwell Simpson",
+    "shirtno":""
+  },
+  {
+    "id":75559708,
+    "team":"Sporting",
+    "dateofbirth":"27\/09\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Hickman",
+    "shirtno":""
+  },
+  {
+    "id":10589428,
+    "team":"Southern Cross",
+    "dateofbirth":"04\/01\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Dan Newby",
+    "shirtno":""
+  },
+  {
+    "id":77642783,
+    "team":"Sporting",
+    "dateofbirth":"30\/12\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Peter Taylor",
+    "shirtno":""
+  },
+  {
+    "id":10590480,
+    "team":"Croatia",
+    "dateofbirth":"27\/06\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Papic",
+    "shirtno":""
+  },
+  {
+    "id":10483372,
+    "team":"Sporting",
+    "dateofbirth":"06\/12\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Ackers",
+    "shirtno":""
+  },
+  {
+    "id":10551080,
+    "team":"Southern Cross",
+    "dateofbirth":"13\/05\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Teejay Ades",
+    "shirtno":""
+  },
+  {
+    "id":10588806,
+    "team":"Old Plymptonians",
+    "dateofbirth":"05\/04\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Richard Pickles",
+    "shirtno":""
+  },
+  {
+    "id":10552298,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"23\/11\/1986",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Panes",
+    "shirtno":""
+  },
+  {
+    "id":79095717,
+    "team":"Croatia",
+    "dateofbirth":"18\/08\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Chris Winter",
+    "shirtno":""
+  },
+  {
+    "id":10551080,
+    "team":"Southern Cross",
+    "dateofbirth":"13\/05\/1985",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Teejay Ades",
+    "shirtno":""
+  },
+  {
+    "id":11448163,
+    "team":"Austria",
+    "dateofbirth":"19\/06\/1967",
+    "type":"Austria Registration -already registered elsewhere",
+    "status":"Active",
+    "name":"Steven Puntillo",
+    "shirtno":""
+  },
+  {
+    "id":10045816,
+    "team":"Pulteney",
+    "dateofbirth":"19\/01\/1975",
+    "type":"Full",
+    "status":"Active",
+    "name":"Vladimiros Pavlidis",
+    "shirtno":""
+  },
+  {
+    "id":10936001,
+    "team":"Southern Cross",
+    "dateofbirth":"19\/09\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"James O\u2019Hara",
+    "shirtno":""
+  },
+  {
+    "id":10603781,
+    "team":"Pulteney",
+    "dateofbirth":"27\/04\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"George Hagidimitriou",
+    "shirtno":""
+  },
+  {
+    "id":85017671,
+    "team":"Old Plymptonians",
+    "dateofbirth":"25\/09\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Mark Bromley",
+    "shirtno":""
+  },
+  {
+    "id":11275093,
+    "team":"University Old Boys",
+    "dateofbirth":"27\/10\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Roger Han",
+    "shirtno":""
+  },
+  {
+    "id":83758359,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"04\/05\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Yves Defossez",
+    "shirtno":""
+  },
+  {
+    "id":11447695,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"09\/05\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Luciano Martelotto",
+    "shirtno":""
+  },
+  {
+    "id":10570302,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"24\/06\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ian Usher",
+    "shirtno":""
+  },
+  {
+    "id":11447679,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"19\/01\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"James Field",
+    "shirtno":""
+  },
+  {
+    "id":10265651,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"26\/11\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Keith Halifax",
+    "shirtno":""
+  },
+  {
+    "id":73786220,
+    "team":"Pulteney",
+    "dateofbirth":"15\/06\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ante Juricin",
+    "shirtno":""
+  },
+  {
+    "id":11212585,
+    "team":"Croatia",
+    "dateofbirth":"13\/10\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Neven Antic",
+    "shirtno":""
+  },
+  {
+    "id":11272367,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"18\/05\/1986",
+    "type":"Full",
+    "status":"Active",
+    "name":"Iker Olalde",
+    "shirtno":""
+  },
+  {
+    "id":80860398,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"10\/10\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Richard Burley",
+    "shirtno":""
+  },
+  {
+    "id":10192353,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"03\/04\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"John Katianos",
+    "shirtno":""
+  },
+  {
+    "id":10192438,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"05\/02\/1953",
+    "type":"Full",
+    "status":"Active",
+    "name":"Angel Lopez",
+    "shirtno":""
+  },
+  {
+    "id":83895375,
+    "team":"St Peters Old Collegians (Masters)",
+    "dateofbirth":"27\/10\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jonathan Betts",
+    "shirtno":""
+  },
+  {
+    "id":10099364,
+    "team":"Sturt Marion Thunder",
+    "dateofbirth":"22\/01\/1973",
+    "type":"Sturt Marion Thunder (Div1) Already Registered",
+    "status":"Active",
+    "name":"Adam Gray",
+    "shirtno":""
+  },
+  {
+    "id":10099069,
+    "team":"Southern Cross",
+    "dateofbirth":"22\/03\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ross Hawkes",
+    "shirtno":""
+  },
+  {
+    "id":66027582,
+    "team":"Croatia",
+    "dateofbirth":"04\/02\/1968",
+    "type":"Full",
+    "status":"Active",
+    "name":"Zeljo Eldic",
+    "shirtno":""
+  },
+  {
+    "id":71367585,
+    "team":"Southern Cross",
+    "dateofbirth":"09\/11\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Yong Chin",
+    "shirtno":""
+  },
+  {
+    "id":75379701,
+    "team":"Old Plymptonians",
+    "dateofbirth":"27\/02\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Lee Edwards",
+    "shirtno":""
+  },
+  {
+    "id":11008471,
+    "team":"Southern Cross",
+    "dateofbirth":"18\/03\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Girogis Mallios",
+    "shirtno":""
+  },
+  {
+    "id":71367585,
+    "team":"Southern Cross",
+    "dateofbirth":"09\/11\/1972",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Yong Chin",
+    "shirtno":""
+  },
+  {
+    "id":77284388,
+    "team":"West Beach",
+    "dateofbirth":"29\/07\/1975",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Kerry Alagich",
+    "shirtno":""
+  },
+  {
+    "id":75548180,
+    "team":"West Beach Legends",
+    "dateofbirth":"28\/02\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ross Wardrope",
+    "shirtno":""
+  },
+  {
+    "id":10198890,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"10\/02\/1955",
+    "type":"Adelaide Spurs Player Registration",
+    "status":"Active",
+    "name":"Denis Carey",
+    "shirtno":""
+  },
+  {
+    "id":82411638,
+    "team":"West Beach",
+    "dateofbirth":"20\/03\/1974",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"William Prescott",
+    "shirtno":""
+  },
+  {
+    "id":83864587,
+    "team":"West Beach Legends",
+    "dateofbirth":"02\/05\/1980",
+    "type":"West Beach Legends Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Ahmed Eladly",
+    "shirtno":""
+  },
+  {
+    "id":10608613,
+    "team":"Cove Fusion",
+    "dateofbirth":"20\/11\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Steve Fulton",
+    "shirtno":""
+  },
+  {
+    "id":57283194,
+    "team":"West Beach Legends",
+    "dateofbirth":"21\/03\/1963",
+    "type":"Full",
+    "status":"Active",
+    "name":"Neil Dawson",
+    "shirtno":""
+  },
+  {
+    "id":76135540,
+    "team":"Pulteney",
+    "dateofbirth":"04\/05\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Allen",
+    "shirtno":""
+  },
+  {
+    "id":82359985,
+    "team":"West Beach Legends",
+    "dateofbirth":"23\/11\/1960",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Delaney",
+    "shirtno":""
+  },
+  {
+    "id":10741140,
+    "team":"Sporting",
+    "dateofbirth":"28\/04\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Julian",
+    "shirtno":""
+  },
+  {
+    "id":11196118,
+    "team":"Pulteney",
+    "dateofbirth":"17\/04\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Matarazzo",
+    "shirtno":""
+  },
+  {
+    "id":84988757,
+    "team":"West Beach",
+    "dateofbirth":"03\/02\/1976",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Marc Rychener",
+    "shirtno":""
+  },
+  {
+    "id":79004784,
+    "team":"West Beach Legends",
+    "dateofbirth":"20\/05\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Nic Plews",
+    "shirtno":""
+  },
+  {
+    "id":78773587,
+    "team":"University Old Boys",
+    "dateofbirth":"03\/06\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Scott Kumar",
+    "shirtno":""
+  },
+  {
+    "id":10984587,
+    "team":"Croatia",
+    "dateofbirth":"13\/10\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ante Kolar",
+    "shirtno":""
+  },
+  {
+    "id":64354343,
+    "team":"West Beach Legends",
+    "dateofbirth":"27\/02\/1959",
+    "type":"Full",
+    "status":"Active",
+    "name":"Terry Campbell",
+    "shirtno":""
+  },
+  {
+    "id":11183271,
+    "team":"West Beach Legends",
+    "dateofbirth":"03\/03\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Kevin Tan",
+    "shirtno":""
+  },
+  {
+    "id":10952282,
+    "team":"Southern Sharks",
+    "dateofbirth":"18\/11\/1986",
+    "type":"Full",
+    "status":"Active",
+    "name":"Luke Walker",
+    "shirtno":""
+  },
+  {
+    "id":10098651,
+    "team":"Old Plymptonians",
+    "dateofbirth":"15\/09\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Mark Seiffert",
+    "shirtno":""
+  },
+  {
+    "id":75549253,
+    "team":"West Beach",
+    "dateofbirth":"21\/04\/1972",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"David Borovnik",
+    "shirtno":""
+  },
+  {
+    "id":10105299,
+    "team":"West Beach Legends",
+    "dateofbirth":"06\/05\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Ian Critchley",
+    "shirtno":""
+  },
+  {
+    "id":73480279,
+    "team":"Sporting",
+    "dateofbirth":"29\/03\/1982",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Glenn Bartlett",
+    "shirtno":""
+  },
+  {
+    "id":10104381,
+    "team":"Old Plymptonians",
+    "dateofbirth":"05\/01\/1983",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Mooney",
+    "shirtno":""
+  },
+  {
+    "id":50738186,
+    "team":"West Beach",
+    "dateofbirth":"18\/03\/1976",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Ryan Weir",
+    "shirtno":""
+  },
+  {
+    "id":63352587,
+    "team":"University Old Boys",
+    "dateofbirth":"25\/02\/1959",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jules Mandalovic",
+    "shirtno":""
+  },
+  {
+    "id":10096098,
+    "team":"University Old Boys",
+    "dateofbirth":"10\/01\/1979",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Luke Gardiner",
+    "shirtno":""
+  },
+  {
+    "id":85342723,
+    "team":"Old Plymptonians",
+    "dateofbirth":"24\/01\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Imad Mahmoud",
+    "shirtno":""
+  },
+  {
+    "id":64354343,
+    "team":"West Beach Legends",
+    "dateofbirth":"27\/02\/1959",
+    "type":"West Beach Legends Already CSL\/SAASL Registered",
+    "status":"De-reg Requested",
+    "name":"Terry Campbell",
+    "shirtno":""
+  },
+  {
+    "id":45046695,
+    "team":"University Old Boys",
+    "dateofbirth":"18\/07\/1967",
+    "type":"Full",
+    "status":"Active",
+    "name":"Daniele Cece",
+    "shirtno":""
+  },
+  {
+    "id":80533375,
+    "team":"West Beach Legends",
+    "dateofbirth":"21\/10\/1961",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andrew Firth",
+    "shirtno":""
+  },
+  {
+    "id":80533375,
+    "team":"West Beach Legends",
+    "dateofbirth":"21\/10\/1961",
+    "type":"West Beach Legends Already CSL\/SAASL Registered",
+    "status":"De-reg Requested",
+    "name":"Andrew Firth",
+    "shirtno":""
+  },
+  {
+    "id":77007540,
+    "team":"Old Plymptonians",
+    "dateofbirth":"24\/02\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Matt Book",
+    "shirtno":""
+  },
+  {
+    "id":82254913,
+    "team":"West Beach",
+    "dateofbirth":"15\/09\/1980",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"James Wilkie",
+    "shirtno":""
+  },
+  {
+    "id":10105236,
+    "team":"Southern Cross",
+    "dateofbirth":"26\/03\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Darmon",
+    "shirtno":""
+  },
+  {
+    "id":11222767,
+    "team":"Old Plymptonians",
+    "dateofbirth":"07\/08\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Lewis Ashton",
+    "shirtno":""
+  },
+  {
+    "id":10097880,
+    "team":"Cove Fusion",
+    "dateofbirth":"24\/11\/1973",
+    "type":"Shared",
+    "status":"Active",
+    "name":"Mark Sayers",
+    "shirtno":""
+  },
+  {
+    "id":11220379,
+    "team":"University Old Boys",
+    "dateofbirth":"09\/11\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Niels Van De Kreeke",
+    "shirtno":""
+  },
+  {
+    "id":71856090,
+    "team":"Cove Fusion",
+    "dateofbirth":"26\/10\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simone Barbieri",
+    "shirtno":""
+  },
+  {
+    "id":11234909,
+    "team":"Old Plymptonians",
+    "dateofbirth":"18\/04\/1986",
+    "type":"Full",
+    "status":"Active",
+    "name":"Steven Gawthrop",
+    "shirtno":""
+  },
+  {
+    "id":75411512,
+    "team":"Old Plymptonians",
+    "dateofbirth":"02\/08\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Craig Carter",
+    "shirtno":""
+  },
+  {
+    "id":74545062,
+    "team":"West Beach",
+    "dateofbirth":"13\/07\/1986",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Yuki Akita",
+    "shirtno":""
+  },
+  {
+    "id":72624323,
+    "team":"Old Plymptonians",
+    "dateofbirth":"28\/08\/1968",
+    "type":"Full",
+    "status":"Active",
+    "name":"Steve Hammond",
+    "shirtno":""
+  },
+  {
+    "id":11262367,
+    "team":"University Old Boys",
+    "dateofbirth":"06\/07\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Sean Kelly",
+    "shirtno":""
+  },
+  {
+    "id":10096014,
+    "team":"Cove Fusion",
+    "dateofbirth":"28\/05\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"John Dagas",
+    "shirtno":""
+  },
+  {
+    "id":74521485,
+    "team":"Cove Fusion",
+    "dateofbirth":"08\/03\/1966",
+    "type":"Full",
+    "status":"Active",
+    "name":"Philip Allen",
+    "shirtno":""
+  },
+  {
+    "id":77632925,
+    "team":"Cove Fusion",
+    "dateofbirth":"11\/12\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Cowan",
+    "shirtno":""
+  },
+  {
+    "id":10096014,
+    "team":"Cove Fusion",
+    "dateofbirth":"28\/05\/1974",
+    "type":"Shared",
+    "status":"De-reg Requested",
+    "name":"John Dagas",
+    "shirtno":""
+  },
+  {
+    "id":11185239,
+    "team":"Cove Fusion",
+    "dateofbirth":"01\/10\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Justin Bradstreet",
+    "shirtno":""
+  },
+  {
+    "id":64005788,
+    "team":"Austria",
+    "dateofbirth":"14\/02\/1968",
+    "type":"Austria Registration -already registered elsewhere",
+    "status":"Active",
+    "name":"Brian Mcclelland",
+    "shirtno":""
+  },
+  {
+    "id":64007032,
+    "team":"Cove Fusion",
+    "dateofbirth":"27\/10\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Scott Wylie",
+    "shirtno":""
+  },
+  {
+    "id":82384686,
+    "team":"Cove Fusion",
+    "dateofbirth":"13\/02\/1969",
+    "type":"Full",
+    "status":"Active",
+    "name":"Richard Barker",
+    "shirtno":""
+  },
+  {
+    "id":11051108,
+    "team":"Cove Fusion",
+    "dateofbirth":"31\/05\/1985",
+    "type":"Full",
+    "status":"Active",
+    "name":"Mark Coggins",
+    "shirtno":""
+  },
+  {
+    "id":64006240,
+    "team":"Cove Fusion",
+    "dateofbirth":"18\/04\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Gough",
+    "shirtno":""
+  },
+  {
     "id":11153594,
     "team":"West Beach",
     "dateofbirth":"30\/10\/1981",
     "type":"West Beach Div 1 Already CSL\/SAASL Registered",
     "status":"Active",
     "name":"Simon Taylor",
+    "shirtno":""
+  },
+  {
+    "id":85273977,
+    "team":"Old Plymptonians",
+    "dateofbirth":"04\/02\/1973",
+    "type":"Full",
+    "status":"Active",
+    "name":"Richard Copper",
     "shirtno":""
   },
   {
@@ -45,8 +1107,17 @@
     "shirtno":""
   },
   {
+    "id":71339980,
+    "team":"Pulteney",
+    "dateofbirth":"27\/06\/1976",
+    "type":"Full",
+    "status":"Active",
+    "name":"Luke Beeson",
+    "shirtno":""
+  },
+  {
     "id":78514353,
-    "team":"Sturt Marion",
+    "team":"Sturt Marion Old Boys",
     "dateofbirth":"19\/01\/1984",
     "type":"Sturt Marion Old Boys (Div2) Already Registered",
     "status":"Active",
@@ -156,7 +1227,7 @@
     "id":83889832,
     "team":"West Beach Legends",
     "dateofbirth":"03\/08\/1974",
-    "type":"Sturt-Marion Div 2 Already CSL\/SAASL Registered",
+    "type":"West Beach Legends Already CSL\/SAASL Registered",
     "status":"Active",
     "name":"Gordon Peebles",
     "shirtno":""
@@ -270,8 +1341,17 @@
     "shirtno":""
   },
   {
+    "id":10104395,
+    "team":"Old Plymptonians",
+    "dateofbirth":"13\/10\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"William Raven",
+    "shirtno":""
+  },
+  {
     "id":65612111,
-    "team":"Sturt Marion",
+    "team":"Sturt Marion Old Boys",
     "dateofbirth":"25\/07\/1968",
     "type":"Sturt Marion Old Boys (Div2) Already Registered",
     "status":"Active",
@@ -289,7 +1369,7 @@
   },
   {
     "id":10102695,
-    "team":"Sturt-Marion",
+    "team":"Sturt Marion Thunder",
     "dateofbirth":"09\/04\/1972",
     "type":"Sturt Marion Thunder (Div1) Already Registered",
     "status":"Active",
@@ -316,7 +1396,7 @@
   },
   {
     "id":83882381,
-    "team":"Sturt-Marion",
+    "team":"Sturt Marion Thunder",
     "dateofbirth":"18\/04\/1981",
     "type":"Sturt Marion Thunder (Div1) Already Registered",
     "status":"Active",
@@ -348,6 +1428,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Daniel Winder",
+    "shirtno":""
+  },
+  {
+    "id":75379883,
+    "team":"Old Plymptonians",
+    "dateofbirth":"15\/12\/1972",
+    "type":"Full",
+    "status":"Active",
+    "name":"Paul Sturges",
     "shirtno":""
   },
   {
