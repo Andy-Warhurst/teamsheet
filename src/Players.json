@@ -1,5 +1,14 @@
 [
   {
+    "id":79177374,
+    "team":"West Beach",
+    "dateofbirth":"24\/08\/1978",
+    "type":"West Beach Div 1 Already CSL\/SAASL Registered",
+    "status":"Active",
+    "name":"Delwyn Jones",
+    "shirtno":""
+  },
+  {
     "id":64000680,
     "team":"Sporting",
     "dateofbirth":"22\/07\/1968",
@@ -24,6 +33,15 @@
     "type":"Shared",
     "status":"Active",
     "name":"Mathieu Jacquet",
+    "shirtno":""
+  },
+  {
+    "id":10637657,
+    "team":"Adelaide Spurs",
+    "dateofbirth":"26\/03\/1985",
+    "type":"Adelaide Spurs Player Registration",
+    "status":"Active",
+    "name":"Adam Hooper",
     "shirtno":""
   },
   {
