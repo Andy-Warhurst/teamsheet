@@ -1,5 +1,23 @@
 [
   {
+    "id":64000680,
+    "team":"Sporting",
+    "dateofbirth":"22\/07\/1968",
+    "type":"Shared",
+    "status":"Active",
+    "name":"David Simms",
+    "shirtno":""
+  },
+  {
+    "id":45292695,
+    "team":"St Peters",
+    "dateofbirth":"29\/05\/1970",
+    "type":"Full",
+    "status":"Active",
+    "name":"Atilio Waltcheff",
+    "shirtno":""
+  },
+  {
     "id":11190419,
     "team":"Sporting",
     "dateofbirth":"14\/04\/1985",
@@ -51,6 +69,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Paul Curzon",
+    "shirtno":""
+  },
+  {
+    "id":60277084,
+    "team":"University Old Boys",
+    "dateofbirth":"18\/10\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"David Bowman",
     "shirtno":""
   },
   {
@@ -297,6 +324,15 @@
     "shirtno":""
   },
   {
+    "id":74471657,
+    "team":"Man City",
+    "dateofbirth":"27\/07\/1966",
+    "type":"Full",
+    "status":"Active",
+    "name":"Graham Kearnan",
+    "shirtno":""
+  },
+  {
     "id":64000672,
     "team":"Sporting",
     "dateofbirth":"09\/03\/1969",
@@ -312,6 +348,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Paul Broome",
+    "shirtno":""
+  },
+  {
+    "id":11449818,
+    "team":"Man City",
+    "dateofbirth":"09\/01\/1963",
+    "type":"Full",
+    "status":"Active",
+    "name":"Simon Norris",
     "shirtno":""
   },
   {
@@ -357,6 +402,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Paul Hickman",
+    "shirtno":""
+  },
+  {
+    "id":11448468,
+    "team":"Man City",
+    "dateofbirth":"28\/10\/1977",
+    "type":"Full",
+    "status":"Active",
+    "name":"Michael Down",
     "shirtno":""
   },
   {
@@ -465,6 +519,15 @@
     "type":"Full",
     "status":"Active",
     "name":"James O\u2019Hara",
+    "shirtno":""
+  },
+  {
+    "id":83778431,
+    "team":"Man City",
+    "dateofbirth":"26\/06\/1979",
+    "type":"Full",
+    "status":"Active",
+    "name":"Andrew Bright",
     "shirtno":""
   },
   {
@@ -639,6 +702,15 @@
     "shirtno":""
   },
   {
+    "id":75858274,
+    "team":"Man City",
+    "dateofbirth":"30\/12\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Neil Kent",
+    "shirtno":""
+  },
+  {
     "id":71367585,
     "team":"Southern Cross",
     "dateofbirth":"09\/11\/1972",
@@ -690,6 +762,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Ross Wardrope",
+    "shirtno":""
+  },
+  {
+    "id":55077796,
+    "team":"Man City",
+    "dateofbirth":"17\/03\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Haydn Frayne",
     "shirtno":""
   },
   {
@@ -792,6 +873,15 @@
     "shirtno":""
   },
   {
+    "id":82387010,
+    "team":"Man City",
+    "dateofbirth":"08\/09\/1980",
+    "type":"Full",
+    "status":"Active",
+    "name":"Kristian Fuchs",
+    "shirtno":""
+  },
+  {
     "id":78773587,
     "team":"University Old Boys",
     "dateofbirth":"03\/06\/1978",
@@ -810,12 +900,66 @@
     "shirtno":""
   },
   {
+    "id":81379190,
+    "team":"Man City",
+    "dateofbirth":"20\/05\/1984",
+    "type":"Full",
+    "status":"Active",
+    "name":"Thomas Brennan",
+    "shirtno":""
+  },
+  {
     "id":64354343,
     "team":"West Beach Legends",
     "dateofbirth":"27\/02\/1959",
     "type":"Full",
     "status":"Active",
     "name":"Terry Campbell",
+    "shirtno":""
+  },
+  {
+    "id":66028069,
+    "team":"Man City",
+    "dateofbirth":"30\/06\/1971",
+    "type":"Full",
+    "status":"Active",
+    "name":"Scott Vasey",
+    "shirtno":""
+  },
+  {
+    "id":11248463,
+    "team":"Man City",
+    "dateofbirth":"19\/02\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Gavin Black",
+    "shirtno":""
+  },
+  {
+    "id":11263213,
+    "team":"Man City",
+    "dateofbirth":"19\/05\/1974",
+    "type":"Full",
+    "status":"Active",
+    "name":"Richard Graham",
+    "shirtno":""
+  },
+  {
+    "id":10674309,
+    "team":"Man City",
+    "dateofbirth":"04\/03\/1978",
+    "type":"Full",
+    "status":"Active",
+    "name":"Lee Silvester",
+    "shirtno":""
+  },
+  {
+    "id":77160463,
+    "team":"Man City",
+    "dateofbirth":"29\/05\/1975",
+    "type":"Full",
+    "status":"Active",
+    "name":"Jonathan Parkin",
     "shirtno":""
   },
   {
@@ -999,6 +1143,15 @@
     "shirtno":""
   },
   {
+    "id":10691945,
+    "team":"Man City",
+    "dateofbirth":"05\/04\/1982",
+    "type":"Full",
+    "status":"Active",
+    "name":"Martyn Wild",
+    "shirtno":""
+  },
+  {
     "id":11220379,
     "team":"University Old Boys",
     "dateofbirth":"09\/11\/1984",
@@ -1014,6 +1167,15 @@
     "type":"Full",
     "status":"Active",
     "name":"Simone Barbieri",
+    "shirtno":""
+  },
+  {
+    "id":10824100,
+    "team":"Man City",
+    "dateofbirth":"14\/06\/1981",
+    "type":"Full",
+    "status":"Active",
+    "name":"Gary Silvester",
     "shirtno":""
   },
   {
@@ -1548,12 +1710,39 @@
     "shirtno":""
   },
   {
+    "id":77182871,
+    "team":"Man City",
+    "dateofbirth":"05\/08\/1975",
+    "type":"Full",
+    "status":"Active",
+    "name":"Matthew Mcgill",
+    "shirtno":""
+  },
+  {
+    "id":10956590,
+    "team":"Man City",
+    "dateofbirth":"05\/08\/1964",
+    "type":"Full",
+    "status":"Active",
+    "name":"Peter Batts",
+    "shirtno":""
+  },
+  {
     "id":10102892,
     "team":"Southern Cross",
     "dateofbirth":"16\/09\/1981",
     "type":"Full",
     "status":"Active",
     "name":"Jamie Weston",
+    "shirtno":""
+  },
+  {
+    "id":10575287,
+    "team":"Man City",
+    "dateofbirth":"26\/05\/1959",
+    "type":"Full",
+    "status":"Active",
+    "name":"Robert Arnold",
     "shirtno":""
   },
   {
