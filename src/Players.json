@@ -1,5 +1,86 @@
 [
   {
+    "id":83529602,
+    "dateofbirth":"28\/11\/1977",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Cove Fusion",
+    "name":"Gareth Lee",
+    "shirtno":""
+  },
+  {
+    "id":10100734,
+    "dateofbirth":"14\/01\/1986",
+    "type":"Full",
+    "status":"Active",
+    "team":"Old Plymptonians",
+    "name":"Patrick Mcgovern",
+    "shirtno":""
+  },
+  {
+    "id":54204276,
+    "dateofbirth":"31\/07\/1984",
+    "type":"Full",
+    "status":"Active",
+    "team":"Croatia",
+    "name":"Jozo Simic",
+    "shirtno":""
+  },
+  {
+    "id":10974062,
+    "dateofbirth":"08\/10\/1979",
+    "type":"Full",
+    "status":"Active",
+    "team":"Croatia",
+    "name":"Anthony Morabito",
+    "shirtno":""
+  },
+  {
+    "id":45371218,
+    "dateofbirth":"15\/08\/1970",
+    "type":"Full",
+    "status":"Active",
+    "team":"West Beach Legends",
+    "name":"David Robison",
+    "shirtno":""
+  },
+  {
+    "id":10572841,
+    "dateofbirth":"02\/11\/1981",
+    "type":"Full",
+    "status":"Active",
+    "team":"Southern Sharks",
+    "name":"Kevin Johnson",
+    "shirtno":""
+  },
+  {
+    "id":10537825,
+    "dateofbirth":"23\/07\/1974",
+    "type":"Full",
+    "status":"Active",
+    "team":"Southern Sharks",
+    "name":"Gregor Zorkovic",
+    "shirtno":""
+  },
+  {
+    "id":64000060,
+    "dateofbirth":"30\/04\/1958",
+    "type":"Full",
+    "status":"Active",
+    "team":"Southern Sharks",
+    "name":"Nigel Fenton",
+    "shirtno":""
+  },
+  {
+    "id":82032103,
+    "dateofbirth":"18\/04\/1980",
+    "type":"Full",
+    "status":"Active",
+    "team":"Cove Fusion",
+    "name":"Gabriel Tudini",
+    "shirtno":""
+  },
+  {
     "id":11233139,
     "dateofbirth":"24\/09\/1976",
     "type":"Full",
@@ -27,12 +108,48 @@
     "shirtno":""
   },
   {
+    "id":11454362,
+    "dateofbirth":"03\/08\/1975",
+    "type":"Full",
+    "status":"Active",
+    "team":"West Beach Legends",
+    "name":"Marc Whitehead",
+    "shirtno":""
+  },
+  {
     "id":10568444,
     "dateofbirth":"15\/07\/1975",
     "type":"Full",
     "status":"Active",
     "team":"West Beach Legends",
     "name":"Nathan Mcgair",
+    "shirtno":""
+  },
+  {
+    "id":75592386,
+    "dateofbirth":"17\/03\/1982",
+    "type":"Full",
+    "status":"Active",
+    "team":"University Orange",
+    "name":"Joel Polkinghorne",
+    "shirtno":""
+  },
+  {
+    "id":11271322,
+    "dateofbirth":"26\/07\/1982",
+    "type":"Full",
+    "status":"Active",
+    "team":"University Orange",
+    "name":"Elliot St Claire",
+    "shirtno":""
+  },
+  {
+    "id":80844764,
+    "dateofbirth":"30\/09\/1976",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Jeremy Limbert",
     "shirtno":""
   },
   {
@@ -78,6 +195,15 @@
     "status":"Active",
     "team":"Adelaide Spurs",
     "name":"Antony Haddington",
+    "shirtno":""
+  },
+  {
+    "id":74609678,
+    "dateofbirth":"10\/10\/1979",
+    "type":"Full",
+    "status":"Active",
+    "team":"University Orange",
+    "name":"Willem Metzer",
     "shirtno":""
   },
   {
@@ -189,6 +315,15 @@
     "shirtno":""
   },
   {
+    "id":64005770,
+    "dateofbirth":"05\/11\/1957",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Stuart Williams",
+    "shirtno":""
+  },
+  {
     "id":85328243,
     "dateofbirth":"02\/04\/1985",
     "type":"Full",
@@ -207,12 +342,30 @@
     "shirtno":""
   },
   {
+    "id":63351811,
+    "dateofbirth":"23\/05\/1973",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Duncan Haller",
+    "shirtno":""
+  },
+  {
     "id":10103295,
     "dateofbirth":"11\/10\/1983",
     "type":"Shared",
     "status":"Active",
     "team":"West Beach",
     "name":"Barry James",
+    "shirtno":""
+  },
+  {
+    "id":76597491,
+    "dateofbirth":"21\/11\/1965",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Mark Hauptman",
     "shirtno":""
   },
   {
@@ -474,6 +627,15 @@
     "status":"Active",
     "team":"Sporting",
     "name":"Paul Broome",
+    "shirtno":""
+  },
+  {
+    "id":83884346,
+    "dateofbirth":"02\/01\/1979",
+    "type":"Full",
+    "status":"Active",
+    "team":"Sturt Marion Old Boys",
+    "name":"Heath Bowden",
     "shirtno":""
   },
   {
@@ -1017,6 +1179,15 @@
     "shirtno":""
   },
   {
+    "id":11071790,
+    "dateofbirth":"16\/10\/1968",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Brenton Ellul",
+    "shirtno":""
+  },
+  {
     "id":10984587,
     "dateofbirth":"13\/10\/1982",
     "type":"Full",
@@ -1188,15 +1359,6 @@
     "shirtno":""
   },
   {
-    "id":64354343,
-    "dateofbirth":"27\/02\/1959",
-    "type":"Shared",
-    "status":"De-reg Requested",
-    "team":"West Beach Legends",
-    "name":"Terry Campbell",
-    "shirtno":""
-  },
-  {
     "id":45046695,
     "dateofbirth":"18\/07\/1967",
     "type":"Full",
@@ -1210,15 +1372,6 @@
     "dateofbirth":"21\/10\/1961",
     "type":"Full",
     "status":"Active",
-    "team":"West Beach Legends",
-    "name":"Andrew Firth",
-    "shirtno":""
-  },
-  {
-    "id":80533375,
-    "dateofbirth":"21\/10\/1961",
-    "type":"Shared",
-    "status":"De-reg Requested",
     "team":"West Beach Legends",
     "name":"Andrew Firth",
     "shirtno":""
@@ -1374,15 +1527,6 @@
     "status":"Active",
     "team":"Cove Fusion",
     "name":"David Cowan",
-    "shirtno":""
-  },
-  {
-    "id":10096014,
-    "dateofbirth":"28\/05\/1974",
-    "type":"Shared",
-    "status":"De-reg Requested",
-    "team":"Cove Fusion",
-    "name":"John Dagas",
     "shirtno":""
   },
   {
@@ -1620,6 +1764,15 @@
     "shirtno":""
   },
   {
+    "id":10586271,
+    "dateofbirth":"11\/04\/1960",
+    "type":"Full",
+    "status":"Active",
+    "team":"Sturt Marion Old Boys",
+    "name":"Robin Goldfinch",
+    "shirtno":""
+  },
+  {
     "id":65174054,
     "dateofbirth":"21\/01\/1967",
     "type":"Shared",
@@ -1692,6 +1845,15 @@
     "shirtno":""
   },
   {
+    "id":79134110,
+    "dateofbirth":"12\/02\/1975",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Mark Zanella",
+    "shirtno":""
+  },
+  {
     "id":64025745,
     "dateofbirth":"06\/08\/1973",
     "type":"Full",
@@ -1746,6 +1908,15 @@
     "shirtno":""
   },
   {
+    "id":64005960,
+    "dateofbirth":"14\/05\/1967",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Simon Green",
+    "shirtno":""
+  },
+  {
     "id":65169765,
     "dateofbirth":"27\/06\/1970",
     "type":"Full",
@@ -1773,12 +1944,30 @@
     "shirtno":""
   },
   {
+    "id":11263212,
+    "dateofbirth":"15\/09\/1978",
+    "type":"Full",
+    "status":"Active",
+    "team":"Sturt Marion Old Boys",
+    "name":"Stuart Ogilvie",
+    "shirtno":""
+  },
+  {
     "id":10954534,
     "dateofbirth":"10\/10\/1985",
     "type":"Full",
     "status":"Active",
     "team":"Southern Cross",
     "name":"Bobby Sipaseutsak",
+    "shirtno":""
+  },
+  {
+    "id":83882274,
+    "dateofbirth":"08\/04\/1969",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Michael Clissold",
     "shirtno":""
   },
   {
@@ -1896,6 +2085,15 @@
     "status":"Active",
     "team":"Old Plymptonians",
     "name":"Paul Sturges",
+    "shirtno":""
+  },
+  {
+    "id":85052090,
+    "dateofbirth":"07\/09\/1977",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Brooke Macdonald",
     "shirtno":""
   },
   {

@@ -78,4 +78,4 @@ print(df.tail(20))
 
 df.to_json (r'./src/Players.json',orient='records',indent=2)
 
-#os.remove('/Users/Andy/Downloads/RegManagementDetails.csv')
+os.remove('/Users/Andy/Downloads/RegManagementDetails.csv')
