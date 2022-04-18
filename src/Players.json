@@ -1,5 +1,122 @@
 [
   {
+    "id":10612848,
+    "dateofbirth":"03\/12\/1965",
+    "type":"Full",
+    "status":"Active",
+    "team":"Royal Ajvar",
+    "name":"Emir Sudic",
+    "shirtno":""
+  },
+  {
+    "id":10099118,
+    "dateofbirth":"21\/10\/1980",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Southern Cross",
+    "name":"Thomas Saurbrey",
+    "shirtno":""
+  },
+  {
+    "id":82294521,
+    "dateofbirth":"07\/12\/1979",
+    "type":"Full",
+    "status":"Active",
+    "team":"West Beach Legends",
+    "name":"Matthew Chatterton",
+    "shirtno":""
+  },
+  {
+    "id":10096870,
+    "dateofbirth":"17\/07\/1959",
+    "type":"Full",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Stephen Clarke",
+    "shirtno":""
+  },
+  {
+    "id":11030411,
+    "dateofbirth":"29\/05\/1971",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Alessandro Mannini",
+    "shirtno":""
+  },
+  {
+    "id":10599446,
+    "dateofbirth":"06\/07\/1968",
+    "type":"Full",
+    "status":"Active",
+    "team":"Sturt Marion Old Boys",
+    "name":"Darko Karalic",
+    "shirtno":""
+  },
+  {
+    "id":82444977,
+    "dateofbirth":"01\/08\/1976",
+    "type":"Full",
+    "status":"Active",
+    "team":"Southern Cross",
+    "name":"Andrew Mangle",
+    "shirtno":""
+  },
+  {
+    "id":74860677,
+    "dateofbirth":"19\/07\/1983",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Sporting",
+    "name":"Jorge Caceres",
+    "shirtno":""
+  },
+  {
+    "id":10619883,
+    "dateofbirth":"02\/06\/1972",
+    "type":"Full",
+    "status":"Active",
+    "team":"Croatia",
+    "name":"Steve Dominic",
+    "shirtno":""
+  },
+  {
+    "id":10098647,
+    "dateofbirth":"18\/04\/1978",
+    "type":"Full",
+    "status":"Active",
+    "team":"Old Plymptonians",
+    "name":"Michael Nicol",
+    "shirtno":""
+  },
+  {
+    "id":74200908,
+    "dateofbirth":"31\/05\/1970",
+    "type":"Full",
+    "status":"Active",
+    "team":"University Old Boys",
+    "name":"John Borrillo",
+    "shirtno":""
+  },
+  {
+    "id":10711766,
+    "dateofbirth":"26\/07\/1979",
+    "type":"Full",
+    "status":"Active",
+    "team":"Cove Fusion",
+    "name":"Mark Connor",
+    "shirtno":""
+  },
+  {
+    "id":82464751,
+    "dateofbirth":"16\/10\/1978",
+    "type":"Full",
+    "status":"Active",
+    "team":"Cove Fusion",
+    "name":"Chris Smith",
+    "shirtno":""
+  },
+  {
     "id":83529602,
     "dateofbirth":"28\/11\/1977",
     "type":"Shared",
@@ -60,6 +177,15 @@
     "status":"Active",
     "team":"Southern Sharks",
     "name":"Gregor Zorkovic",
+    "shirtno":""
+  },
+  {
+    "id":10597967,
+    "dateofbirth":"03\/12\/1972",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Carmine Pontecorvo",
     "shirtno":""
   },
   {
@@ -261,6 +387,15 @@
     "shirtno":""
   },
   {
+    "id":10969797,
+    "dateofbirth":"11\/07\/1976",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Tim Clarke",
+    "shirtno":""
+  },
+  {
     "id":11190419,
     "dateofbirth":"14\/04\/1985",
     "type":"Shared",
@@ -369,6 +504,15 @@
     "shirtno":""
   },
   {
+    "id":85152577,
+    "dateofbirth":"17\/02\/1968",
+    "type":"Austria 2022 Player Registration",
+    "status":"Active",
+    "team":"Austria",
+    "name":"Darren Lange",
+    "shirtno":""
+  },
+  {
     "id":11451441,
     "dateofbirth":"08\/11\/1980",
     "type":"Full",
@@ -429,15 +573,6 @@
     "status":"Active",
     "team":"St Peters",
     "name":"Josue Moran",
-    "shirtno":""
-  },
-  {
-    "id":75724021,
-    "dateofbirth":"24\/02\/1984",
-    "type":"Full",
-    "status":"De-reg Requested",
-    "team":"St Peters",
-    "name":"Carlos Knebel",
     "shirtno":""
   },
   {
@@ -774,15 +909,6 @@
     "shirtno":""
   },
   {
-    "id":10551080,
-    "dateofbirth":"13\/05\/1985",
-    "type":"Shared",
-    "status":"Active",
-    "team":"Southern Cross",
-    "name":"Teejay Ades",
-    "shirtno":""
-  },
-  {
     "id":11448163,
     "dateofbirth":"19\/06\/1967",
     "type":"Shared",
@@ -1023,15 +1149,6 @@
     "status":"Active",
     "team":"Southern Cross",
     "name":"Girogis Mallios",
-    "shirtno":""
-  },
-  {
-    "id":71367585,
-    "dateofbirth":"09\/11\/1972",
-    "type":"Shared",
-    "status":"Active",
-    "team":"Southern Cross",
-    "name":"Yong Chin",
     "shirtno":""
   },
   {
