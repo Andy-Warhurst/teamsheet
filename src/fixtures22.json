@@ -254,7 +254,7 @@
   {
     "round": 3,
     "hometeam": "Royal Ajvar",
-    "awayteam": "WB Legends",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 4",
     "date": "24/04/22",
     "time": "11:15",
@@ -326,7 +326,7 @@
   {
     "round": 4,
     "hometeam": "Adelaide Spurs",
-    "awayteam": "WB Legends",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 2",
     "date": "01/05/22",
     "time": "9:30",
@@ -416,7 +416,7 @@
   {
     "round": 5,
     "hometeam": "Austria",
-    "awayteam": "WB Legends",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 2",
     "date": "15/05/22",
     "time": "11:15",
@@ -497,7 +497,7 @@
   {
     "round": 6,
     "hometeam": "BYE",
-    "awayteam": "WB Legends",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 1",
     "date": "22/05/22",
     "time": "9:30",
@@ -613,7 +613,7 @@
   },
   {
     "round": 7,
-    "hometeam": "WB Legends",
+    "hometeam": "West Beach Legends",
     "awayteam": "Southern Sharks",
     "venue": "Barratt Reserve 4",
     "date": "29/05/22",
@@ -694,7 +694,7 @@
   },
   {
     "round": 8,
-    "hometeam": "WB Legends",
+    "hometeam": "West Beach Legends",
     "awayteam": "Pulteney",
     "venue": "Barratt Reserve 3",
     "date": "05/06/22",
@@ -784,7 +784,7 @@
   },
   {
     "round": 9,
-    "hometeam": "WB Legends",
+    "hometeam": "West Beach Legends",
     "awayteam": "Sturt Marion Old Boys",
     "venue": "Barratt Reserve 3",
     "date": "19/06/22",
@@ -884,7 +884,7 @@
   {
     "round": 10,
     "hometeam": "University Orange",
-    "awayteam": "WB Legends",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 4",
     "date": "03/07/22",
     "time": "9:30",
@@ -982,7 +982,7 @@
   },
   {
     "round": 11,
-    "hometeam": "WB Legends",
+    "hometeam": "West Beach Legends",
     "awayteam": "St Peters B",
     "venue": "Barratt Reserve 5",
     "date": "10/07/22",
@@ -1054,7 +1054,7 @@
   },
   {
     "round": 12,
-    "hometeam": "WB Legends",
+    "hometeam": "West Beach Legends",
     "awayteam": "Royal Ajvar",
     "venue": "Barratt Reserve 3",
     "date": "17/07/22",
@@ -1153,7 +1153,7 @@
   },
   {
     "round": 13,
-    "hometeam": "WB Legends",
+    "hometeam": "West Beach Legends",
     "awayteam": "Adelaide Spurs",
     "venue": "Barratt Reserve 4",
     "date": "31/07/22",
@@ -1252,7 +1252,7 @@
   },
   {
     "round": 14,
-    "hometeam": "WB Legends",
+    "hometeam": "West Beach Legends",
     "awayteam": "Austria",
     "venue": "Barratt Reserve 5",
     "date": "07/08/22",
@@ -1324,7 +1324,7 @@
   },
   {
     "round": 15,
-    "hometeam": "WB Legends",
+    "hometeam": "West Beach Legends",
     "awayteam": "BYE",
     "venue": "Barratt Reserve 3",
     "date": "14/08/22",
@@ -1433,7 +1433,7 @@
   {
     "round": 16,
     "hometeam": "Southern Sharks",
-    "awayteam": "WB Legends",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 5",
     "date": "28/08/22",
     "time": "9:30",
@@ -1514,7 +1514,7 @@
   {
     "round": 17,
     "hometeam": "Pulteney",
-    "awayteam": "WB Legends",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 4",
     "date": "04/09/22",
     "time": "11:15",
@@ -1586,7 +1586,7 @@
   {
     "round": 18,
     "hometeam": "Sturt Marion Old Boys",
-    "awayteam": "WB Legends",
+    "awayteam": "West Beach Legends",
     "venue": "Barratt Reserve 2",
     "date": "18/09/22",
     "time": "9:30",
