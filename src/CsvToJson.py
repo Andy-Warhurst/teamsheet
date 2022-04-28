@@ -74,7 +74,25 @@ df = df.rename(columns={"FFA Number": "id",
  "Product Name": "type",
  "Reg Status Secondary": "status"})
 
-print(df.tail(20))
+# Big St Peters 2022 fix
+
+df.loc[df['id'] == 10192438, 'team'] = 'St Peters B' #Angel Lopez
+df.loc[df['id'] == 10192353, 'team'] = 'St Peters B' #Katianos, John
+df.loc[df['id'] == 80860398, 'team'] = 'St Peters B' #Burley, Richard J
+df.loc[df['id'] == 79697306, 'team'] = 'St Peters B' #Mileto, Domenico
+df.loc[df['id'] == 11447695, 'team'] = 'St Peters B' #Martelotto, Luciano
+df.loc[df['id'] == 11450229, 'team'] = 'St Peters B' #Scholl, Ivan
+df.loc[df['id'] == 11276224, 'team'] = 'St Peters B' #Russell, Martin
+df.loc[df['id'] == 11449192, 'team'] = 'St Peters B' #Sikora, Grzegorz
+df.loc[df['id'] == 11450666, 'team'] = 'St Peters B' #Guzman, Jerson
+df.loc[df['id'] == 11470835, 'team'] = 'St Peters B' #Lugo, Alex
+
+#To register - Edgar Costa
+#To register - Oscar ??
+#To register - Charlie Rodriguez
+
+
+print(df.head(20))
 
 df.to_json (r'./src/Players.json',orient='records',indent=2)
 
