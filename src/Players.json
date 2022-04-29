@@ -1,5 +1,23 @@
 [
   {
+    "id":10104009,
+    "dateofbirth":"04\/02\/1972",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Sturt Marion Old Boys",
+    "name":"Allan Barnes",
+    "shirtno":""
+  },
+  {
+    "id":10699037,
+    "dateofbirth":"09\/06\/1977",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Sturt Marion Thunder",
+    "name":"Andrew Mcaulay",
+    "shirtno":""
+  },
+  {
     "id":11484313,
     "dateofbirth":"29\/02\/1972",
     "type":"Full",
