@@ -13,3 +13,5 @@ coverage/
 .env
 .prettierrc
 .eslintrc.json
+# Local Netlify folder
+.netlify
