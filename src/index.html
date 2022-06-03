@@ -10,23 +10,23 @@
     <div id="root">not rendered</div>
     <script src="./App.js"></script>
 
-    <button id="fetch-btn">Fetch</button>
-    <p id="response-output">Response Placeholder</p>
+<!--    <button id="fetch-btn">Fetch</button>-->
+<!--    <p id="response-output">Response Placeholder</p>-->
 
-    <script>
-      document.addEventListener('DOMContentLoaded', () => {
-        const fetchBtn = document.getElementById('fetch-btn')
-        const responseText = document.getElementById('response-output')
+<!--    <script>-->
+<!--      document.addEventListener('DOMContentLoaded', () => {-->
+<!--        const fetchBtn = document.getElementById('fetch-btn')-->
+<!--        const responseText = document.getElementById('response-output')-->
 
-        fetchBtn.addEventListener('click', async () => {
-          const response = await fetch('/.netlify/functions/hello').then(
-                  response => response.json()
-          )
+<!--        fetchBtn.addEventListener('click', async () => {-->
+<!--          const response = await fetch('/.netlify/functions/hello').then(-->
+<!--                  response => response.json()-->
+<!--          )-->
 
-          responseText.innerText = JSON.stringify(response)
-        })
-      })
-    </script>
+<!--          responseText.innerText = JSON.stringify(response)-->
+<!--        })-->
+<!--      })-->
+<!--    </script>-->
 
 
   </body>
