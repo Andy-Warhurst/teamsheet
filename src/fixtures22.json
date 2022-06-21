@@ -1618,7 +1618,122 @@
     "date": "18/09/22",
     "time": "9:30",
     "division": 2
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "West Beach",
+    "awayteam": "West Beach Legends",
+    "venue": "Lockleys Oval",
+    "date": "24/06/22",
+    "time": "19:00",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-Q",
+    "hometeam": "Sporting",
+    "awayteam": "Pulteney",
+    "venue": "Barratt Reserve 1",
+    "date": "26/06/22",
+    "time": "9:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-Q",
+    "hometeam": "Southern Sharks",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 2",
+    "date": "26/06/22",
+    "time": "9:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam":"Southern Cross",
+    "awayteam": "Sturt Marion Old Boys",
+    "venue": "Barratt Reserve 3",
+    "date": "26/06/22",
+    "time": "9:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "St Peters",
+    "awayteam": "Old Plymptonians",
+    "venue": "Barratt Reserve 4",
+    "date": "26/06/22",
+    "time": "9:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "Austria",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 5",
+    "date": "26/06/22",
+    "time": "9:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "Adelaide Spurs",
+    "awayteam": "Cove Fusion",
+    "venue": "Barratt Reserve 1",
+    "date": "26/06/22",
+    "time": "11:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "St Peters B",
+    "awayteam": "Sturt Marion Thunder",
+    "venue": "Barratt Reserve 3",
+    "date": "26/06/22",
+    "time": "11:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "Man City",
+    "awayteam":"University Orange",
+    "venue": "Barratt Reserve 2",
+    "date": "26/06/22",
+    "time": "11:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "Sporting",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 1",
+    "date": "26/06/22",
+    "time": "10:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "Sporting",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 1",
+    "date": "26/06/22",
+    "time": "10:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "Pulteney",
+    "awayteam": "Southern Sharks",
+    "venue": "Barratt Reserve 1",
+    "date": "26/06/22",
+    "time": "10:30",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-1",
+    "hometeam": "Pulteney",
+    "awayteam": "Croatia",
+    "venue": "Barratt Reserve 1",
+    "date": "26/06/22",
+    "time": "10:30",
+    "division": "CUP"
   }
-
-
 ]
