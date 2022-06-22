@@ -6,7 +6,11 @@
     "venue": "Barratt Reserve 1",
     "date": "3/04/22",
     "time": "9:30",
-    "division": 1
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
   },
   {
     "round": 1,
@@ -15,8 +19,12 @@
     "venue": "Barratt Reserve 2",
     "date": "3/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 1,
     "hometeam": "West Beach",
@@ -24,8 +32,12 @@
     "venue": "Barratt Reserve 3",
     "date": "3/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 1,
     "hometeam": "Sturt Marion Thunder",
@@ -33,8 +45,12 @@
     "venue": "Barratt Reserve 4",
     "date": "3/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 1,
     "hometeam": "University Old Boys",
@@ -42,8 +58,12 @@
     "venue": "Barratt Reserve 5",
     "date": "3/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 1,
     "hometeam": "Southern Sharks",
@@ -51,8 +71,12 @@
     "venue": "Barratt Reserve 1",
     "date": "3/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 1,
     "hometeam": "Austria",
@@ -60,8 +84,12 @@
     "venue": "Barratt Reserve 2",
     "date": "3/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 1,
     "hometeam": "West Beach Legends",
@@ -69,8 +97,12 @@
     "venue": "Barratt Reserve 3",
     "date": "3/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 1,
     "hometeam": "Sturt Marion Old Boys",
@@ -78,8 +110,12 @@
     "venue": "Barratt Reserve 4",
     "date": "3/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 1,
     "hometeam": "Pulteney",
@@ -87,8 +123,12 @@
     "venue": "Barratt Reserve 5",
     "date": "3/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "University Old Boys",
@@ -96,8 +136,12 @@
     "venue": "Barratt Reserve 1",
     "date": "10/04/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "Man City",
@@ -105,8 +149,12 @@
     "venue": "Barratt Reserve 2",
     "date": "10/04/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "Cove Fusion",
@@ -114,8 +162,12 @@
     "venue": "Barratt Reserve 3",
     "date": "10/04/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "Sporting",
@@ -123,8 +175,12 @@
     "venue": "Barratt Reserve 4",
     "date": "10/04/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "St Peters",
@@ -132,8 +188,12 @@
     "venue": "Barratt Reserve 5",
     "date": "10/04/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "Pulteney",
@@ -141,8 +201,12 @@
     "venue": "Barratt Reserve 1",
     "date": "10/04/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "University Orange",
@@ -150,8 +214,12 @@
     "venue": "Barratt Reserve 2",
     "date": "10/04/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "Adelaide Spurs",
@@ -159,8 +227,12 @@
     "venue": "Barratt Reserve 3",
     "date": "10/04/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "Southern Sharks",
@@ -168,8 +240,12 @@
     "venue": "Barratt Reserve 4",
     "date": "10/04/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 2,
     "hometeam": "St Peters B",
@@ -177,8 +253,12 @@
     "venue": "Barratt Reserve 5",
     "date": "10/04/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "Sturt Marion Thunder",
@@ -186,8 +266,12 @@
     "venue": "Barratt Reserve 1",
     "date": "24/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "St Peters",
@@ -195,8 +279,12 @@
     "venue": "Barratt Reserve 2",
     "date": "24/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "Croatia",
@@ -204,8 +292,12 @@
     "venue": "Barratt Reserve 3",
     "date": "24/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "Southern Cross",
@@ -213,8 +305,12 @@
     "venue": "Barratt Reserve 4",
     "date": "24/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "Old Plymptonians",
@@ -222,8 +318,12 @@
     "venue": "Barratt Reserve 5",
     "date": "24/04/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "Sturt Marion Old Boys",
@@ -231,8 +331,12 @@
     "venue": "Barratt Reserve 1",
     "date": "24/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "St Peters B",
@@ -240,8 +344,12 @@
     "venue": "Barratt Reserve 2",
     "date": "24/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "Adelaide Spurs",
@@ -249,8 +357,12 @@
     "venue": "Barratt Reserve 3",
     "date": "24/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "Royal Ajvar",
@@ -258,8 +370,12 @@
     "venue": "Barratt Reserve 4",
     "date": "24/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 3,
     "hometeam": "Austria",
@@ -267,8 +383,12 @@
     "venue": "Barratt Reserve 5",
     "date": "24/04/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "Cove Fusion",
@@ -276,8 +396,12 @@
     "venue": "Barratt Reserve 1",
     "date": "01/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "Man City",
@@ -285,8 +409,12 @@
     "venue": "Barratt Reserve 2",
     "date": "01/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "University Old Boys",
@@ -294,8 +422,12 @@
     "venue": "Barratt Reserve 3",
     "date": "01/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "St Peters",
@@ -303,8 +435,12 @@
     "venue": "Barratt Reserve 4",
     "date": "01/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "Sporting",
@@ -312,8 +448,12 @@
     "venue": "Barratt Reserve 5",
     "date": "01/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "University Orange",
@@ -321,8 +461,12 @@
     "venue": "Barratt Reserve 1",
     "date": "01/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "Adelaide Spurs",
@@ -330,8 +474,12 @@
     "venue": "Barratt Reserve 2",
     "date": "01/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "Pulteney",
@@ -339,8 +487,12 @@
     "venue": "Barratt Reserve 3",
     "date": "01/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "St Peters B",
@@ -348,8 +500,12 @@
     "venue": "Barratt Reserve 4",
     "date": "01/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 4,
     "hometeam": "Southern Sharks",
@@ -357,8 +513,12 @@
     "venue": "Barratt Reserve 5",
     "date": "01/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "Croatia",
@@ -366,8 +526,12 @@
     "venue": "Barratt Reserve 1",
     "date": "15/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "Old Plymptonians",
@@ -375,8 +539,12 @@
     "venue": "Barratt Reserve 2",
     "date": "15/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "University Old Boys",
@@ -384,8 +552,12 @@
     "venue": "Barratt Reserve 3",
     "date": "15/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "St Peters",
@@ -393,8 +565,12 @@
     "venue": "Barratt Reserve 4",
     "date": "15/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "Southern Cross",
@@ -402,8 +578,12 @@
     "venue": "Barratt Reserve 5",
     "date": "15/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "BYE",
@@ -411,8 +591,12 @@
     "venue": "Barratt Reserve 1",
     "date": "15/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "Austria",
@@ -420,8 +604,12 @@
     "venue": "Barratt Reserve 2",
     "date": "15/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "Pulteney",
@@ -429,8 +617,12 @@
     "venue": "Barratt Reserve 3",
     "date": "15/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "St Peters B",
@@ -438,8 +630,12 @@
     "venue": "Barratt Reserve 4",
     "date": "15/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 5,
     "hometeam": "Royal Ajvar",
@@ -447,8 +643,12 @@
     "venue": "Barratt Reserve 5",
     "date": "15/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "Sporting",
@@ -456,8 +656,12 @@
     "venue": "Barratt Reserve 1",
     "date": "22/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "Man City",
@@ -465,8 +669,12 @@
     "venue": "Barratt Reserve 2",
     "date": "22/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "St Peters",
@@ -474,8 +682,12 @@
     "venue": "Barratt Reserve 3",
     "date": "22/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "Sturt Marion Thunder",
@@ -483,8 +695,12 @@
     "venue": "Barratt Reserve 4",
     "date": "22/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "West Beach",
@@ -492,8 +708,12 @@
     "venue": "Barratt Reserve 5",
     "date": "22/05/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "BYE",
@@ -501,8 +721,12 @@
     "venue": "Barratt Reserve 1",
     "date": "22/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "Adelaide Spurs",
@@ -510,8 +734,12 @@
     "venue": "Barratt Reserve 2",
     "date": "22/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "St Peters B",
@@ -519,8 +747,12 @@
     "venue": "Barratt Reserve 3",
     "date": "22/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "Sturt Marion Old Boys",
@@ -528,8 +760,12 @@
     "venue": "Barratt Reserve 4",
     "date": "22/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 6,
     "hometeam": "Southern Sharks",
@@ -537,8 +773,12 @@
     "venue": "Barratt Reserve 5",
     "date": "22/05/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "Old Plymptonians",
@@ -546,8 +786,12 @@
     "venue": "Barratt Reserve 1",
     "date": "29/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "Cove Fusion",
@@ -555,8 +799,12 @@
     "venue": "Barratt Reserve 2",
     "date": "29/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "Sturt Marion Thunder",
@@ -564,8 +812,12 @@
     "venue": "Barratt Reserve 3",
     "date": "29/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "West Beach",
@@ -573,8 +825,12 @@
     "venue": "Barratt Reserve 4",
     "date": "29/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "Croatia",
@@ -582,8 +838,12 @@
     "venue": "Barratt Reserve 5",
     "date": "29/05/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "Austria",
@@ -591,8 +851,12 @@
     "venue": "Barratt Reserve 1",
     "date": "29/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "University Orange",
@@ -600,8 +864,12 @@
     "venue": "Barratt Reserve 2",
     "date": "29/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "Sturt Marion Old Boys",
@@ -609,8 +877,12 @@
     "venue": "Barratt Reserve 3",
     "date": "29/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "West Beach Legends",
@@ -618,8 +890,12 @@
     "venue": "Barratt Reserve 4",
     "date": "29/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 7,
     "hometeam": "Royal Ajvar",
@@ -627,8 +903,12 @@
     "venue": "Barratt Reserve 5",
     "date": "29/05/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "St Peters",
@@ -636,8 +916,12 @@
     "venue": "Barratt Reserve 1",
     "date": "05/06/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "Sturt Marion Thunder",
@@ -645,8 +929,12 @@
     "venue": "Barratt Reserve 2",
     "date": "05/06/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "West Beach",
@@ -654,8 +942,12 @@
     "venue": "Barratt Reserve 3",
     "date": "05/06/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "Cove Fusion",
@@ -663,8 +955,12 @@
     "venue": "Barratt Reserve 4",
     "date": "05/06/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "Sporting",
@@ -672,8 +968,12 @@
     "venue": "Barratt Reserve 5",
     "date": "05/06/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "St Peters B",
@@ -681,8 +981,12 @@
     "venue": "Barratt Reserve 1",
     "date": "05/06/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "Sturt Marion Old Boys",
@@ -690,8 +994,12 @@
     "venue": "Barratt Reserve 2",
     "date": "05/06/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "West Beach Legends",
@@ -699,8 +1007,12 @@
     "venue": "Barratt Reserve 3",
     "date": "05/06/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "University Orange",
@@ -708,8 +1020,12 @@
     "venue": "Barratt Reserve 4",
     "date": "05/06/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 8,
     "hometeam": "Southern Sharks",
@@ -717,8 +1033,12 @@
     "venue": "Barratt Reserve 5",
     "date": "05/06/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "Man City",
@@ -726,8 +1046,12 @@
     "venue": "Barratt Reserve 1",
     "date": "19/06/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "Southern Cross",
@@ -735,8 +1059,12 @@
     "venue": "Barratt Reserve 2",
     "date": "19/06/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "West Beach",
@@ -744,8 +1072,12 @@
     "venue": "Barratt Reserve 3",
     "date": "19/06/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "Croatia",
@@ -753,8 +1085,12 @@
     "venue": "Barratt Reserve 4",
     "date": "19/06/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "University Old Boys",
@@ -762,8 +1098,12 @@
     "venue": "Barratt Reserve 5",
     "date": "19/06/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "Adelaide Spurs",
@@ -771,8 +1111,12 @@
     "venue": "Barratt Reserve 1",
     "date": "19/06/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "Royal Ajvar",
@@ -780,8 +1124,12 @@
     "venue": "Barratt Reserve 2",
     "date": "19/06/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "West Beach Legends",
@@ -789,8 +1137,12 @@
     "venue": "Barratt Reserve 3",
     "date": "19/06/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "Austria",
@@ -798,8 +1150,12 @@
     "venue": "Barratt Reserve 4",
     "date": "19/06/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 9,
     "hometeam": "Pulteney",
@@ -807,8 +1163,12 @@
     "venue": "Barratt Reserve 5",
     "date": "19/06/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "Man City",
@@ -816,8 +1176,12 @@
     "venue": "Barratt Reserve 1",
     "date": "03/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "St Peters",
@@ -825,8 +1189,12 @@
     "venue": "Barratt Reserve 2",
     "date": "03/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "Sporting",
@@ -834,8 +1202,12 @@
     "venue": "Barratt Reserve 3",
     "date": "03/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "Cove Fusion",
@@ -843,8 +1215,12 @@
     "venue": "Barratt Reserve 4",
     "date": "03/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "Southern Cross",
@@ -852,8 +1228,12 @@
     "venue": "Barratt Reserve 5",
     "date": "03/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "Adelaide Spurs",
@@ -861,8 +1241,12 @@
     "venue": "Barratt Reserve 1",
     "date": "03/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "St Peters B",
@@ -870,8 +1254,12 @@
     "venue": "Barratt Reserve 2",
     "date": "03/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "Southern Sharks",
@@ -879,8 +1267,12 @@
     "venue": "Barratt Reserve 3",
     "date": "03/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "University Orange",
@@ -888,8 +1280,12 @@
     "venue": "Barratt Reserve 4",
     "date": "03/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 10,
     "hometeam": "Royal Ajvar",
@@ -897,8 +1293,12 @@
     "venue": "Barratt Reserve 5",
     "date": "03/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "Sturt Marion Thunder",
@@ -906,8 +1306,12 @@
     "venue": "Barratt Reserve 1",
     "date": "10/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "Old Plymptonians",
@@ -915,8 +1319,12 @@
     "venue": "Barratt Reserve 2",
     "date": "10/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "Southern Cross",
@@ -924,8 +1332,12 @@
     "venue": "Barratt Reserve 3",
     "date": "10/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "Croatia",
@@ -933,8 +1345,12 @@
     "venue": "Barratt Reserve 4",
     "date": "10/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "West Beach",
@@ -942,8 +1358,12 @@
     "venue": "Barratt Reserve 5",
     "date": "10/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "Sturt Marion Old Boys",
@@ -951,8 +1371,12 @@
     "venue": "Barratt Reserve 1",
     "date": "10/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "Univerity Orange",
@@ -960,8 +1384,12 @@
     "venue": "Barratt Reserve 2",
     "date": "10/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "Royal Ajvar",
@@ -969,8 +1397,12 @@
     "venue": "Barratt Reserve 3",
     "date": "10/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "Austria",
@@ -978,8 +1410,12 @@
     "venue": "Barratt Reserve 4",
     "date": "10/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 11,
     "hometeam": "West Beach Legends",
@@ -987,8 +1423,12 @@
     "venue": "Barratt Reserve 5",
     "date": "10/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "Cove Fusion",
@@ -996,8 +1436,12 @@
     "venue": "Barratt Reserve 1",
     "date": "17/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "University Old Boys",
@@ -1005,8 +1449,12 @@
     "venue": "Barratt Reserve 2",
     "date": "17/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "West Beach",
@@ -1014,8 +1462,12 @@
     "venue": "Barratt Reserve 3",
     "date": "17/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "Sporting",
@@ -1023,8 +1475,12 @@
     "venue": "Barratt Reserve 4",
     "date": "17/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "Man City",
@@ -1032,8 +1488,12 @@
     "venue": "Barratt Reserve 5",
     "date": "17/07/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "University Orange",
@@ -1041,8 +1501,12 @@
     "venue": "Barratt Reserve 1",
     "date": "17/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "Adelaide Spurs",
@@ -1050,8 +1514,12 @@
     "venue": "Barratt Reserve 2",
     "date": "17/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "West Beach Legends",
@@ -1059,8 +1527,12 @@
     "venue": "Barratt Reserve 3",
     "date": "17/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "Southern Sharks",
@@ -1068,8 +1540,12 @@
     "venue": "Barratt Reserve 4",
     "date": "17/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 12,
     "hometeam": "Pulteney",
@@ -1077,8 +1553,12 @@
     "venue": "Barratt Reserve 5",
     "date": "17/07/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "Croatia",
@@ -1086,8 +1566,12 @@
     "venue": "Barratt Reserve 1",
     "date": "31/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "Southern Cross",
@@ -1095,8 +1579,12 @@
     "venue": "Barratt Reserve 2",
     "date": "31/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "Old Plymptonians",
@@ -1104,8 +1592,12 @@
     "venue": "Barratt Reserve 3",
     "date": "31/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "West Beach",
@@ -1113,8 +1605,12 @@
     "venue": "Barratt Reserve 4",
     "date": "31/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "Sturt Marion Thunder",
@@ -1122,8 +1618,12 @@
     "venue": "Barratt Reserve 5",
     "date": "31/07/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "Pulteney",
@@ -1131,8 +1631,12 @@
     "venue": "Barratt Reserve 1",
     "date": "31/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "Royal Ajvar",
@@ -1140,8 +1644,12 @@
     "venue": "Barratt Reserve 2",
     "date": "31/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "Austria",
@@ -1149,8 +1657,12 @@
     "venue": "Barratt Reserve 3",
     "date": "31/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "West Beach Legends",
@@ -1158,8 +1670,12 @@
     "venue": "Barratt Reserve 4",
     "date": "31/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 13,
     "hometeam": "Sturt Marion Old Boys",
@@ -1167,8 +1683,12 @@
     "venue": "Barratt Reserve 5",
     "date": "31/07/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "Man City",
@@ -1176,8 +1696,12 @@
     "venue": "Barratt Reserve 1",
     "date": "07/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "Cove Fusion",
@@ -1185,8 +1709,12 @@
     "venue": "Barratt Reserve 2",
     "date": "07/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "Sturt Marion Thunder",
@@ -1194,8 +1722,12 @@
     "venue": "Barratt Reserve 3",
     "date": "07/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "Sporting",
@@ -1203,8 +1735,12 @@
     "venue": "Barratt Reserve 4",
     "date": "07/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "West Beach",
@@ -1212,8 +1748,12 @@
     "venue": "Barratt Reserve 5",
     "date": "07/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "Adelaide Spurs",
@@ -1221,8 +1761,12 @@
     "venue": "Barratt Reserve 1",
     "date": "07/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "University Orange",
@@ -1230,8 +1774,12 @@
     "venue": "Barratt Reserve 2",
     "date": "07/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "Sturt Marion Old Boys",
@@ -1239,8 +1787,12 @@
     "venue": "Barratt Reserve 3",
     "date": "07/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "Southern Sharks",
@@ -1248,8 +1800,12 @@
     "venue": "Barratt Reserve 4",
     "date": "07/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 14,
     "hometeam": "West Beach Legends",
@@ -1257,8 +1813,12 @@
     "venue": "Barratt Reserve 5",
     "date": "07/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "Croatia",
@@ -1266,8 +1826,12 @@
     "venue": "Barratt Reserve 1",
     "date": "14/08/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "Southern Cross",
@@ -1275,8 +1839,12 @@
     "venue": "Barratt Reserve 2",
     "date": "14/08/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "Cove Fusion",
@@ -1284,8 +1852,12 @@
     "venue": "Barratt Reserve 3",
     "date": "14/08/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "Old Plymptonians",
@@ -1293,8 +1865,12 @@
     "venue": "Barratt Reserve 4",
     "date": "14/08/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "University Old Boys",
@@ -1302,8 +1878,12 @@
     "venue": "Barratt Reserve 5",
     "date": "14/08/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "University Orange",
@@ -1311,8 +1891,12 @@
     "venue": "Barratt Reserve 1",
     "date": "14/08/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "Royal Ajvar",
@@ -1320,8 +1904,12 @@
     "venue": "Barratt Reserve 2",
     "date": "14/08/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "West Beach Legends",
@@ -1329,8 +1917,12 @@
     "venue": "Barratt Reserve 3",
     "date": "14/08/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "Austria",
@@ -1338,8 +1930,12 @@
     "venue": "Barratt Reserve 4",
     "date": "14/08/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 15,
     "hometeam": "Pulteney",
@@ -1347,8 +1943,12 @@
     "venue": "Barratt Reserve 5",
     "date": "14/08/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "St Peters",
@@ -1356,8 +1956,12 @@
     "venue": "Barratt Reserve 1",
     "date": "28/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "University Old Boys",
@@ -1365,8 +1969,12 @@
     "venue": "Barratt Reserve 2",
     "date": "28/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "Man City",
@@ -1374,8 +1982,12 @@
     "venue": "Barratt Reserve 3",
     "date": "28/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "Southern Cross",
@@ -1383,8 +1995,12 @@
     "venue": "Barratt Reserve 4",
     "date": "28/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "Sporting",
@@ -1392,8 +2008,12 @@
     "venue": "Barratt Reserve 5",
     "date": "28/08/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "St Peters B",
@@ -1401,8 +2021,12 @@
     "venue": "Barratt Reserve 1",
     "date": "28/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "Pulteney",
@@ -1410,8 +2034,12 @@
     "venue": "Barratt Reserve 2",
     "date": "28/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "Adelaide Spurs",
@@ -1419,8 +2047,12 @@
     "venue": "Barratt Reserve 3",
     "date": "28/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "Royal Ajvar",
@@ -1428,8 +2060,12 @@
     "venue": "Barratt Reserve 4",
     "date": "28/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 16,
     "hometeam": "Southern Sharks",
@@ -1437,8 +2073,12 @@
     "venue": "Barratt Reserve 5",
     "date": "28/08/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "Croatia",
@@ -1446,8 +2086,12 @@
     "venue": "Barratt Reserve 1",
     "date": "04/09/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "Man City",
@@ -1455,8 +2099,12 @@
     "venue": "Barratt Reserve 2",
     "date": "04/09/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "Old Plymptonians",
@@ -1464,8 +2112,12 @@
     "venue": "Barratt Reserve 3",
     "date": "04/09/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "University Old Boys",
@@ -1473,8 +2125,12 @@
     "venue": "Barratt Reserve 4",
     "date": "04/09/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "Southern Cross",
@@ -1482,8 +2138,12 @@
     "venue": "Barratt Reserve 5",
     "date": "04/09/22",
     "time": "9:30",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "St Peters B",
@@ -1491,8 +2151,12 @@
     "venue": "Barratt Reserve 1",
     "date": "04/09/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "Adelaide Spurs",
@@ -1500,8 +2164,12 @@
     "venue": "Barratt Reserve 2",
     "date": "04/09/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "Austria",
@@ -1509,8 +2177,12 @@
     "venue": "Barratt Reserve 3",
     "date": "04/09/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "Pulteney",
@@ -1518,8 +2190,12 @@
     "venue": "Barratt Reserve 4",
     "date": "04/09/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 17,
     "hometeam": "Royal Ajvar",
@@ -1527,8 +2203,12 @@
     "venue": "Barratt Reserve 5",
     "date": "04/09/22",
     "time": "11:15",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "Old Plymptonians",
@@ -1536,8 +2216,12 @@
     "venue": "Barratt Reserve 1",
     "date": "18/09/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "Sturt Marion Thunder",
@@ -1545,8 +2229,12 @@
     "venue": "Barratt Reserve 2",
     "date": "18/09/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "Sporting",
@@ -1554,8 +2242,12 @@
     "venue": "Barratt Reserve 3",
     "date": "18/09/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "Cove Fusion",
@@ -1563,8 +2255,12 @@
     "venue": "Barratt Reserve 4",
     "date": "18/09/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "St Peters",
@@ -1572,8 +2268,12 @@
     "venue": "Barratt Reserve 5",
     "date": "18/09/22",
     "time": "11:15",
-    "division": 1
-  },
+    "division": 1,
+    "competition": "Division 1",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "St Peters B",
@@ -1581,8 +2281,12 @@
     "venue": "Barratt Reserve 1",
     "date": "18/09/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "Sturt Marion Old Boys",
@@ -1590,8 +2294,12 @@
     "venue": "Barratt Reserve 2",
     "date": "18/09/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "Southern Sharks",
@@ -1599,8 +2307,12 @@
     "venue": "Barratt Reserve 3",
     "date": "18/09/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "University Orange",
@@ -1608,8 +2320,12 @@
     "venue": "Barratt Reserve 4",
     "date": "18/09/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": 18,
     "hometeam": "Austria",
@@ -1617,15 +2333,19 @@
     "venue": "Barratt Reserve 5",
     "date": "18/09/22",
     "time": "9:30",
-    "division": 2
-  },
+    "division": 2,
+    "competition": "Division 2",
+    "homeScore": 0,
+    "awayGoals": 0,
+    "Complete": false
+},
   {
     "round": "CUP-1",
     "hometeam": "West Beach",
     "awayteam": "West Beach Legends",
     "venue": "Lockleys Oval",
     "date": "24/06/22",
-    "time": "19:00",
+    "time": "19:30",
     "division": "CUP"
   },
   {
@@ -1668,9 +2388,9 @@
     "round": "CUP-1",
     "hometeam": "Austria",
     "awayteam": "Royal Ajvar",
-    "venue": "Barratt Reserve 5",
+    "venue": "Barratt Reserve 4",
     "date": "26/06/22",
-    "time": "9:30",
+    "time": "11:30",
     "division": "CUP"
   },
   {
@@ -1701,7 +2421,7 @@
     "division": "CUP"
   },
   {
-    "round": "CUP-1",
+    "round": "CUP-1A",
     "hometeam": "Sporting",
     "awayteam": "Southern Sharks",
     "venue": "Barratt Reserve 1",
@@ -1710,7 +2430,7 @@
     "division": "CUP"
   },
   {
-    "round": "CUP-1",
+    "round": "CUP-1B",
     "hometeam": "Sporting",
     "awayteam": "Croatia",
     "venue": "Barratt Reserve 1",
@@ -1719,7 +2439,7 @@
     "division": "CUP"
   },
   {
-    "round": "CUP-1",
+    "round": "CUP-1A",
     "hometeam": "Pulteney",
     "awayteam": "Southern Sharks",
     "venue": "Barratt Reserve 1",
@@ -1728,7 +2448,7 @@
     "division": "CUP"
   },
   {
-    "round": "CUP-1",
+    "round": "CUP-1B",
     "hometeam": "Pulteney",
     "awayteam": "Croatia",
     "venue": "Barratt Reserve 1",
