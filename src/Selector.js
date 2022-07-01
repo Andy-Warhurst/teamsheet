@@ -5,9 +5,6 @@ import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import FormControl from "react-bootstrap/FormControl";
-import Table from 'react-bootstrap/Table';
-
-import InputGroup from "react-bootstrap/InputGroup";
 
 const Rounds = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,"CUP-Q","CUP-1","CUP-1A","CUP-1B","CUP-QF"];
 
