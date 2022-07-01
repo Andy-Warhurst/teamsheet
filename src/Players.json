@@ -1,5 +1,32 @@
 [
   {
+    "id":82024415,
+    "dateofbirth":"18\/07\/1985",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Sturt Marion Thunder",
+    "name":"Billy Bannard",
+    "shirtno":""
+  },
+  {
+    "id":11280198,
+    "dateofbirth":"27\/07\/1982",
+    "type":"Shared",
+    "status":"Active",
+    "team":"St Peters",
+    "name":"Nicolas Arriola",
+    "shirtno":""
+  },
+  {
+    "id":10104552,
+    "dateofbirth":"28\/06\/1986",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Old Plymptonians",
+    "name":"Paddy Mccarron",
+    "shirtno":""
+  },
+  {
     "id":72013139,
     "dateofbirth":"21\/02\/1979",
     "type":"Full",
@@ -348,15 +375,6 @@
     "status":"Active",
     "team":"Croatia",
     "name":"Marinko Soldic",
-    "shirtno":""
-  },
-  {
-    "id":11488005,
-    "dateofbirth":"09\/04\/1985",
-    "type":"Full",
-    "status":"Active",
-    "team":"St Peters B",
-    "name":"Carlos Rodriguez",
     "shirtno":""
   },
   {

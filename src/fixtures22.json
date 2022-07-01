@@ -2455,5 +2455,41 @@
     "date": "26/06/22",
     "time": "10:30",
     "division": "CUP"
+  },
+  {
+    "round": "CUP-QF",
+    "hometeam": "Sporting",
+    "awayteam": "Sturt Marion Old Boys",
+    "venue": "Barratt Reserve 1",
+    "date": "24/07/22",
+    "time": "11:15",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-QF",
+    "hometeam": "St Peters",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 2",
+    "date": "24/07/22",
+    "time": "11:15",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-QF",
+    "hometeam": "Cove Fusion",
+    "awayteam": "Sturt Marion Thunder",
+    "venue": "Barratt Reserve 3",
+    "date": "24/07/22",
+    "time": "11:15",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-QF",
+    "hometeam": "Man City",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 4",
+    "date": "24/07/22",
+    "time": "11:15",
+    "division": "CUP"
   }
 ]

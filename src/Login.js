@@ -14,19 +14,15 @@ import Jumbotron from "react-bootstrap/Jumbotron";
 
 const Login= (props) => {
 
-  const [theTeamId, setTeamId] = useState(1);
+    const [theTeamId, setTeamId] = useState(1);
 
-const handleSubmit = (event) => {
 
-  // const theTeam = target.value;
-
-  const goto = '/team/'+ theTeamId;
-
-  console.log('Redirect to',goto);
-
-  navigate (goto);
-
-};
+    const handleSubmit =  (event) => {
+        // const theTeam = target.value;
+        const goto = '/team/' + theTeamId;
+        console.log('Redirect to', goto);
+        navigate (goto);
+    };
 
   return (
       <div>
@@ -52,14 +48,14 @@ const handleSubmit = (event) => {
                       </Col>
                   </Form.Group>
 
-                  <Form.Group as={Row} controlId="formHorizontalPassword">
-                      <Form.Label column sm={2}>
-                          Password
-                      </Form.Label>
-                      <Col sm={3}>
-                          <Form.Control type="password" placeholder="Password" />
-                      </Col>
-                  </Form.Group>
+                  {/*<Form.Group as={Row} controlId="formHorizontalPassword">*/}
+                  {/*    <Form.Label column sm={2}>*/}
+                  {/*        Password*/}
+                  {/*    </Form.Label>*/}
+                  {/*    <Col sm={3}>*/}
+                  {/*        <Form.Control type="password" placeholder="Password" />*/}
+                  {/*    </Col>*/}
+                  {/*</Form.Group>*/}
 
                   <Form.Group as={Row}>
                       <Col sm={{ span: 10, offset: 2 }}>
@@ -69,8 +65,18 @@ const handleSubmit = (event) => {
                       </Col>
                   </Form.Group>
               </Form>
-              <p><i>Version 1.3.3 (22/06/22)</i></p>
+              <p><i>Version 1.3.4 (24/06/22)</i></p>
           </Jumbotron>
+
+              {/*<button id="fetch-btn">Fetch</button>*/}
+              <p id="buttonresponse">Response Placeholder</p>
+              {/*<button onClick="getElementById('response-output').innerHTML = Date()">What is the time?</button>*/}
+          <button
+              id="my-button"
+              onClick={() => { this.getElementById("my-button").inlineHTML = "blue";}}>
+              Button
+          </button>
+
       </div>
   );
 };
