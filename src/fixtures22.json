@@ -2491,5 +2491,23 @@
     "date": "24/07/22",
     "time": "11:15",
     "division": "CUP"
+  },
+  {
+    "round": "CUP-SF",
+    "hometeam": "Royal Ajvar",
+    "awayteam": "Sturt Marion Old Boys",
+    "venue": "Barratt Reserve 1",
+    "date": "21/08/22",
+    "time": "11:15",
+    "division": "CUP"
+  },
+  {
+    "round": "CUP-SF",
+    "hometeam": "Sturt Marion Thunder",
+    "awayteam": "West Beach",
+    "venue": "Barratt Reserve 2",
+    "date": "21/08/22",
+    "time": "11:15",
+    "division": "CUP"
   }
 ]
