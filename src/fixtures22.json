@@ -2509,5 +2509,14 @@
     "date": "21/08/22",
     "time": "11:15",
     "division": "CUP"
+  },
+  {
+    "round": "CUP-FINAL",
+    "hometeam": "Sturt Marion Thunder",
+    "awayteam": "Royal Ajvar",
+    "venue": "Barratt Reserve 4",
+    "date": "11/09/22",
+    "time": "11:15",
+    "division": "CUP"
   }
 ]
