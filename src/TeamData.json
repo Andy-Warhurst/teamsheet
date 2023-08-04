@@ -2,18 +2,18 @@
 {
     "id": 1,
     "name": "Adelaide Spurs",
-    "division": 2,
+    "division": 3,
     "delegate": "Gary Pike"
 },{
     "id": 2,
     "name": "Austria",
-    "division": 2,
-    "delegate": "Gordon"
+    "division": 3,
+    "delegate": "Gordon Hazard"
 },{
     "id": 3,
-    "name": "Cove Fusion",
+    "name": "Cove FC",
     "division": 1,
-    "delegate": "Tony Hall"
+    "delegate": "Phil"
 },{
     "id": 4,
     "name": "Croatia",
@@ -22,11 +22,11 @@
 },{
     "id": 5,
     "name": "Man City",
-    "division": 1,
+    "division": 2,
     "delegate": "Jon Parkin"
 },{
     "id": 6,
-    "name": "Old Plymptonians",
+    "name": "Plympton FC",
     "division": 1,
     "delegate": "Steve Hammond"
 },{
@@ -47,7 +47,7 @@
 },{
     "id": 10,
     "name": "St Peters B",
-    "division": 2,
+    "division": 3,
     "delegate": "Jon Betts"
 },{
     "id": 11,
@@ -72,12 +72,12 @@
 },{
     "id": 15,
     "name": "Sturt Marion Old Boys",
-    "division": 2,
+    "division": 3,
     "delegate": "Chris Nugent"
 },{
     "id": 16,
     "name": "University Old Boys",
-    "division": 1,
+    "division": 2,
     "delegate": "Luke Gardner"
 },{
     "id": 17,
@@ -91,9 +91,14 @@
     "delegate": "Bill Houston"
 },{
     "id": 19,
-    "name": "West Beach Legends",
-    "division": 2,
+    "name": "West Beach OB",
+    "division": 3,
     "delegate": "Bill Houston"
+},{
+    "id": 20,
+    "name": "Old Plymptonians",
+    "division": 3,
+    "delegate": "Steve Hammond"
 }
 ]
 

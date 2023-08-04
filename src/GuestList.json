@@ -1,50 +1,8 @@
 [
-  {
-    "id": "Guest",
-    "team":"St Peters B",
-    "name":"Nico Arriola",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"St Peters B",
-    "name":"Carmelo Gutateca",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"St Peters B",
-    "name":"Carlos Knebel",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"St Peters B",
-    "name":"Luke Rowley",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"St Peters B",
-    "name":"Mario Cortes",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"St Peters B",
-    "name":"Jonathan Betts",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"St Peters B",
-    "name":"Oscar",
-    "shirtno":""
-  },
-  {
-    "id": "Guest",
-    "team":"St Peters B",
-    "name":"Dave",
-    "shirtno":""
-  }
+//  {
+//    "id": "Guest",
+//    "team":"St Peters B",
+//    "name":"Dave",
+//    "shirtno":""
+//  }
 ]

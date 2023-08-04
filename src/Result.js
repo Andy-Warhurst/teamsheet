@@ -1,5 +1,5 @@
 import React from "react";
-import FIXTURES from "./fixtures22.json";
+import FIXTURES from "./fixtures23.json";
 
 const Result = (props) => {
   var matchingFixtures = FIXTURES.filter(selectFixture);
