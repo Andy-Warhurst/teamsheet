@@ -2,16 +2,16 @@
 {
     "id": 1,
     "name": "Adelaide Spurs",
-    "division": 3,
+    "division": 2,
     "delegate": "Gary Pike"
 },{
     "id": 2,
     "name": "Austria",
-    "division": 3,
+    "division": 2,
     "delegate": "Gordon Hazard"
 },{
     "id": 3,
-    "name": "Cove FC",
+    "name": "Cove Masters",
     "division": 1,
     "delegate": "Phil"
 },{
@@ -21,7 +21,7 @@
     "delegate": "Drago"
 },{
     "id": 5,
-    "name": "Man City",
+    "name": "Mercedes",
     "division": 2,
     "delegate": "Jon Parkin"
 },{
@@ -32,12 +32,12 @@
 },{
     "id": 7,
     "name": "Pulteney",
-    "division": 2,
+    "division": 1,
     "delegate": "Frank"
 },{
     "id": 8,
     "name": "Royal Ajvar",
-    "division": 2,
+    "division": 1,
     "delegate": "Branko Rippa"
 },{
     "id": 9,
@@ -46,9 +46,9 @@
     "delegate": "Jonnathan Betts"
 },{
     "id": 10,
-    "name": "St Peters B",
-    "division": 3,
-    "delegate": "Jon Betts"
+    "name": "Pulteney Crabs",
+    "division": 2,
+    "delegate": "Frank"
 },{
     "id": 11,
     "name": "Sporting",
@@ -57,8 +57,8 @@
 },{
     "id": 12,
     "name": "Southern Cross",
-    "division": 1,
-    "delegate": "Alan Campbell"
+    "division": 2,
+    "delegate": "Chris"
 },{
     "id": 13,
     "name": "Southern Sharks",
@@ -66,18 +66,18 @@
     "delegate": "Ray Hayes"
 },{
     "id": 14,
-    "name": "Sturt Marion Thunder",
+    "name": "Sturt Fusion",
     "division": 1,
     "delegate": "Ciaran Cullen"
 },{
     "id": 15,
     "name": "Sturt Marion Old Boys",
-    "division": 3,
+    "division": 2,
     "delegate": "Chris Nugent"
 },{
     "id": 16,
     "name": "University Old Boys",
-    "division": 2,
+    "division": 1,
     "delegate": "Luke Gardner"
 },{
     "id": 17,
@@ -87,17 +87,12 @@
 },{
     "id": 18,
     "name": "West Beach",
-    "division": 1,
+    "division": 2,
     "delegate": "Bill Houston"
 },{
     "id": 19,
-    "name": "West Beach OB",
-    "division": 3,
-    "delegate": "Bill Houston"
-},{
-    "id": 20,
     "name": "Old Plymptonians",
-    "division": 3,
+    "division": 2,
     "delegate": "Steve Hammond"
 }
 ]
