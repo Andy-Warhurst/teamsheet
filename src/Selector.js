@@ -6,7 +6,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import FormControl from "react-bootstrap/FormControl";
 
-const Rounds = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,21,16,17,18,19,20];
+const Rounds = [1,2,3];
 
 const Selector = ({round, team, guests, selected, dispatch}) => {
 

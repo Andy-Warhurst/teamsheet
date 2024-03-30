@@ -18,7 +18,7 @@ const FixtureDetails = (props) => {
         <tbody>
           <tr>
             <th width="590" height="40">
-              {theFixture.hometeam} v {theFixture.awayteam} (Division{" "}
+              {theFixture.hometeam} v {theFixture.awayteam} (Group{" "}
               {theFixture.division})
             </th>
             {/* 
