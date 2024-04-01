@@ -1,5 +1,5 @@
 import React from "react";
-import FIXTURES from "./fixtures23.json";
+import FIXTURES from "./fixtures24.json";
 
 const FixtureDetails = (props) => {
   var matchingFixtures = FIXTURES.filter(selectFixture);
@@ -18,7 +18,7 @@ const FixtureDetails = (props) => {
         <tbody>
           <tr>
             <th width="590" height="40">
-              {theFixture.hometeam} v {theFixture.awayteam} (Group{" "}
+              {theFixture.hometeam} v {theFixture.awayteam} (Division{" "}
               {theFixture.division})
             </th>
             {/* 
