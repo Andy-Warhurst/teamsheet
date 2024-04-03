@@ -15,8 +15,10 @@ df["name"] = df["name"].str.title()
 df["shirtno"] = ''
 del df['Firstname']
 del df['Lastname']
-df = df.replace({'Pulteney Old Scholars Masters': 'Pulteney',
- 'Man City Over 35s': 'Man City',
+df = df.replace({'Pulteney Old Scholars': 'Pulteney',
+ 'Plymptonians Old Boys': 'Old Plymptonians',
+ 'Mercedes Old Boys':'Mercedes',
+ 'Cove Masters FC': 'Cove Masters',
  'Cove Fusion': 'Cove FC',
  'Southern Cross Masters': 'Southern Cross',
  'Southern Sharks Masters':'Southern Sharks',
@@ -27,12 +29,9 @@ df = df.replace({'Pulteney Old Scholars Masters': 'Pulteney',
  'Royal Ajvar Sports & Social Club': 'Royal Ajvar',
  'Austria Masters': 'Austria',
  'Adelaide Spurs Masters': 'Adelaide Spurs',
- #'St Peter\'s A (Div1) FULL Registration': 'St Peters',
- #'St Peter\'s B (Div1) FULL Registration': 'St Peters B',
- #'St Peter\'s Old Collegians (Masters)': 'St Peters',
+ 'St Peters Old Collegians':'St Peters',
  'University Old Boys Masters': 'University Old Boys',
- 'West Beach Football Club': 'West Beach',
- 'West Beach Legends Masters': 'West Beach OB'})
+ 'West Beach Legends': 'West Beach'})
 
 df = df.replace({'Product Name': r'.*FULL.*'},{'Product Name': 'Full'}, regex=True)
 df = df.replace({'Product Name': r'.*Adelaide Spurs Player Registration.*'},{'Product Name': 'Full'}, regex=True)

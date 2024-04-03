@@ -28,23 +28,22 @@ const Officials = () => {
       <table>
         <tbody>
           <tr>
-            <td valign="top">
+            <td valign="top" width={"60%"}>
               <h5>Teams</h5>
               <p>
-                Check all information on this team sheet is correct. By signing
-                above you agree it is correct.
+                Check all information on this team sheet is correct.
               </p>
               <p>
-                Send results to results@samsl.org.au or SMS to 0422 901018
-                within 24 hours of the completion of the game.
+                Sign above if you agree it is correct.
+              </p>
+              <p>
+                SMS results to 0423 380 333 by 5pm.
               </p>
             </td>
             <td valign="top">
               <h5>Referees</h5>
               <p>
-                It is your responsibility to post this team sheet to{" "}
-                <b>SAMSL, PO Box 222, Fulham Gardens, SA 5024</b>, within 48
-                hours of the completion of the game.
+                Return this teamsheet to the team after the game{" "}<b>OR</b> {" "}hand it to Razor, Dave Sedgwick or Andy Whitfield.
               </p>
             </td>
           </tr>
