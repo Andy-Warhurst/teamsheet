@@ -1,5 +1,311 @@
 [
   {
+    "id":75637199,
+    "dateofbirth":"10\/08\/1967",
+    "type":"Sporting",
+    "status":"Active",
+    "team":"Sporting",
+    "name":"Patrick Miller",
+    "shirtno":""
+  },
+  {
+    "id":10612848,
+    "dateofbirth":"03\/12\/1965",
+    "type":"Royal Ajvar",
+    "status":"Active",
+    "team":"Royal Ajvar",
+    "name":"Emir Sudic",
+    "shirtno":""
+  },
+  {
+    "id":55977201,
+    "dateofbirth":"04\/11\/1983",
+    "type":"Royal Ajvar",
+    "status":"Active",
+    "team":"Royal Ajvar",
+    "name":"Josip Grgic",
+    "shirtno":""
+  },
+  {
+    "id":10103274,
+    "dateofbirth":"14\/05\/1966",
+    "type":"Royal Ajvar",
+    "status":"Active",
+    "team":"Royal Ajvar",
+    "name":"Siamak Fallah",
+    "shirtno":""
+  },
+  {
+    "id":12086903,
+    "dateofbirth":"06\/10\/1986",
+    "type":"Southern Sharks",
+    "status":"Active",
+    "team":"Southern Sharks",
+    "name":"Mervyn Scott-Horscroft",
+    "shirtno":""
+  },
+  {
+    "id":12086903,
+    "dateofbirth":"06\/10\/1986",
+    "type":"Southern Sharks",
+    "status":"ITC",
+    "team":"Southern Sharks",
+    "name":"Mervyn Scott-Horscroft",
+    "shirtno":""
+  },
+  {
+    "id":82355579,
+    "dateofbirth":"02\/05\/1985",
+    "type":"Mercedes",
+    "status":"Active",
+    "team":"Mercedes",
+    "name":"Robert Cardone",
+    "shirtno":""
+  },
+  {
+    "id":11284552,
+    "dateofbirth":"20\/09\/1986",
+    "type":"Sporting",
+    "status":"Active",
+    "team":"Sporting",
+    "name":"Adam Djekic",
+    "shirtno":""
+  },
+  {
+    "id":80857352,
+    "dateofbirth":"28\/09\/1977",
+    "type":"University Old Boys",
+    "status":"Active",
+    "team":"University Old Boys",
+    "name":"Christian Burvill-Holmes",
+    "shirtno":""
+  },
+  {
+    "id":73786220,
+    "dateofbirth":"15\/06\/1978",
+    "type":"Croatia",
+    "status":"Active",
+    "team":"Croatia",
+    "name":"Ante Juricin",
+    "shirtno":""
+  },
+  {
+    "id":10099105,
+    "dateofbirth":"14\/02\/1957",
+    "type":"University Orange",
+    "status":"Active",
+    "team":"University Orange",
+    "name":"Alan Dickson",
+    "shirtno":""
+  },
+  {
+    "id":60366655,
+    "dateofbirth":"03\/10\/1976",
+    "type":"Southern Sharks",
+    "status":"Active",
+    "team":"Southern Sharks",
+    "name":"Wiktor Mertyn",
+    "shirtno":""
+  },
+  {
+    "id":11705143,
+    "dateofbirth":"30\/03\/1977",
+    "type":"University Old Boys",
+    "status":"Active",
+    "team":"University Old Boys",
+    "name":"Christian Uribe Mathews",
+    "shirtno":""
+  },
+  {
+    "id":10703169,
+    "dateofbirth":"13\/09\/1971",
+    "type":"Adelaide Spurs",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Michael Costa",
+    "shirtno":""
+  },
+  {
+    "id":11222767,
+    "dateofbirth":"07\/08\/1979",
+    "type":"Old Plymptonians",
+    "status":"Active",
+    "team":"Old Plymptonians",
+    "name":"Lewis Ashton",
+    "shirtno":""
+  },
+  {
+    "id":10103360,
+    "dateofbirth":"14\/09\/1973",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Pulteney Crabs",
+    "name":"Man Chio Cheang",
+    "shirtno":""
+  },
+  {
+    "id":82410242,
+    "dateofbirth":"24\/12\/1966",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Southern Sharks",
+    "name":"David O'Ryan",
+    "shirtno":""
+  },
+  {
+    "id":10726735,
+    "dateofbirth":"16\/04\/1974",
+    "type":"Royal Ajvar",
+    "status":"Active",
+    "team":"Royal Ajvar",
+    "name":"Frank Passalacqua",
+    "shirtno":""
+  },
+  {
+    "id":76850908,
+    "dateofbirth":"13\/05\/1978",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Southern Cross",
+    "name":"Bruce Tonkin",
+    "shirtno":""
+  },
+  {
+    "id":10560449,
+    "dateofbirth":"29\/10\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Gregorio Stansfield",
+    "shirtno":""
+  },
+  {
+    "id":10996694,
+    "dateofbirth":"23\/11\/1988",
+    "type":"West Beach",
+    "status":"Active",
+    "team":"West Beach",
+    "name":"Paul Rossall",
+    "shirtno":""
+  },
+  {
+    "id":11271322,
+    "dateofbirth":"26\/07\/1982",
+    "type":"University Orange",
+    "status":"Active",
+    "team":"University Orange",
+    "name":"Elliot St Claire",
+    "shirtno":""
+  },
+  {
+    "id":12108807,
+    "dateofbirth":"15\/03\/1979",
+    "type":"Mercedes",
+    "status":"Active",
+    "team":"Mercedes",
+    "name":"Nial O'Connor",
+    "shirtno":""
+  },
+  {
+    "id":10099929,
+    "dateofbirth":"18\/03\/1986",
+    "type":"University Orange",
+    "status":"Active",
+    "team":"University Orange",
+    "name":"Pascal Sherpa",
+    "shirtno":""
+  },
+  {
+    "id":11513156,
+    "dateofbirth":"05\/07\/1977",
+    "type":"Old Plymptonians",
+    "status":"Active",
+    "team":"Old Plymptonians",
+    "name":"Carlos De Azambuja",
+    "shirtno":""
+  },
+  {
+    "id":10936001,
+    "dateofbirth":"19\/09\/1970",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Southern Sharks",
+    "name":"James O\u2019Hara",
+    "shirtno":""
+  },
+  {
+    "id":10619883,
+    "dateofbirth":"02\/06\/1972",
+    "type":"Croatia",
+    "status":"Active",
+    "team":"Croatia",
+    "name":"Steve Dominic",
+    "shirtno":""
+  },
+  {
+    "id":11195102,
+    "dateofbirth":"01\/11\/1976",
+    "type":"Sturt Fusion",
+    "status":"Active",
+    "team":"Sturt Fusion",
+    "name":"Alec Rolston",
+    "shirtno":""
+  },
+  {
+    "id":10097880,
+    "dateofbirth":"24\/11\/1973",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Mark Sayers",
+    "shirtno":""
+  },
+  {
+    "id":11175821,
+    "dateofbirth":"06\/04\/1987",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Royal Ajvar",
+    "name":"Mladen Markovic",
+    "shirtno":""
+  },
+  {
+    "id":11473417,
+    "dateofbirth":"05\/12\/1984",
+    "type":"Mercedes",
+    "status":"Active",
+    "team":"Mercedes",
+    "name":"Shaun Leathley",
+    "shirtno":""
+  },
+  {
+    "id":10660600,
+    "dateofbirth":"12\/09\/1978",
+    "type":"Shared",
+    "status":"Active",
+    "team":"St Peters OC Already CSL or SAASL Registered",
+    "name":"Carl Holder",
+    "shirtno":""
+  },
+  {
+    "id":10958151,
+    "dateofbirth":"05\/12\/1973",
+    "type":"Croatia",
+    "status":"Active",
+    "team":"Croatia",
+    "name":"Ante Bacic",
+    "shirtno":""
+  },
+  {
+    "id":10952579,
+    "dateofbirth":"08\/10\/1982",
+    "type":"Royal Ajvar",
+    "status":"Active",
+    "team":"Royal Ajvar",
+    "name":"Adnan Kaljic",
+    "shirtno":""
+  },
+  {
     "id":11450229,
     "dateofbirth":"07\/01\/1983",
     "type":"St Peters",
@@ -24,6 +330,15 @@
     "status":"Active",
     "team":"Pulteney Crabs",
     "name":"Rob Dello",
+    "shirtno":""
+  },
+  {
+    "id":10086727,
+    "dateofbirth":"06\/05\/1986",
+    "type":"Royal Ajvar",
+    "status":"Approval required",
+    "team":"Royal Ajvar",
+    "name":"Michael Giorgines",
     "shirtno":""
   },
   {
@@ -78,6 +393,15 @@
     "status":"Active",
     "team":"Sporting",
     "name":"Andrew Woollett",
+    "shirtno":""
+  },
+  {
+    "id":10560449,
+    "dateofbirth":"29\/10\/1981",
+    "type":"Adelaide Spurs",
+    "status":"Refund",
+    "team":"Adelaide Spurs",
+    "name":"Gregorio Stansfield",
     "shirtno":""
   },
   {
@@ -288,6 +612,15 @@
     "shirtno":""
   },
   {
+    "id":60279999,
+    "dateofbirth":"14\/11\/1982",
+    "type":"Royal Ajvar",
+    "status":"Approval required",
+    "team":"Royal Ajvar",
+    "name":"Toby Nelson",
+    "shirtno":""
+  },
+  {
     "id":11517475,
     "dateofbirth":"05\/11\/1986",
     "type":"Plympton FC",
@@ -321,6 +654,15 @@
     "status":"Active",
     "team":"University Old Boys",
     "name":"Benjamin Proctor",
+    "shirtno":""
+  },
+  {
+    "id":65174054,
+    "dateofbirth":"21\/01\/1967",
+    "type":"Pulteney",
+    "status":"No Refund",
+    "team":"Pulteney",
+    "name":"Alan Bradshaw",
     "shirtno":""
   },
   {
@@ -648,6 +990,15 @@
     "shirtno":""
   },
   {
+    "id":11774810,
+    "dateofbirth":"15\/09\/1987",
+    "type":"Old Plymptonians",
+    "status":"Refund",
+    "team":"Old Plymptonians",
+    "name":"Nathan Uhe",
+    "shirtno":""
+  },
+  {
     "id":11031002,
     "dateofbirth":"30\/06\/1972",
     "type":"Sporting",
@@ -832,6 +1183,15 @@
     "dateofbirth":"22\/07\/1968",
     "type":"Sporting",
     "status":"Active",
+    "team":"Sporting",
+    "name":"David Simms",
+    "shirtno":""
+  },
+  {
+    "id":64000680,
+    "dateofbirth":"22\/07\/1968",
+    "type":"Sporting",
+    "status":"No Refund",
     "team":"Sporting",
     "name":"David Simms",
     "shirtno":""
@@ -1116,6 +1476,15 @@
     "shirtno":""
   },
   {
+    "id":12087177,
+    "dateofbirth":"28\/08\/1969",
+    "type":"Pulteney Crabs",
+    "status":"Refund",
+    "team":"Pulteney Crabs",
+    "name":"Andrew Judson",
+    "shirtno":""
+  },
+  {
     "id":12087157,
     "dateofbirth":"18\/03\/1988",
     "type":"Pulteney",
@@ -1374,6 +1743,15 @@
     "status":"Active",
     "team":"Pulteney Crabs",
     "name":"Nicholas Muirhead",
+    "shirtno":""
+  },
+  {
+    "id":74471657,
+    "dateofbirth":"27\/07\/1966",
+    "type":"Cove Masters FC",
+    "status":"Refund",
+    "team":"Cove Masters",
+    "name":"Graham Kearnan",
     "shirtno":""
   },
   {
@@ -1638,12 +2016,66 @@
     "shirtno":""
   },
   {
+    "id":81379190,
+    "dateofbirth":"20\/05\/1984",
+    "type":"Cove Masters FC",
+    "status":"Refund",
+    "team":"Cove Masters",
+    "name":"Thomas Brennan",
+    "shirtno":""
+  },
+  {
+    "id":74471657,
+    "dateofbirth":"27\/07\/1966",
+    "type":"Cove FC",
+    "status":"Refund",
+    "team":"Cove Masters",
+    "name":"Graham Kearnan",
+    "shirtno":""
+  },
+  {
+    "id":10070971,
+    "dateofbirth":"11\/06\/1980",
+    "type":"Cove Masters FC",
+    "status":"Refund",
+    "team":"Cove Masters",
+    "name":"Adrian Yarzabal",
+    "shirtno":""
+  },
+  {
+    "id":10956590,
+    "dateofbirth":"05\/08\/1964",
+    "type":"Cove Masters FC",
+    "status":"Refund",
+    "team":"Cove Masters",
+    "name":"Peter Batts",
+    "shirtno":""
+  },
+  {
+    "id":11514317,
+    "dateofbirth":"12\/12\/1984",
+    "type":"Cove Masters FC",
+    "status":"Refund",
+    "team":"Cove Masters",
+    "name":"Ryan Skivington",
+    "shirtno":""
+  },
+  {
     "id":10671600,
     "dateofbirth":"16\/11\/1974",
     "type":"Southern Sharks",
     "status":"Active",
     "team":"Southern Sharks",
     "name":"Matthew Turtle",
+    "shirtno":""
+  },
+  {
+    "id":10575287,
+    "dateofbirth":"26\/05\/1959",
+    "type":"Cove Masters FC",
+    "status":"Refund",
+    "team":"Cove Masters",
+    "name":"Robert Arnold",
     "shirtno":""
   },
   {
@@ -1706,6 +2138,15 @@
     "type":"Adelaide Spurs",
     "status":"Active",
     "team":"Adelaide Spurs",
+    "name":"Gary Pike",
+    "shirtno":""
+  },
+  {
+    "id":77651362,
+    "dateofbirth":"02\/01\/1969",
+    "type":"Southern Sharks",
+    "status":"No Refund",
+    "team":"Southern Sharks",
     "name":"Gary Pike",
     "shirtno":""
   },
