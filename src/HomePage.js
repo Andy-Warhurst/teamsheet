@@ -23,7 +23,7 @@ const HomePage = (props) => {
   console.log("Props: ", props);
 
   const initialState = {
-    round: "1",
+    round: "3",
     // team: "Adelaide Spurs",
     team: Teams[props.teamId-1].name,
     selected: [],
@@ -56,8 +56,8 @@ const HomePage = (props) => {
           </Col>
         </Row> */}
         <Row>
-          <Col md={3}>
-            <Jumbotron>
+          <Col md={3} >
+            <Jumbotron style={{padding: 4}}>
               <Selector
                 round={round}
                 team={team}

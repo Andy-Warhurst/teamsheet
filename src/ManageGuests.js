@@ -40,10 +40,12 @@ const ManageGuests = ({ team, guests, dispatch }) => {
           aria-label="Guest's Name"
           aria-describedby="basic-addon2"
           id="guestname"
+          style={{fontSize: 12}}
         />
         <InputGroup.Append>
           <Button
             variant="primary"
+            style={{fontSize: 12}}
             // eslint-disable-next-line no-undef
             onClick={() => addGuest(guestname.value)}
           >

@@ -65,17 +65,17 @@ const Login= (props) => {
                       </Col>
                   </Form.Group>
               </Form>
-              <p><i>Version 1.5.2 (04/04/24)</i></p>
+              <p><i>Version 1.5.4 (16/04/24)</i></p>
           </Jumbotron>
 
-              {/*<button id="fetch-btn">Fetch</button>*/}
-              <p id="buttonresponse">Response Placeholder</p>
-              {/*<button onClick="getElementById('response-output').innerHTML = Date()">What is the time?</button>*/}
-          <button
-              id="my-button"
-              onClick={() => { this.getElementById("my-button").inlineHTML = "blue";}}>
-              Button
-          </button>
+          {/*    /!*<button id="fetch-btn">Fetch</button>*!/*/}
+          {/*    <p id="buttonresponse">Response Placeholder</p>*/}
+          {/*    /!*<button onClick="getElementById('response-output').innerHTML = Date()">What is the time?</button>*!/*/}
+          {/*<button*/}
+          {/*    id="my-button"*/}
+          {/*    onClick={() => { this.getElementById("my-button").inlineHTML = "blue";}}>*/}
+          {/*    Button*/}
+          {/*</button>*/}
 
       </div>
   );
