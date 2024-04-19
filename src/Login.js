@@ -65,7 +65,7 @@ const Login= (props) => {
                       </Col>
                   </Form.Group>
               </Form>
-              <p><i>Version 1.5.4 (16/04/24)</i></p>
+              <p><i>Version 1.5.5 (19/04/24)</i></p>
           </Jumbotron>
 
           {/*    /!*<button id="fetch-btn">Fetch</button>*!/*/}

@@ -6,7 +6,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import FormControl from "react-bootstrap/FormControl";
 
-const Rounds = [1,2,3,4];
+const Rounds = [1,2,3,4,5,6,7,8];
 
 const Selector = ({round, team, guests, selected, dispatch}) => {
 
@@ -79,7 +79,7 @@ const Selector = ({round, team, guests, selected, dispatch}) => {
             <Row style={{fontSize: 14}}>
               <Col md={{ span: 9}}><Form.Check  id={"playing".concat(p.id)} label={p.name}
                     onClick={() => updateSelected(p)}/> </Col>
-              <Col md={{ span: 3}}><FormControl style={{fontSize: 12}} id={"shirtnumber".concat(p.id)}  name={"shirtnumber"} type="text"
+              <Col md={{ span: 3}}><FormControl style={{fontSize: 12, padding: 5}} id={"shirtnumber".concat(p.id)}  name={"shirtnumber"} type="text"
                      onChange={(e) => updateShirtNumber(p,e.target.value)}/></Col>
             </Row>
           ))
