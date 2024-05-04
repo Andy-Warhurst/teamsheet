@@ -1,11 +1,281 @@
 [
   {
-    "id":12138213,
-    "dateofbirth":"21\/09\/1984",
-    "type":"Pulteney",
+    "id":10954534,
+    "dateofbirth":"10\/10\/1985",
+    "type":"Southern Cross",
     "status":"Active",
-    "team":"Pulteney",
-    "name":"Mohsen Dorraki",
+    "team":"Southern Cross",
+    "name":"Bobby Sipaseutsak",
+    "shirtno":""
+  },
+  {
+    "id":10637657,
+    "dateofbirth":"26\/03\/1985",
+    "type":"Adelaide Spurs",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Adam Hooper",
+    "shirtno":""
+  },
+  {
+    "id":10160844,
+    "dateofbirth":"20\/06\/1967",
+    "type":"Adelaide Spurs",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Daniel Pfluger",
+    "shirtno":""
+  },
+  {
+    "id":11116758,
+    "dateofbirth":"29\/07\/1976",
+    "type":"Adelaide Spurs",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Kleber Bonfim",
+    "shirtno":""
+  },
+  {
+    "id":11706529,
+    "dateofbirth":"02\/06\/1985",
+    "type":"Adelaide Spurs",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Oleksii Nazarov",
+    "shirtno":""
+  },
+  {
+    "id":64007032,
+    "dateofbirth":"27\/10\/1977",
+    "type":"Sturt Fusion",
+    "status":"Active",
+    "team":"Sturt Fusion",
+    "name":"Scott Wylie",
+    "shirtno":""
+  },
+  {
+    "id":73811515,
+    "dateofbirth":"01\/02\/1981",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Mercedes",
+    "name":"Patrick Cummins",
+    "shirtno":""
+  },
+  {
+    "id":10957484,
+    "dateofbirth":"01\/01\/1985",
+    "type":"University Orange",
+    "status":"Active",
+    "team":"University Orange",
+    "name":"Iraj Dawaari",
+    "shirtno":""
+  },
+  {
+    "id":10615582,
+    "dateofbirth":"23\/12\/1976",
+    "type":"Croatia",
+    "status":"Active",
+    "team":"Croatia",
+    "name":"Marinko Soldic",
+    "shirtno":""
+  },
+  {
+    "id":80860026,
+    "dateofbirth":"02\/11\/1977",
+    "type":"Adelaide Spurs",
+    "status":"Active",
+    "team":"Adelaide Spurs",
+    "name":"Robert Jovanovic",
+    "shirtno":""
+  },
+  {
+    "id":10097880,
+    "dateofbirth":"24\/11\/1973",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Sturt Fusion",
+    "name":"Mark Sayers",
+    "shirtno":""
+  },
+  {
+    "id":12144820,
+    "dateofbirth":"19\/01\/1988",
+    "type":"Southern Cross",
+    "status":"Active",
+    "team":"Southern Cross",
+    "name":"James Meegan",
+    "shirtno":""
+  },
+  {
+    "id":73784894,
+    "dateofbirth":"28\/12\/1965",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Pultney Old Scolars Already CSL or SAASL Registere",
+    "name":"Jamie Wilson",
+    "shirtno":""
+  },
+  {
+    "id":65612111,
+    "dateofbirth":"25\/07\/1968",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Sean Reilly",
+    "shirtno":""
+  },
+  {
+    "id":11496426,
+    "dateofbirth":"04\/04\/1976",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Corneliu Aghiana",
+    "shirtno":""
+  },
+  {
+    "id":11703056,
+    "dateofbirth":"19\/07\/1987",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Jamie Fox",
+    "shirtno":""
+  },
+  {
+    "id":11703056,
+    "dateofbirth":"19\/07\/1987",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Jamie Fox",
+    "shirtno":""
+  },
+  {
+    "id":83881987,
+    "dateofbirth":"03\/10\/1975",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Richard Stanley",
+    "shirtno":""
+  },
+  {
+    "id":10102695,
+    "dateofbirth":"09\/04\/1972",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Andrew Marshall",
+    "shirtno":""
+  },
+  {
+    "id":10099365,
+    "dateofbirth":"06\/03\/1973",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Jim Hadjandonis",
+    "shirtno":""
+  },
+  {
+    "id":83896043,
+    "dateofbirth":"04\/03\/1981",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Leroy Mahony",
+    "shirtno":""
+  },
+  {
+    "id":83556951,
+    "dateofbirth":"27\/08\/1970",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Christopher Nugent",
+    "shirtno":""
+  },
+  {
+    "id":77909927,
+    "dateofbirth":"27\/12\/1974",
+    "type":"Shared",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Christopher Bell",
+    "shirtno":""
+  },
+  {
+    "id":50825116,
+    "dateofbirth":"28\/11\/1974",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Samuel Bowden",
+    "shirtno":""
+  },
+  {
+    "id":11588462,
+    "dateofbirth":"04\/11\/1981",
+    "type":"Croatia",
+    "status":"Active",
+    "team":"Croatia",
+    "name":"Justin Bralic",
+    "shirtno":""
+  },
+  {
+    "id":78514353,
+    "dateofbirth":"19\/01\/1984",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Duncan Beard",
+    "shirtno":""
+  },
+  {
+    "id":10259624,
+    "dateofbirth":"16\/09\/1981",
+    "type":"Southern Sharks",
+    "status":"Active",
+    "team":"Southern Sharks",
+    "name":"Jamie Weston",
+    "shirtno":""
+  },
+  {
+    "id":10586271,
+    "dateofbirth":"11\/04\/1960",
+    "type":"Sturt Marion Legends",
+    "status":"Active",
+    "team":"Sturt Marion OB",
+    "name":"Robin Goldfinch",
+    "shirtno":""
+  },
+  {
+    "id":74609678,
+    "dateofbirth":"10\/10\/1979",
+    "type":"University Orange",
+    "status":"Active",
+    "team":"University Orange",
+    "name":"Willem Metzer",
+    "shirtno":""
+  },
+  {
+    "id":12110272,
+    "dateofbirth":"13\/10\/1978",
+    "type":"Plympton FC",
+    "status":"Active",
+    "team":"Plympton FC",
+    "name":"William Raven",
+    "shirtno":""
+  },
+  {
+    "id":10711810,
+    "dateofbirth":"31\/03\/1985",
+    "type":"Shared",
+    "status":"Active",
+    "team":"University Old Boys",
+    "name":"Adam Saber",
     "shirtno":""
   },
   {
@@ -645,15 +915,6 @@
     "status":"Active",
     "team":"Sturt Fusion",
     "name":"Alec Rolston",
-    "shirtno":""
-  },
-  {
-    "id":10097880,
-    "dateofbirth":"24\/11\/1973",
-    "type":"Shared",
-    "status":"Active",
-    "team":"Sturt Marion OB",
-    "name":"Mark Sayers",
     "shirtno":""
   },
   {
